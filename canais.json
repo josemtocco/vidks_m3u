@@ -91,6 +91,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal TV Clássicos do Cinema",
+    "category": "Séries",
+    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Gospel Cartoon",
     "category": "Desenhos",
     "page": "https://www.vidks.net/vid/gospel-cartoon.ks",
@@ -161,6 +168,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal Reviva TV",
+    "category": "Séries",
+    "page": "https://www.vidks.net/vid/reviva-tv.ks",
+    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Tela Brasil TV",
     "category": "Séries",
     "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
@@ -200,13 +214,6 @@
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/ge-tv.ks",
     "stream": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal TV Arapuan",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-arapuan.ks",
-    "stream": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -371,13 +378,6 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal TV NBN",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tvnbn.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal TV Nova Juarez",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-nova-juarez.ks",
@@ -396,13 +396,6 @@
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/auge-esportes.ks",
     "stream": "https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal Unique Sports",
-    "category": "Esportes",
-    "page": "https://www.vidks.net/vid/unique-sports.ks",
-    "stream": "https://pop.uniquetv.com.br/uniquesports1/video.m3u8",
     "status": "ativo"
   },
   {
@@ -427,6 +420,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal TV Cidade Bahia",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-cidade-bahia.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal UniTV",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/unitv.ks",
@@ -438,13 +438,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal TV Cidade Bahia",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-cidade-bahia.ks",
-    "stream": "https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -462,17 +455,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal TV Cidade",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-cidade.ks",
-    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal 7 TVs",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/7-tvs.ks",
     "stream": "https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal TV Cidade",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-cidade.ks",
+    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -508,13 +501,6 @@
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/poa-news.ks",
     "stream": "https://srv2.tvmais.net.br/hls/tvlitoral/index.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal Reisen Clube TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/reisen-clube-tv.ks",
-    "stream": "https://pop.uniquetv.com.br/reisenclubetv/index.fmp4.m3u8",
     "status": "ativo"
   },
   {
@@ -599,13 +585,6 @@
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/plena-tv.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal TV Candidés",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-candides.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
     "status": "ativo"
   },
   {
@@ -987,17 +966,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal Pet Lovers TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/pet-lovers-tv.ks",
-    "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal Curta!",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/curta.ks",
     "stream": "https://video05.logicahost.com.br/curta03/curta03/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal Pet Lovers TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/pet-lovers-tv.ks",
+    "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1019,13 +998,6 @@
     "category": "Notícias",
     "page": "https://www.vidks.net/vid/tv-noticias-agricolas.ks",
     "stream": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal TV Metrópole",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/tv-metropole.ks",
-    "stream": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1054,6 +1026,13 @@
     "category": "Educação",
     "page": "https://www.vidks.net/vid/tv-cultura.ks",
     "stream": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal TV Brasil Oeste",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
+    "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1106,17 +1085,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal TV Centro Sul",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-centro-sul.ks",
-    "stream": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal Rede Minas",
     "category": "Educação",
     "page": "https://www.vidks.net/vid/rede-minas.ks",
     "stream": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal TV Centro Sul",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-centro-sul.ks",
+    "stream": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1281,6 +1260,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal TV Pai Eterno",
+    "category": "Religiosos",
+    "page": "https://www.vidks.net/vid/tv-pai-eterno.ks",
+    "stream": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal TV Alagonet",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-alogonet.ks",
@@ -1400,13 +1386,6 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal TV Gru Web",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-guarulhos-web.ks",
-    "stream": "https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal TV Grande Natal",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-grande-natal.ks",
@@ -1414,17 +1393,17 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal TV Gru Web",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-guarulhos-web.ks",
+    "stream": "https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Vambora Channel",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/vambora-channel.ks",
     "stream": "https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal Unique TV",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/unique-tv.ks",
-    "stream": "https://pop.uniquetv.com.br/uniquetv/index.fmp4.m3u8",
     "status": "ativo"
   },
   {
