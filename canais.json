@@ -21,6 +21,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal SBT Interior",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Band",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -161,6 +168,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal Reviva TV",
+    "category": "Séries",
+    "page": "https://www.vidks.net/vid/reviva-tv.ks",
+    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Tela Brasil TV",
     "category": "Séries",
     "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
@@ -234,7 +248,7 @@
     "name": "Logo canal Record TV Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
-    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u",
+    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8",
     "status": "ativo"
   },
   {
@@ -350,6 +364,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal TV Guará",
+    "category": "Notícias",
+    "page": "https://www.vidks.net/vid/tv-guara.ks",
+    "stream": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal BS TV",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/bs-tv-online.ks",
@@ -378,17 +399,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal ISTV",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/istv.ks",
-    "stream": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal Auge Esportes",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/auge-esportes.ks",
     "stream": "https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal ISTV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/istv.ks",
+    "stream": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -553,17 +574,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal TVídeoNews",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tvideonews.ks",
-    "stream": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal TV Correio do Amanhã",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-correio-do-amanha.ks",
     "stream": "https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal TVídeoNews",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tvideonews.ks",
+    "stream": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -770,6 +791,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal TV Osório News",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-osorio-news.ks",
+    "stream": "https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal TV do Carro",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-do-carro.ks",
@@ -917,17 +945,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal Alternativa WebTV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/alternativa-tv-ivai.ks",
-    "stream": "https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal N Sports",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/n-sports.ks",
     "stream": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal Alternativa WebTV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/alternativa-tv-ivai.ks",
+    "stream": "https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -966,17 +994,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal Curta!",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/curta.ks",
-    "stream": "https://video05.logicahost.com.br/curta03/curta03/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal Pet Lovers TV",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/pet-lovers-tv.ks",
     "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal Curta!",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/curta.ks",
+    "stream": "https://video05.logicahost.com.br/curta03/curta03/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1085,6 +1113,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal NToons Brasil",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
+    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Rede Minas",
     "category": "Educação",
     "page": "https://www.vidks.net/vid/rede-minas.ks",
@@ -1096,13 +1131,6 @@
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-centro-sul.ks",
     "stream": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal NToons Brasil",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
-    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1138,6 +1166,13 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-galega.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal Ypê TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/ype-tv.ks",
+    "stream": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1316,17 +1351,17 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal TV Life América",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-life-america.ks",
-    "stream": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal TV das Artes",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-das-artes.ks",
     "stream": "https://stmv7.samcast.com.br/luca8510/luca8510/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Logo canal TV Life América",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-life-america.ks",
+    "stream": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
     "status": "ativo"
   },
   {

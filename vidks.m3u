@@ -87,6 +87,8 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal Record News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Logo canal Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-name="Logo canal TV Guará" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Logo canal TV Guará
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Notícias Agrícolas" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Logo canal TV Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TVL News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Logo canal TVL News
@@ -113,6 +115,8 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Vitória PE" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",Logo canal TV Vitória PE
 https://5c483b9d1019c.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:-1 tvg-name="Logo canal Reviva TV" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",Logo canal Reviva TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal Tela Brasil TV" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",Logo canal Tela Brasil TV
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Channel Network" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",Logo canal TV Channel Network
@@ -132,13 +136,15 @@ https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-name="Logo canal Record TV Goiás" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal Record TV Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal Record TV Rio
-https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u
+https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 tvg-name="Logo canal Rede Família" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal Rede Família
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal RedeTV Mais" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal RedeTV Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal RedeTV! Paraná" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal RedeTV! Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-name="Logo canal SBT Interior" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal SBT Interior
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal SBT SP" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal SBT SP
 https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:-1 tvg-name="Logo canal SIC TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal SIC TV
@@ -383,6 +389,8 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Ondas Play" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal TV Ondas Play
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
+#EXTINF:-1 tvg-name="Logo canal TV Osório News" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal TV Osório News
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Pantanal MS" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal TV Pantanal MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Passo Fundo" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal TV Passo Fundo
@@ -409,3 +417,5 @@ https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07
 https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
 #EXTINF:-1 tvg-name="Logo canal WTV Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="Logo canal Ypê TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
