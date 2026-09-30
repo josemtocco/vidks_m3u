@@ -153,8 +153,6 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Amplitude Juína" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal TV Amplitude Juína
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-name="Logo canal TV Arapuan" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Aratu" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Logo canal TV Cidade
@@ -261,10 +259,10 @@ https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Alternativa" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Logo canal TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-name="Logo canal TV Brasil Oeste" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Logo canal TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Brusque" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Logo canal TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-name="Logo canal TV Candidés" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Logo canal TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Caravelas" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Logo canal TV Caravelas
 https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Logo canal TV Cidade
@@ -301,6 +299,8 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal Alternativa WebTV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal Alternativa WebTV
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
+#EXTINF:-1 tvg-name="Logo canal Auge TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal Auge TV
+https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal BS TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal BS TV
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-name="Logo canal Canal BS TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Logo canal Canal BS TV

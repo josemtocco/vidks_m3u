@@ -217,13 +217,6 @@
     "status": "ativo"
   },
   {
-    "name": "Logo canal TV Arapuan",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-arapuan.ks",
-    "stream": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Logo canal Esportes Brasília TV",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/esportes-df.ks",
@@ -602,6 +595,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal TV Candidés",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-candides.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Rede NGT",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/rede-ngt.ks",
@@ -896,6 +896,13 @@
     "status": "ativo"
   },
   {
+    "name": "Logo canal Auge TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/auge-tv.ks",
+    "stream": "https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Logo canal Nova Era TV",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/netv.ks",
@@ -1047,13 +1054,6 @@
     "category": "Educação",
     "page": "https://www.vidks.net/vid/tv-cultura.ks",
     "stream": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Logo canal TV Brasil Oeste",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
-    "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
     "status": "ativo"
   },
   {

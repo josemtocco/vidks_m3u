@@ -52,6 +52,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-arapuan.ks",
+      "name": "Logo canal TV Arapuan",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/qtal-channel.ks",
       "name": "Logo canal QTal? Channel",
       "erro": "nenhum_stream_aprovado"
@@ -197,11 +202,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-candides.ks",
-      "name": "Logo canal TV Candidés",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-novelas.ks",
       "name": "Logo canal Rede Novelas",
       "erro": "nenhum_stream_aprovado"
@@ -312,11 +312,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/auge-tv.ks",
-      "name": "Logo canal Auge TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-sul-de-minas.ks",
       "name": "Logo canal TV Sul de Minas",
       "erro": "nenhum_stream_aprovado"
@@ -364,6 +359,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-rbc.ks",
       "name": "Logo canal TV RBC",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
+      "name": "Logo canal TV Brasil Oeste",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -852,13 +852,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-floresta.ks",
-      "name": "Logo canal TV Floresta",
+      "page": "https://www.vidks.net/vid/tv-manchete-web.ks",
+      "name": "Logo canal TV Manchete Web",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-manchete-web.ks",
-      "name": "Logo canal TV Manchete Web",
+      "page": "https://www.vidks.net/vid/tv-floresta.ks",
+      "name": "Logo canal TV Floresta",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1252,6 +1252,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/webtv-santuario.ks",
+      "name": "Logo canal WebTV Santuário",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/rede-cultura-do-para.ks",
       "name": "Logo canal Rede Cultura do Pará",
       "erro": "nenhum_stream_aprovado"
@@ -1259,11 +1264,6 @@
     {
       "page": "https://www.vidks.net/vid/nova-canal-franca.ks",
       "name": "Logo canal Nova Canal 26",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/webtv-santuario.ks",
-      "name": "Logo canal WebTV Santuário",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1417,13 +1417,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/alltv.ks",
-      "name": "Logo canal allTV",
+      "page": "https://www.vidks.net/vid/genesis-hd-tv.ks",
+      "name": "Logo canal Gênesis HD TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/genesis-hd-tv.ks",
-      "name": "Logo canal Gênesis HD TV",
+      "page": "https://www.vidks.net/vid/alltv.ks",
+      "name": "Logo canal allTV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1437,13 +1437,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-cruzeiro-online.ks",
-      "name": "Logo canal TV Cruzeiro Online",
+      "page": "https://www.vidks.net/vid/tv-ceasa.ks",
+      "name": "Logo canal TV Ceasa",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-ceasa.ks",
-      "name": "Logo canal TV Ceasa",
+      "page": "https://www.vidks.net/vid/tv-cruzeiro-online.ks",
+      "name": "Logo canal TV Cruzeiro Online",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1502,6 +1502,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/oesc-tv.ks",
+      "name": "Logo canal OESC TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/excelsior-tv.ks",
       "name": "Logo canal Excelsior TV",
       "erro": "nenhum_stream_aprovado"
@@ -1509,11 +1514,6 @@
     {
       "page": "https://www.vidks.net/vid/canal-8.ks",
       "name": "Logo canal Canal Oito",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/oesc-tv.ks",
-      "name": "Logo canal OESC TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1567,6 +1567,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-canal-10-foz.ks",
+      "name": "Logo canal Canal 10 Foz do Iguaçu",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-ibms.ks",
       "name": "Logo canal TV IBMS",
       "erro": "nenhum_stream_aprovado"
@@ -1582,18 +1587,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-canal-10-foz.ks",
-      "name": "Logo canal Canal 10 Foz do Iguaçu",
+      "page": "https://www.vidks.net/vid/tv-jornal-observatorio.ks",
+      "name": "Logo canal TV Jornal Observatório",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/futura.ks",
       "name": "Logo canal Futura",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-jornal-observatorio.ks",
-      "name": "Logo canal TV Jornal Observatório",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1607,13 +1607,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-crucilandia.ks",
-      "name": "Logo canal TV Crucilândia",
+      "page": "https://www.vidks.net/vid/tv-mar-rio-grande.ks",
+      "name": "Logo canal TV Mar Rio Grande",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-mar-rio-grande.ks",
-      "name": "Logo canal TV Mar Rio Grande",
+      "page": "https://www.vidks.net/vid/tv-crucilandia.ks",
+      "name": "Logo canal TV Crucilândia",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1632,13 +1632,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-folha-do-vale.ks",
-      "name": "Logo canal TV Folha do Vale",
+      "page": "https://www.vidks.net/vid/webtv-tga.ks",
+      "name": "Logo canal WebTV TGA",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-tga.ks",
-      "name": "Logo canal WebTV TGA",
+      "page": "https://www.vidks.net/vid/tv-folha-do-vale.ks",
+      "name": "Logo canal TV Folha do Vale",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1652,13 +1652,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-mais-itapolis.ks",
-      "name": "Logo canal TV Mais Itápolis",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-brasil-2.ks",
-      "name": "Logo canal TV Brasil 2",
+      "page": "https://www.vidks.net/vid/sul-tv.ks",
+      "name": "Logo canal Sul TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1667,13 +1662,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/uni-tv-buritama.ks",
-      "name": "Logo canal UNI TV Buritama",
+      "page": "https://www.vidks.net/vid/tv-brasil-2.ks",
+      "name": "Logo canal TV Brasil 2",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/sul-tv.ks",
-      "name": "Logo canal Sul TV",
+      "page": "https://www.vidks.net/vid/tv-mais-itapolis.ks",
+      "name": "Logo canal TV Mais Itápolis",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/uni-tv-buritama.ks",
+      "name": "Logo canal UNI TV Buritama",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1682,13 +1682,23 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-ufg.ks",
+      "name": "Logo canal TV UFG",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/antv.ks",
+      "name": "Logo canal TV Andradas",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/rs-tv-sul.ks",
       "name": "Logo canal RS TV Sul",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/rede-litoral-news.ks",
-      "name": "Logo canal Rede Litoral News",
+      "page": "https://www.vidks.net/vid/tv-vale-das-artes.ks",
+      "name": "Logo canal TV Vale das Artes",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1702,18 +1712,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-nacional.ks",
-      "name": "Logo canal TV Nacional",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-opcao.ks",
       "name": "Logo canal TV Opção",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-vale-das-artes.ks",
-      "name": "Logo canal TV Vale das Artes",
+      "page": "https://www.vidks.net/vid/tv-nacional.ks",
+      "name": "Logo canal TV Nacional",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1722,13 +1727,38 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-ufg.ks",
-      "name": "Logo canal TV UFG",
+      "page": "https://www.vidks.net/vid/rede-litoral-news.ks",
+      "name": "Logo canal Rede Litoral News",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tvct.ks",
+      "name": "Logo canal TV Cidade Tiradentes",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-clic-brasil.ks",
+      "name": "Logo canal TV Clic Brasil",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/rede-h-tv.ks",
+      "name": "Logo canal Rede H TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/dhttv.ks",
       "name": "Logo canal DHTTV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/ni-webtv.ks",
+      "name": "Logo canal TV Nova Informativa",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-nortece.ks",
+      "name": "Logo canal WebTV Nortece",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1742,18 +1772,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-lider-do-vale.ks",
-      "name": "Logo canal TV Líder do Vale",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tvct.ks",
-      "name": "Logo canal TV Cidade Tiradentes",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/antv.ks",
-      "name": "Logo canal TV Andradas",
+      "page": "https://www.vidks.net/vid/utv-londrina.ks",
+      "name": "Logo canal Utv",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1767,48 +1787,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/ni-webtv.ks",
-      "name": "Logo canal TV Nova Informativa",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/utv-londrina.ks",
-      "name": "Logo canal Utv",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-petrvs.ks",
-      "name": "Logo canal TV Petrvs",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-clic-brasil.ks",
-      "name": "Logo canal TV Clic Brasil",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/power-television.ks",
-      "name": "Logo canal Power TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/newway-tv.ks",
-      "name": "Logo canal NewWay TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-baiana.ks",
-      "name": "Logo canal TV Baiana",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/webtv-adventista-carazinho.ks",
-      "name": "Logo canal TV Websul Carazinho",
+      "page": "https://www.vidks.net/vid/tv-lider-do-vale.ks",
+      "name": "Logo canal TV Líder do Vale",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/conecta-mais.ks",
       "name": "Logo canal Conecta Mais",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-serra-verde.ks",
+      "name": "Logo canal TV Serra Verde",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1822,58 +1812,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-serra-verde.ks",
-      "name": "Logo canal TV Serra Verde",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/webtv-nortece.ks",
-      "name": "Logo canal WebTV Nortece",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/amaral-tv.ks",
-      "name": "Logo canal Amaral TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-destak.ks",
       "name": "Logo canal TV Destak",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-capital-teresina.ks",
-      "name": "Logo canal TV Capital Teresina",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-ambiental.ks",
-      "name": "Logo canal TV Ambiental",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/rede-h-tv.ks",
-      "name": "Logo canal Rede H TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-guassu.ks",
-      "name": "Logo canal TV Guassu",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-uniao-natal.ks",
-      "name": "Logo canal TV União de Natal",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/rede-caxias-tv.ks",
-      "name": "Logo canal Rede Caxias TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/milk-tv.ks",
-      "name": "Logo canal Milk TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1882,8 +1822,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-sete-lagoas.ks",
-      "name": "Logo canal TV Sete Lagoas",
+      "page": "https://www.vidks.net/vid/tv-petrvs.ks",
+      "name": "Logo canal TV Petrvs",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/newway-tv.ks",
+      "name": "Logo canal NewWay TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1892,13 +1837,58 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/new-tv-radio.ks",
-      "name": "Logo canal New TV",
+      "page": "https://www.vidks.net/vid/tv-guassu.ks",
+      "name": "Logo canal TV Guassu",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-manduri.ks",
-      "name": "Logo canal TV Manduri",
+      "page": "https://www.vidks.net/vid/rede-caxias-tv.ks",
+      "name": "Logo canal Rede Caxias TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-sete-lagoas.ks",
+      "name": "Logo canal TV Sete Lagoas",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-capital-teresina.ks",
+      "name": "Logo canal TV Capital Teresina",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-uniao-natal.ks",
+      "name": "Logo canal TV União de Natal",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-ambiental.ks",
+      "name": "Logo canal TV Ambiental",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/power-television.ks",
+      "name": "Logo canal Power TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-baiana.ks",
+      "name": "Logo canal TV Baiana",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-adventista-carazinho.ks",
+      "name": "Logo canal TV Websul Carazinho",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/milk-tv.ks",
+      "name": "Logo canal Milk TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/amaral-tv.ks",
+      "name": "Logo canal Amaral TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1907,8 +1897,43 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-vila-velha.ks",
+      "name": "Logo canal TV Vila Velha",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/new-tv-radio.ks",
+      "name": "Logo canal New TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-faap.ks",
+      "name": "Logo canal TV Faap",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/sc-webtv.ks",
+      "name": "Logo canal SC WebTV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/3-via-tv.ks",
+      "name": "Logo canal Terceira Via TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/srtv-pb.ks",
+      "name": "Logo canal SRTV PB",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-aplateia.ks",
       "name": "Logo canal TV Aplateia",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-manduri.ks",
+      "name": "Logo canal TV Manduri",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1919,31 +1944,6 @@
     {
       "page": "https://www.vidks.net/vid/tvl.ks",
       "name": "Logo canal TV Liberdade",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/3-via-tv.ks",
-      "name": "Logo canal Terceira Via TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/sc-webtv.ks",
-      "name": "Logo canal SC WebTV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-faap.ks",
-      "name": "Logo canal TV Faap",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/srtv-pb.ks",
-      "name": "Logo canal SRTV PB",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-vila-velha.ks",
-      "name": "Logo canal TV Vila Velha",
       "erro": "nenhum_stream_aprovado"
     },
     {
