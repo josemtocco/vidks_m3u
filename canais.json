@@ -31,7 +31,7 @@
     "name": "Band",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u",
+    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8",
     "status": "ativo"
   },
   {
@@ -241,7 +241,7 @@
     "name": "Record TV Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
-    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8",
+    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u",
     "status": "ativo"
   },
   {
@@ -434,17 +434,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Amplitude Juína",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "UniTV",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/unitv.ks",
     "stream": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Amplitude Juína",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -462,17 +462,17 @@
     "status": "ativo"
   },
   {
-    "name": "7 TVs",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/7-tvs.ks",
-    "stream": "https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Cidade",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-cidade.ks",
     "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "7 TVs",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/7-tvs.ks",
+    "stream": "https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -592,13 +592,6 @@
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/plena-tv.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Candidés",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-candides.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
     "status": "ativo"
   },
   {
@@ -945,17 +938,17 @@
     "status": "ativo"
   },
   {
-    "name": "Alternativa WebTV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/alternativa-tv-ivai.ks",
-    "stream": "https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "CineBrasil TV",
     "category": "Filmes",
     "page": "https://www.vidks.net/vid/cinebrasil-tv.ks",
     "stream": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Alternativa WebTV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/alternativa-tv-ivai.ks",
+    "stream": "https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -987,17 +980,17 @@
     "status": "ativo"
   },
   {
-    "name": "Pet Lovers TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/pet-lovers-tv.ks",
-    "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Curta!",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/curta.ks",
     "stream": "https://video05.logicahost.com.br/curta03/curta03/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Pet Lovers TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/pet-lovers-tv.ks",
+    "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1092,17 +1085,17 @@
     "status": "ativo"
   },
   {
-    "name": "ConecTV",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/conectv.ks",
-    "stream": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "NToons Brasil",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
     "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "ConecTV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/conectv.ks",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
     "status": "ativo"
   },
   {
@@ -1407,17 +1400,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV A Folha",
-    "category": "Cultura",
-    "page": "https://www.vidks.net/vid/tva.ks",
-    "stream": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Grande Natal",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-grande-natal.ks",
     "stream": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV A Folha",
+    "category": "Cultura",
+    "page": "https://www.vidks.net/vid/tva.ks",
+    "stream": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
     "status": "ativo"
   },
   {
