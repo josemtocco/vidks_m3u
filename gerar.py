@@ -73,6 +73,15 @@ def extract_media(html, page_url):
     return result
 
 
+def clean_channel_name(name):
+    """Remove textos de interface/alt do VidKS que não fazem parte do nome."""
+    if not name:
+        return ''
+    name = ' '.join(str(name).split())
+    name = re.sub(r'^logo\s+canal\s*[:\-]?\s*', '', name, flags=re.I)
+    return name.strip()
+
+
 def fetch(url, timeout=25):
     try:
         r = session.get(url, timeout=timeout, allow_redirects=True)
@@ -99,11 +108,11 @@ def discover_channels():
             # VidKS channel pages use /vid/*.ks
             if not re.match(r'^https://www\.vidks\.net/vid/[^?#]+\.ks(?:[?#].*)?$', href):
                 continue
-            name = ' '.join(a.get_text(' ', strip=True).split())
+            name = clean_channel_name(a.get_text(' ', strip=True))
             if not name:
                 # Some templates put the name in an image alt/title.
                 img = a.find('img')
-                name = (img.get('alt') or img.get('title') or '').strip() if img else ''
+                name = clean_channel_name((img.get('alt') or img.get('title') or '').strip()) if img else ''
             if not name:
                 continue
             category = ''
