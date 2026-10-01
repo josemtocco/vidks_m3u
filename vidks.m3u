@@ -87,6 +87,8 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Guará
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Notícias Agrícolas" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-name="TVL News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TVL News
@@ -122,7 +124,7 @@ https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Clássicos do Cinema" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",TV Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-name="Band" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Band
-https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u
+https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1 tvg-name="Domi Kids" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Domi Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-name="Kuriakos Kids" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Kuriakos Kids
@@ -211,8 +213,6 @@ https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Pantanal" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Pantanal
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Plan" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Plan
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Rio Madeira" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-name="UniTV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",UniTV
@@ -259,12 +259,12 @@ https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="TV Aberta" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Aberta
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Alternativa" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil Oeste" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brusque" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Candidés" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Candidés
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV Caravelas" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Caravelas
 https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Cidade
@@ -287,6 +287,8 @@ https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Otimista" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Otimista
 https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Petrópolis" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Petrópolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sonata" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Sonata
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-name="Vambora Channel" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Vambora Channel
@@ -355,8 +357,6 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://video04.logicahost.com.br/tvavant/tvavant/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Clube Web" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-name="TV das Artes" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV das Artes
-https://stmv7.samcast.com.br/luca8510/luca8510/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Destaque Nacional" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Destaque Nacional
 https://5c483b9d1019c.streamlock.net/tvdestaquenacional/tvdestaquenacional/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Digital Birigui
@@ -381,8 +381,6 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Metropolitana Rio" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Metropolitana Rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 tvg-name="TV NBN" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Nova Juarez" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Ondas Play" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Ondas Play

@@ -38,7 +38,7 @@
     "name": "Band",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u",
+    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8",
     "status": "ativo"
   },
   {
@@ -371,6 +371,13 @@
     "status": "ativo"
   },
   {
+    "name": "TV Guará",
+    "category": "Notícias",
+    "page": "https://www.vidks.net/vid/tv-guara.ks",
+    "stream": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "BS TV",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/bs-tv-online.ks",
@@ -389,13 +396,6 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-nova-juarez.ks",
     "stream": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV NBN",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tvnbn.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -602,13 +602,6 @@
     "status": "ativo"
   },
   {
-    "name": "TV Candidés",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-candides.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Rede NGT",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/rede-ngt.ks",
@@ -634,6 +627,13 @@
     "category": "Notícias",
     "page": "https://www.vidks.net/vid/giro-tv-news.ks",
     "stream": "https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Alternativa",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-alternativa.ks",
+    "stream": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1113,17 +1113,17 @@
     "status": "ativo"
   },
   {
-    "name": "Rede Minas",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/rede-minas.ks",
-    "stream": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Centro Sul",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-centro-sul.ks",
     "stream": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Rede Minas",
+    "category": "Educação",
+    "page": "https://www.vidks.net/vid/rede-minas.ks",
+    "stream": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1323,17 +1323,17 @@
     "status": "ativo"
   },
   {
+    "name": "TV Petrópolis",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-petropolis.ks",
+    "stream": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "TV Brusque",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/tv-brusque.ks",
     "stream": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Pop TV",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/pop-tv.ks",
-    "stream": "https://rtisoluctions.com.br/hls/test.m3u8",
     "status": "ativo"
   },
   {
@@ -1344,10 +1344,10 @@
     "status": "ativo"
   },
   {
-    "name": "TV das Artes",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-das-artes.ks",
-    "stream": "https://stmv7.samcast.com.br/luca8510/luca8510/playlist.m3u8",
+    "name": "Pop TV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/pop-tv.ks",
+    "stream": "https://rtisoluctions.com.br/hls/test.m3u8",
     "status": "ativo"
   },
   {
@@ -1404,13 +1404,6 @@
     "category": "Cultura",
     "page": "https://www.vidks.net/vid/tva.ks",
     "stream": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Plan",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-plan.ks",
-    "stream": "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8",
     "status": "ativo"
   },
   {
