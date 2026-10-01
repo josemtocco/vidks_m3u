@@ -38,7 +38,7 @@
     "name": "Band",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8",
+    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u",
     "status": "ativo"
   },
   {
@@ -224,6 +224,13 @@
     "status": "ativo"
   },
   {
+    "name": "TV Arapuan",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-arapuan.ks",
+    "stream": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Esportes Brasília TV",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/esportes-df.ks",
@@ -361,13 +368,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-pampa.ks",
     "stream": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Guará",
-    "category": "Notícias",
-    "page": "https://www.vidks.net/vid/tv-guara.ks",
-    "stream": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -539,17 +539,17 @@
     "status": "ativo"
   },
   {
-    "name": "Caravelas TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/webtv-caravelas.ks",
-    "stream": "https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Aratu",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-aratu.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Caravelas TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/webtv-caravelas.ks",
+    "stream": "https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -602,6 +602,13 @@
     "status": "ativo"
   },
   {
+    "name": "TV Candidés",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-candides.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Rede NGT",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/rede-ngt.ks",
@@ -627,13 +634,6 @@
     "category": "Notícias",
     "page": "https://www.vidks.net/vid/giro-tv-news.ks",
     "stream": "https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Alternativa",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-alternativa.ks",
-    "stream": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -746,6 +746,13 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-mais-brasil.ks",
     "stream": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TVE",
+    "category": "Educação",
+    "page": "https://www.vidks.net/vid/tve-rs.ks",
+    "stream": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -924,17 +931,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Mais Pet",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-mais-pet.ks",
-    "stream": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "CineBrasil TV",
     "category": "Filmes",
     "page": "https://www.vidks.net/vid/cinebrasil-tv.ks",
     "stream": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Mais Pet",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-mais-pet.ks",
+    "stream": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1183,6 +1190,13 @@
     "status": "ativo"
   },
   {
+    "name": "Rede Super",
+    "category": "Religiosos",
+    "page": "https://www.vidks.net/vid/rede-super.ks",
+    "stream": "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "TV Digital Birigui",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-digital-birigui.ks",
@@ -1306,13 +1320,6 @@
     "category": "Educação",
     "page": "https://www.vidks.net/vid/tbc.ks",
     "stream": "https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Petrópolis",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-petropolis.ks",
-    "stream": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
     "status": "ativo"
   },
   {

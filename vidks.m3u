@@ -35,6 +35,8 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Poços" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TV Poços
 https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
+#EXTINF:-1 tvg-name="TVE" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TVE
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Auge Esportes" tvg-country="BR" tvg-language="Portuguese" group-title="Esportes",Auge Esportes
 https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal GOAT" tvg-country="BR" tvg-language="Portuguese" group-title="Esportes",Canal GOAT
@@ -85,8 +87,6 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Guará
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Notícias Agrícolas" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-name="TVL News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TVL News
@@ -99,6 +99,8 @@ https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/playlist.m3u
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-name="Rede Luz para Vida" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",Rede Luz para Vida
 https://stmv1.samcast.com.br/redeluzparavida/redeluzparavida/playlist.m3u8
+#EXTINF:-1 tvg-name="Rede Super" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-name="TV Evangelizar" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",TV Evangelizar
@@ -120,7 +122,7 @@ https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Clássicos do Cinema" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",TV Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-name="Band" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Band
-https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
+https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u
 #EXTINF:-1 tvg-name="Domi Kids" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Domi Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-name="Kuriakos Kids" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Kuriakos Kids
@@ -149,6 +151,8 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-name="TV Amplitude Juína" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Amplitude Juína
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Aratu" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Cidade
@@ -255,12 +259,12 @@ https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="TV Aberta" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Aberta
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Alternativa" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Alternativa
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil Oeste" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brusque" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Candidés" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV Caravelas" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Caravelas
 https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Cidade
@@ -283,8 +287,6 @@ https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Otimista" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Otimista
 https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Petrópolis" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Petrópolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sonata" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Sonata
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-name="Vambora Channel" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Vambora Channel
