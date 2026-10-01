@@ -21,6 +21,13 @@
     "status": "ativo"
   },
   {
+    "name": "Rede Brasil",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/rbtv.ks",
+    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "SBT Interior",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
@@ -241,7 +248,7 @@
     "name": "Record TV Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
-    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u",
+    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8",
     "status": "ativo"
   },
   {
@@ -378,17 +385,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV NBN",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tvnbn.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Nova Juarez",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-nova-juarez.ks",
     "stream": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV NBN",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tvnbn.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -434,17 +441,17 @@
     "status": "ativo"
   },
   {
-    "name": "UniTV",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/unitv.ks",
-    "stream": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Amplitude Juína",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "UniTV",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/unitv.ks",
+    "stream": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8",
     "status": "ativo"
   },
   {
@@ -462,17 +469,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Cidade",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-cidade.ks",
-    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "7 TVs",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/7-tvs.ks",
     "stream": "https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Cidade",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-cidade.ks",
+    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -742,13 +749,6 @@
     "status": "ativo"
   },
   {
-    "name": "TVE",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/tve-rs.ks",
-    "stream": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Canal Notícias do Araguaia",
     "category": "Notícias",
     "page": "https://www.vidks.net/vid/cna.ks",
@@ -774,13 +774,6 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-mais-marica.ks",
     "stream": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Osório News",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-osorio-news.ks",
-    "stream": "https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -812,6 +805,13 @@
     "status": "ativo"
   },
   {
+    "name": "Canal GOAT",
+    "category": "Esportes",
+    "page": "https://www.vidks.net/vid/canal-goat.ks",
+    "stream": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Rede Gospel",
     "category": "Religiosos",
     "page": "https://www.vidks.net/vid/rede-gospel.ks",
@@ -823,13 +823,6 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-destaque-nacional.ks",
     "stream": "https://5c483b9d1019c.streamlock.net/tvdestaquenacional/tvdestaquenacional/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Canal GOAT",
-    "category": "Esportes",
-    "page": "https://www.vidks.net/vid/canal-goat.ks",
-    "stream": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
     "status": "ativo"
   },
   {
@@ -1071,6 +1064,13 @@
     "status": "ativo"
   },
   {
+    "name": "NToons Brasil",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
+    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Rede Mundo TV",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/rede-mundo-tv.ks",
@@ -1082,13 +1082,6 @@
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/araruna-tv.ks",
     "stream": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "NToons Brasil",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
-    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1187,13 +1180,6 @@
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/o-fato-maringa.ks",
     "stream": "https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Rede Super",
-    "category": "Religiosos",
-    "page": "https://www.vidks.net/vid/rede-super.ks",
-    "stream": "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1344,6 +1330,13 @@
     "status": "ativo"
   },
   {
+    "name": "+MaisUM",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/maisum.ks",
+    "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "TV das Artes",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-das-artes.ks",
@@ -1355,13 +1348,6 @@
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/tv-life-america.ks",
     "stream": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "+MaisUM",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/maisum.ks",
-    "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "status": "ativo"
   },
   {
