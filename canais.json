@@ -399,6 +399,13 @@
     "status": "ativo"
   },
   {
+    "name": "TV NBN",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tvnbn.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Auge Esportes",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/auge-esportes.ks",
@@ -445,13 +452,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "UniTV",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/unitv.ks",
-    "stream": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8",
     "status": "ativo"
   },
   {
@@ -693,13 +693,6 @@
     "status": "ativo"
   },
   {
-    "name": "SIC TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/sic-tv.ks",
-    "stream": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Metropolitana Rio",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-metropolitana-rio.ks",
@@ -746,13 +739,6 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-mais-brasil.ks",
     "stream": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TVE",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/tve-rs.ks",
-    "stream": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -889,13 +875,6 @@
     "status": "ativo"
   },
   {
-    "name": "Auge TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/auge-tv.ks",
-    "stream": "https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Nova Era TV",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/netv.ks",
@@ -994,17 +973,17 @@
     "status": "ativo"
   },
   {
-    "name": "Tastemade Brasil",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tastemade-brasil.ks",
-    "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Rio Madeira",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-rio-madeira.ks",
     "stream": "https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Tastemade Brasil",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tastemade-brasil.ks",
+    "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1218,17 +1197,17 @@
     "status": "ativo"
   },
   {
-    "name": "Guia TV",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/guia-tv.ks",
-    "stream": "https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Camaragibe Agora",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-camaragibe-agora.ks",
     "stream": "https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Guia TV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/guia-tv.ks",
+    "stream": "https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1316,10 +1295,10 @@
     "status": "ativo"
   },
   {
-    "name": "TV Brasil Central",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/tbc.ks",
-    "stream": "https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8",
+    "name": "+MaisUM",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/maisum.ks",
+    "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "status": "ativo"
   },
   {
@@ -1334,13 +1313,6 @@
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/tv-brusque.ks",
     "stream": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "+MaisUM",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/maisum.ks",
-    "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "status": "ativo"
   },
   {

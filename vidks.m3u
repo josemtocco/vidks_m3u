@@ -25,8 +25,6 @@ https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Beltrão" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TV Beltrão
 https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Brasil Central" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TV Brasil Central
-https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil Esperança" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TV Brasil Esperança
 https://stmv1.samcast.com.br/junior5083/junior5083/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cultura" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TV Cultura
@@ -35,8 +33,6 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Poços" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TV Poços
 https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
-#EXTINF:-1 tvg-name="TVE" tvg-country="BR" tvg-language="Portuguese" group-title="Educação",TVE
-https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Auge Esportes" tvg-country="BR" tvg-language="Portuguese" group-title="Esportes",Auge Esportes
 https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal GOAT" tvg-country="BR" tvg-language="Portuguese" group-title="Esportes",Canal GOAT
@@ -149,8 +145,6 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT SP" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",SBT SP
 https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
-#EXTINF:-1 tvg-name="SIC TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",SIC TV
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-name="TV Amplitude Juína" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Amplitude Juína
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Arapuan
@@ -215,8 +209,6 @@ https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Rio Madeira" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-name="UniTV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",UniTV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 #EXTINF:-1 tvg-name="Vox TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",Vox TV
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 #EXTINF:-1 tvg-name="+MaisUM" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",+MaisUM
@@ -301,8 +293,6 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
 #EXTINF:-1 tvg-name="Alternativa WebTV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Alternativa WebTV
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
-#EXTINF:-1 tvg-name="Auge TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Auge TV
-https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-name="BS TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",BS TV
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal BS TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Canal BS TV
@@ -381,6 +371,8 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Metropolitana Rio" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Metropolitana Rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-name="TV NBN" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Nova Juarez" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Ondas Play" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Ondas Play
