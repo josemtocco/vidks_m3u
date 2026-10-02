@@ -14,6 +14,13 @@
     "status": "ativo"
   },
   {
+    "name": "Record TV Goiás",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/record-tv-goias.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Rede Brasil",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rbtv.ks",
@@ -21,10 +28,17 @@
     "status": "ativo"
   },
   {
+    "name": "SBT Interior",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Band",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u",
+    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8",
     "status": "ativo"
   },
   {
@@ -109,6 +123,13 @@
     "category": "Filmes",
     "page": "https://www.vidks.net/vid/mytime-movie-brazil.ks",
     "stream": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "RedeTV Mais",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/redetv-mais.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -234,7 +255,7 @@
     "name": "Record TV Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
-    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8",
+    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u",
     "status": "ativo"
   },
   {
@@ -378,6 +399,13 @@
     "status": "ativo"
   },
   {
+    "name": "TV NBN",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tvnbn.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Auge Esportes",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/auge-esportes.ks",
@@ -410,6 +438,27 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/loading.ks",
     "stream": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Cidade Bahia",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-cidade-bahia.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Amplitude Juína",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "UniTV",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/unitv.ks",
+    "stream": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8",
     "status": "ativo"
   },
   {
@@ -490,6 +539,13 @@
     "status": "ativo"
   },
   {
+    "name": "Adesso TV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/adesso-tv.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "TV Aratu",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-aratu.ks",
@@ -543,6 +599,13 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tvmaster.ks",
     "stream": "https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Plena TV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/plena-tv.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -756,13 +819,6 @@
     "status": "ativo"
   },
   {
-    "name": "Rede Gospel",
-    "category": "Religiosos",
-    "page": "https://www.vidks.net/vid/rede-gospel.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Destaque Nacional",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-destaque-nacional.ks",
@@ -816,6 +872,13 @@
     "category": "Cultura",
     "page": "https://www.vidks.net/vid/tv-comunitaria-df.ks",
     "stream": "https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "38 News",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/38-news.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -903,6 +966,13 @@
     "status": "ativo"
   },
   {
+    "name": "RTV Canal 38",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/rtv-canal-38.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Curta!",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/curta.ks",
@@ -917,17 +987,17 @@
     "status": "ativo"
   },
   {
-    "name": "Tastemade Brasil",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tastemade-brasil.ks",
-    "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Rio Madeira",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-rio-madeira.ks",
     "stream": "https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Tastemade Brasil",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tastemade-brasil.ks",
+    "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -987,17 +1057,17 @@
     "status": "ativo"
   },
   {
-    "name": "Canal Ricos",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/canal-ricos.ks",
-    "stream": "https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "NToons Brasil",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
     "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Canal Ricos",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/canal-ricos.ks",
+    "stream": "https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1075,6 +1145,13 @@
     "category": "Educação",
     "page": "https://www.vidks.net/vid/tvbe.ks",
     "stream": "https://stmv1.samcast.com.br/junior5083/junior5083/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Galega",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-galega.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1180,13 +1257,6 @@
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/opiniao-play.ks",
     "stream": "https://video04.logicahost.com.br/tvpopular/tvpopular/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Evangelizar",
-    "category": "Religiosos",
-    "page": "https://www.vidks.net/vid/tv-evangelizar.ks",
-    "stream": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
     "status": "ativo"
   },
   {
