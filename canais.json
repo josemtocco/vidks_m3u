@@ -133,17 +133,17 @@
     "status": "ativo"
   },
   {
-    "name": "AWTV",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/awtv.ks",
-    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TVL News",
     "category": "Notícias",
     "page": "https://www.vidks.net/vid/tv-luzilandia.ks",
     "stream": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "AWTV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/awtv.ks",
+    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "ativo"
   },
   {
@@ -553,17 +553,17 @@
     "status": "ativo"
   },
   {
-    "name": "Caravelas TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/webtv-caravelas.ks",
-    "stream": "https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "RedeTV! Paraná",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-tv-parana.ks",
     "stream": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Caravelas TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/webtv-caravelas.ks",
+    "stream": "https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -623,17 +623,17 @@
     "status": "ativo"
   },
   {
-    "name": "TVC Panorama",
-    "category": "Cultura",
-    "page": "https://www.vidks.net/vid/tvc-panorama.ks",
-    "stream": "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Giro TV News",
     "category": "Notícias",
     "page": "https://www.vidks.net/vid/giro-tv-news.ks",
     "stream": "https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TVC Panorama",
+    "category": "Cultura",
+    "page": "https://www.vidks.net/vid/tvc-panorama.ks",
+    "stream": "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -798,13 +798,6 @@
     "status": "ativo"
   },
   {
-    "name": "TV Gideões",
-    "category": "Religiosos",
-    "page": "https://www.vidks.net/vid/tv-gideoes.ks",
-    "stream": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "WebTV Triângulo",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/webtv-triangulo.ks",
@@ -819,6 +812,13 @@
     "status": "ativo"
   },
   {
+    "name": "Rede Gospel",
+    "category": "Religiosos",
+    "page": "https://www.vidks.net/vid/rede-gospel.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "TV Destaque Nacional",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-destaque-nacional.ks",
@@ -826,17 +826,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Estilo",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-estilo.ks",
-    "stream": "https://stmv8.samcast.com.br/tvestilo/tvestilo/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Onix",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-onix.ks",
     "stream": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Estilo",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-estilo.ks",
+    "stream": "https://stmv8.samcast.com.br/tvestilo/tvestilo/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -910,17 +910,17 @@
     "status": "ativo"
   },
   {
-    "name": "Canal 25",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/canal-25.ks",
-    "stream": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "N Sports",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/n-sports.ks",
     "stream": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Canal 25",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/canal-25.ks",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "status": "ativo"
   },
   {
@@ -1043,10 +1043,10 @@
     "status": "ativo"
   },
   {
-    "name": "TV Brasil Oeste",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
-    "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "name": "NToons Brasil",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
+    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1054,13 +1054,6 @@
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/lagoa-tv.ks",
     "stream": "https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "NToons Brasil",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
-    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1302,13 +1295,6 @@
     "status": "ativo"
   },
   {
-    "name": "TV Brasil Central",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/tbc.ks",
-    "stream": "https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "+MaisUM",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/maisum.ks",
@@ -1365,17 +1351,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Liberdade",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-liberdade.ks",
-    "stream": "https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Grande Natal",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-grande-natal.ks",
     "stream": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Liberdade",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-liberdade.ks",
+    "stream": "https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8",
     "status": "ativo"
   },
   {
