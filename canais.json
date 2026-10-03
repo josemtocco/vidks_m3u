@@ -252,6 +252,13 @@
     "status": "ativo"
   },
   {
+    "name": "TV Gazeta",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-gazeta.ks",
+    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Classique TV Western",
     "category": "Filmes",
     "page": "https://www.vidks.net/vid/classique-tv-western.ks",
@@ -469,10 +476,10 @@
     "status": "ativo"
   },
   {
-    "name": "TV História",
+    "name": "TV Cidade",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-historia.ks",
-    "stream": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-cidade.ks",
+    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -735,6 +742,13 @@
     "status": "ativo"
   },
   {
+    "name": "TVE",
+    "category": "Educação",
+    "page": "https://www.vidks.net/vid/tve-rs.ks",
+    "stream": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Canal Notícias do Araguaia",
     "category": "Notícias",
     "page": "https://www.vidks.net/vid/cna.ks",
@@ -774,6 +788,13 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/ubisoft-tv.ks",
     "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Gideões",
+    "category": "Religiosos",
+    "page": "https://www.vidks.net/vid/tv-gideoes.ks",
+    "stream": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -896,17 +917,17 @@
     "status": "ativo"
   },
   {
-    "name": "Canal 25",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/canal-25.ks",
-    "stream": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "CineBrasil TV",
     "category": "Filmes",
     "page": "https://www.vidks.net/vid/cinebrasil-tv.ks",
     "stream": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Canal 25",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/canal-25.ks",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "status": "ativo"
   },
   {
@@ -1008,13 +1029,6 @@
     "status": "ativo"
   },
   {
-    "name": "Paraná Turismo",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/parana-turismo.ks",
-    "stream": "https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Cultura",
     "category": "Educação",
     "page": "https://www.vidks.net/vid/tv-cultura.ks",
@@ -1022,10 +1036,10 @@
     "status": "ativo"
   },
   {
-    "name": "TV Brasil Oeste",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
-    "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "name": "Paraná Turismo",
+    "category": "Educação",
+    "page": "https://www.vidks.net/vid/parana-turismo.ks",
+    "stream": "https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8",
     "status": "ativo"
   },
   {
@@ -1033,6 +1047,13 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
     "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Brasil Oeste",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
+    "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1260,10 +1281,10 @@
     "status": "ativo"
   },
   {
-    "name": "TV Mon HD",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-mon.ks",
-    "stream": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
+    "name": "+MaisUM",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/maisum.ks",
+    "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "status": "ativo"
   },
   {
@@ -1271,13 +1292,6 @@
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/tv-caravelas.ks",
     "stream": "https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "+MaisUM",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/maisum.ks",
-    "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "status": "ativo"
   },
   {
@@ -1337,17 +1351,17 @@
     "status": "ativo"
   },
   {
-    "name": "Rede Web TV",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/rwtv.ks",
-    "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Grande Natal",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-grande-natal.ks",
     "stream": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Rede Web TV",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/rwtv.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8",
     "status": "ativo"
   },
   {
