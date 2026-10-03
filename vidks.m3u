@@ -122,7 +122,7 @@ https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Clássicos do Cinema" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",TV Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-name="Band" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Band
-https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
+https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u
 #EXTINF:-1 tvg-name="Canal do Boi" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Canal do Boi
 https://aovivo.equipea.com.br:5443/aovivort/streams/EbIRyJc8nK6P8Udb1187401937839.m3u8
 #EXTINF:-1 tvg-name="Domi Kids" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Domi Kids
@@ -151,6 +151,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:-1 tvg-name="TV Amplitude Juína" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Amplitude Juína
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Aratu" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Cidade
@@ -163,6 +165,8 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Guajará" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Guajará
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-name="TV História" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV História
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Pampa" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Vila Real" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Vila Real
@@ -199,6 +203,8 @@ https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-name="TV Gru Web" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Gru Web
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Mon HD" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Mon HD
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-name="TV NBT" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV NBT
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Onix" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Onix
@@ -281,8 +287,6 @@ https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Otimista" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Otimista
 https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Petrópolis" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Petrópolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sonata" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Sonata
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-name="Vambora Channel" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Vambora Channel
@@ -395,8 +399,6 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-name="Universo Loading" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Universo Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Via Morena" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Via Morena
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-name="WebTV Triângulo" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WebTV Triângulo
 https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8
 #EXTINF:-1 tvg-name="WebTV Vintage" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WebTV Vintage
