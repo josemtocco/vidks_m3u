@@ -38,7 +38,7 @@
     "name": "Band",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u",
+    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8",
     "status": "ativo"
   },
   {
@@ -255,7 +255,7 @@
     "name": "Record TV Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
-    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8",
+    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u",
     "status": "ativo"
   },
   {
@@ -368,13 +368,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-pampa.ks",
     "stream": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Guará",
-    "category": "Notícias",
-    "page": "https://www.vidks.net/vid/tv-guara.ks",
-    "stream": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -805,17 +798,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Gideões",
-    "category": "Religiosos",
-    "page": "https://www.vidks.net/vid/tv-gideoes.ks",
-    "stream": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Canal GOAT",
     "category": "Esportes",
     "page": "https://www.vidks.net/vid/canal-goat.ks",
     "stream": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Gideões",
+    "category": "Religiosos",
+    "page": "https://www.vidks.net/vid/tv-gideoes.ks",
+    "stream": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -917,17 +910,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Ti Vejo",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-ti-vejo.ks",
-    "stream": "https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "CineBrasil TV",
     "category": "Filmes",
     "page": "https://www.vidks.net/vid/cinebrasil-tv.ks",
     "stream": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Ti Vejo",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-ti-vejo.ks",
+    "stream": "https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1001,17 +994,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Rio Madeira",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-rio-madeira.ks",
-    "stream": "https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Tastemade Brasil",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tastemade-brasil.ks",
     "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Rio Madeira",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-rio-madeira.ks",
+    "stream": "https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1029,10 +1022,24 @@
     "status": "ativo"
   },
   {
+    "name": "Via Morena",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/via-morena.ks",
+    "stream": "https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Rede Vida",
     "category": "Religiosos",
     "page": "https://www.vidks.net/vid/rede-vida.ks",
     "stream": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "NToons Brasil",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
+    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1050,24 +1057,10 @@
     "status": "ativo"
   },
   {
-    "name": "NToons Brasil",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
-    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Brasil Oeste",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
     "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Lagoa TV",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/lagoa-tv.ks",
-    "stream": "https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1190,13 +1183,6 @@
     "status": "ativo"
   },
   {
-    "name": "Rede Super",
-    "category": "Religiosos",
-    "page": "https://www.vidks.net/vid/rede-super.ks",
-    "stream": "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Digital Birigui",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-digital-birigui.ks",
@@ -1288,17 +1274,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Mon HD",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-mon.ks",
-    "stream": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "+MaisUM",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/maisum.ks",
     "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Mon HD",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-mon.ks",
+    "stream": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1320,6 +1306,13 @@
     "category": "Educação",
     "page": "https://www.vidks.net/vid/tbc.ks",
     "stream": "https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Petrópolis",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-petropolis.ks",
+    "stream": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
     "status": "ativo"
   },
   {

@@ -28,8 +28,8 @@
     "https://www.vidks.net/discover?page=24": 21
   },
   "total_descobertos": 596,
-  "total_aprovados": 205,
-  "total_rejeitados": 391,
+  "total_aprovados": 204,
+  "total_rejeitados": 392,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
@@ -69,6 +69,11 @@
     {
       "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
       "name": "WebTV Campeão de Tudo",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-guara.ks",
+      "name": "TV Guará",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -362,11 +367,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/via-morena.ks",
-      "name": "Via Morena",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/vv8-tv.ks",
       "name": "VV8 TV",
       "erro": "nenhum_stream_aprovado"
@@ -374,6 +374,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-araguaia.ks",
       "name": "TV Araguaia",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/lagoa-tv.ks",
+      "name": "Lagoa TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -437,6 +442,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/rede-super.ks",
+      "name": "Rede Super",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-alcance.ks",
       "name": "TV Alcance",
       "erro": "nenhum_stream_aprovado"
@@ -497,13 +507,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-ponta-da-serra.ks",
-      "name": "TV Ponta da Serra",
+      "page": "https://www.vidks.net/vid/rede-tvs.ks",
+      "name": "Rede TVS",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/rede-tvs.ks",
-      "name": "Rede TVS",
+      "page": "https://www.vidks.net/vid/tv-ponta-da-serra.ks",
+      "name": "TV Ponta da Serra",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -519,11 +529,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-mares-guarapari.ks",
       "name": "TV Mares",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-petropolis.ks",
-      "name": "TV Petrópolis",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1147,13 +1152,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-natal.ks",
-      "name": "TV Natal",
+      "page": "https://www.vidks.net/vid/tv-agronosso.ks",
+      "name": "TV Agronosso",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-agronosso.ks",
-      "name": "TV Agronosso",
+      "page": "https://www.vidks.net/vid/tv-natal.ks",
+      "name": "TV Natal",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1282,13 +1287,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/acesso-tv.ks",
-      "name": "Acesso TV",
+      "page": "https://www.vidks.net/vid/rede-cultura-do-para.ks",
+      "name": "Rede Cultura do Pará",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/rede-cultura-do-para.ks",
-      "name": "Rede Cultura do Pará",
+      "page": "https://www.vidks.net/vid/acesso-tv.ks",
+      "name": "Acesso TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1367,13 +1372,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-uniao-brasilia.ks",
-      "name": "TV União Brasília",
+      "page": "https://www.vidks.net/vid/webtv-germanica.ks",
+      "name": "WebTV Germanica",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-germanica.ks",
-      "name": "WebTV Germanica",
+      "page": "https://www.vidks.net/vid/tv-uniao-brasilia.ks",
+      "name": "TV União Brasília",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1457,13 +1462,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-up.ks",
-      "name": "TV União Potengi",
+      "page": "https://www.vidks.net/vid/tv-ceasa.ks",
+      "name": "TV Ceasa",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-ceasa.ks",
-      "name": "TV Ceasa",
+      "page": "https://www.vidks.net/vid/tv-up.ks",
+      "name": "TV União Potengi",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1507,13 +1512,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-ibate.ks",
-      "name": "TV Ibaté",
+      "page": "https://www.vidks.net/vid/tv-1um.ks",
+      "name": "TV UM",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-1um.ks",
-      "name": "TV UM",
+      "page": "https://www.vidks.net/vid/tv-ibate.ks",
+      "name": "TV Ibaté",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1522,13 +1527,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/canal-8.ks",
-      "name": "Canal Oito",
+      "page": "https://www.vidks.net/vid/excelsior-tv.ks",
+      "name": "Excelsior TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/excelsior-tv.ks",
-      "name": "Excelsior TV",
+      "page": "https://www.vidks.net/vid/canal-8.ks",
+      "name": "Canal Oito",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1602,13 +1607,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/futura.ks",
-      "name": "Futura",
+      "page": "https://www.vidks.net/vid/tv-jornal-observatorio.ks",
+      "name": "TV Jornal Observatório",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-jornal-observatorio.ks",
-      "name": "TV Jornal Observatório",
+      "page": "https://www.vidks.net/vid/futura.ks",
+      "name": "Futura",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1622,16 +1627,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-crucilandia.ks",
-      "name": "TV Crucilândia",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-jaguar.ks",
-      "name": "TV Jaguar",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-futuro.ks",
       "name": "TV Futuro",
       "erro": "nenhum_stream_aprovado"
@@ -1642,13 +1637,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-rdc.ks",
-      "name": "Rede Digital de Comunicação",
+      "page": "https://www.vidks.net/vid/tv-crucilandia.ks",
+      "name": "TV Crucilândia",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-venda-nova.ks",
-      "name": "WebTV Venda Nova",
+      "page": "https://www.vidks.net/vid/tv-jaguar.ks",
+      "name": "TV Jaguar",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-rdc.ks",
+      "name": "Rede Digital de Comunicação",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1657,13 +1657,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-cidade-abre-campo.ks",
-      "name": "WebTV Cidade Abre Campo",
+      "page": "https://www.vidks.net/vid/webtv-venda-nova.ks",
+      "name": "WebTV Venda Nova",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/tv-folha-do-vale.ks",
       "name": "TV Folha do Vale",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-cidade-abre-campo.ks",
+      "name": "WebTV Cidade Abre Campo",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1687,13 +1692,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/uni-tv-buritama.ks",
-      "name": "UNI TV Buritama",
+      "page": "https://www.vidks.net/vid/sul-tv.ks",
+      "name": "Sul TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/sul-tv.ks",
-      "name": "Sul TV",
+      "page": "https://www.vidks.net/vid/uni-tv-buritama.ks",
+      "name": "UNI TV Buritama",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1702,8 +1707,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-litoral-panorama.ks",
+      "name": "TV Litoral Panorama",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-nacional.ks",
       "name": "TV Nacional",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/3-via-tv.ks",
+      "name": "Terceira Via TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1712,8 +1727,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/3-via-tv.ks",
-      "name": "Terceira Via TV",
+      "page": "https://www.vidks.net/vid/tv-caboquinho.ks",
+      "name": "TV Caboquinho",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1737,18 +1752,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-litoral-panorama.ks",
-      "name": "TV Litoral Panorama",
+      "page": "https://www.vidks.net/vid/ni-webtv.ks",
+      "name": "TV Nova Informativa",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/nossa-tv.ks",
       "name": "Nossa TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/ni-webtv.ks",
-      "name": "TV Nova Informativa",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1762,8 +1772,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-vila-velha.ks",
-      "name": "TV Vila Velha",
+      "page": "https://www.vidks.net/vid/tv-guaruja.ks",
+      "name": "TV Guarujá",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-petrvs.ks",
+      "name": "TV Petrvs",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/amaral-tv.ks",
+      "name": "Amaral TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1777,13 +1797,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-h1.ks",
-      "name": "TV h1",
+      "page": "https://www.vidks.net/vid/tv-serra-verde.ks",
+      "name": "TV Serra Verde",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-caboquinho.ks",
-      "name": "TV Caboquinho",
+      "page": "https://www.vidks.net/vid/rede-litoral-news.ks",
+      "name": "Rede Litoral News",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1797,33 +1817,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-rtwg.ks",
-      "name": "TV Guareí",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-mar.ks",
-      "name": "TV Mar",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-destak.ks",
       "name": "TV Destak",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/amaral-tv.ks",
-      "name": "Amaral TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/rede-litoral-news.ks",
-      "name": "Rede Litoral News",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-serra-verde.ks",
-      "name": "TV Serra Verde",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1837,18 +1832,23 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-mar.ks",
+      "name": "TV Mar",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/rede-caxias-tv.ks",
       "name": "Rede Caxias TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv3.ks",
-      "name": "TV 3",
+      "page": "https://www.vidks.net/vid/tv-vila-velha.ks",
+      "name": "TV Vila Velha",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-guaruja.ks",
-      "name": "TV Guarujá",
+      "page": "https://www.vidks.net/vid/webtv-rtwg.ks",
+      "name": "TV Guareí",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1857,38 +1857,28 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-h1.ks",
+      "name": "TV h1",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv3.ks",
+      "name": "TV 3",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-uniao-natal.ks",
       "name": "TV União de Natal",
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/feed-tv.ks",
+      "name": "Feed TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-sete-lagoas.ks",
       "name": "TV Sete Lagoas",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-clic-brasil.ks",
-      "name": "TV Clic Brasil",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-aplateia.ks",
-      "name": "TV Aplateia",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/caragua-tv.ks",
-      "name": "Caraguá TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-petrvs.ks",
-      "name": "TV Petrvs",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/power-television.ks",
-      "name": "Power TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1902,28 +1892,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/rs-tv-sul.ks",
-      "name": "RS TV Sul",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/newway-tv.ks",
-      "name": "NewWay TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/kcepa-tv.ks",
-      "name": "Kcepa TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/conecta-mais.ks",
-      "name": "Conecta Mais",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-lider-do-vale.ks",
-      "name": "TV Líder do Vale",
+      "page": "https://www.vidks.net/vid/webtv-adventista-carazinho.ks",
+      "name": "TV Websul Carazinho",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1932,13 +1902,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/feed-tv.ks",
-      "name": "Feed TV",
+      "page": "https://www.vidks.net/vid/caragua-tv.ks",
+      "name": "Caraguá TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tvct.ks",
-      "name": "TV Cidade Tiradentes",
+      "page": "https://www.vidks.net/vid/conecta-mais.ks",
+      "name": "Conecta Mais",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1952,8 +1922,43 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-adventista-carazinho.ks",
-      "name": "TV Websul Carazinho",
+      "page": "https://www.vidks.net/vid/tv-aplateia.ks",
+      "name": "TV Aplateia",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/power-television.ks",
+      "name": "Power TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/kcepa-tv.ks",
+      "name": "Kcepa TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/newway-tv.ks",
+      "name": "NewWay TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-clic-brasil.ks",
+      "name": "TV Clic Brasil",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/rs-tv-sul.ks",
+      "name": "RS TV Sul",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-lider-do-vale.ks",
+      "name": "TV Líder do Vale",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tvct.ks",
+      "name": "TV Cidade Tiradentes",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1967,13 +1972,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/sc-webtv.ks",
-      "name": "SC WebTV",
+      "page": "https://www.vidks.net/vid/webtv-katurra.ks",
+      "name": "WebTV Katurra",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-katurra.ks",
-      "name": "WebTV Katurra",
+      "page": "https://www.vidks.net/vid/tv-faap.ks",
+      "name": "TV Faap",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -1982,8 +1987,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-faap.ks",
-      "name": "TV Faap",
+      "page": "https://www.vidks.net/vid/sc-webtv.ks",
+      "name": "SC WebTV",
       "erro": "nenhum_stream_aprovado"
     }
   ]
