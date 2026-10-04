@@ -136,7 +136,7 @@ https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-name="Record TV Goiás" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Record TV Rio
-https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u
+https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 tvg-name="Rede Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Família" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Rede Família
@@ -211,6 +211,8 @@ https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Pantanal" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Pantanal
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Plan" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Rio Madeira" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-name="UniTV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",UniTV
@@ -260,7 +262,7 @@ https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Alternativa" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil Oeste" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u
 #EXTINF:-1 tvg-name="TV Brusque" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Caravelas" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Caravelas
@@ -399,6 +401,8 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-name="Universo Loading" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Universo Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Via Morena" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-name="WebTV Triângulo" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WebTV Triângulo
 https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8
 #EXTINF:-1 tvg-name="WebTV Vintage" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WebTV Vintage
@@ -407,3 +411,5 @@ https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07
 https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
 #EXTINF:-1 tvg-name="WTV Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="Ypê TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8

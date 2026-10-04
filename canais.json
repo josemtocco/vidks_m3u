@@ -255,7 +255,7 @@
     "name": "Record TV Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
-    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u",
+    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8",
     "status": "ativo"
   },
   {
@@ -1029,6 +1029,13 @@
     "status": "ativo"
   },
   {
+    "name": "Via Morena",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/via-morena.ks",
+    "stream": "https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Rede Vida",
     "category": "Religiosos",
     "page": "https://www.vidks.net/vid/rede-vida.ks",
@@ -1053,7 +1060,7 @@
     "name": "TV Brasil Oeste",
     "category": "Variedades",
     "page": "https://www.vidks.net/vid/tv-brasil-oeste.ks",
-    "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "stream": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u",
     "status": "ativo"
   },
   {
@@ -1106,17 +1113,17 @@
     "status": "ativo"
   },
   {
-    "name": "Rede Minas",
-    "category": "Educação",
-    "page": "https://www.vidks.net/vid/rede-minas.ks",
-    "stream": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Centro Sul",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-centro-sul.ks",
     "stream": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Rede Minas",
+    "category": "Educação",
+    "page": "https://www.vidks.net/vid/rede-minas.ks",
+    "stream": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1152,6 +1159,13 @@
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/tv-galega.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Ypê TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/ype-tv.ks",
+    "stream": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1204,17 +1218,17 @@
     "status": "ativo"
   },
   {
-    "name": "Guia TV",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/guia-tv.ks",
-    "stream": "https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Camaragibe Agora",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-camaragibe-agora.ks",
     "stream": "https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Guia TV",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/guia-tv.ks",
+    "stream": "https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1344,17 +1358,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Pantanal",
-    "category": "TV Local",
-    "page": "https://www.vidks.net/vid/tv-pantanal-cba.ks",
-    "stream": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Grande Natal",
     "category": "TV Local",
     "page": "https://www.vidks.net/vid/tv-grande-natal.ks",
     "stream": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Pantanal",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-pantanal-cba.ks",
+    "stream": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -1383,6 +1397,13 @@
     "category": "Cultura",
     "page": "https://www.vidks.net/vid/tva.ks",
     "stream": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Plan",
+    "category": "TV Local",
+    "page": "https://www.vidks.net/vid/tv-plan.ks",
+    "stream": "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8",
     "status": "ativo"
   },
   {
