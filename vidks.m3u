@@ -87,8 +87,6 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Guará
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Notícias Agrícolas" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-name="TVL News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TVL News
@@ -136,7 +134,7 @@ https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-name="Record TV Goiás" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Record TV Rio
-https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
+https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u
 #EXTINF:-1 tvg-name="Rede Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Família" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Rede Família
@@ -261,10 +259,10 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Alternativa" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Brasil Oeste" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u
 #EXTINF:-1 tvg-name="TV Brusque" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Candidés" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV Caravelas" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Caravelas
 https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Cidade
@@ -283,12 +281,8 @@ https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Meio" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Meio
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
-#EXTINF:-1 tvg-name="TV One" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV One
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Otimista" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Otimista
 https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Petrópolis" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Petrópolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sonata" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Sonata
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-name="Vambora Channel" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Vambora Channel
@@ -321,8 +315,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-name="LatinaSat" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",LatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
-#EXTINF:-1 tvg-name="LivreTV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",LivreTV
-https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
 #EXTINF:-1 tvg-name="Lucas TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Lucas TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-name="Miguel Junior TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Miguel Junior TV
