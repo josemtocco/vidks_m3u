@@ -87,6 +87,8 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Guará
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Notícias Agrícolas" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TV Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-name="TVL News" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",TVL News
@@ -99,6 +101,8 @@ https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/playlist.m3u
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-name="Rede Luz para Vida" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",Rede Luz para Vida
 https://stmv1.samcast.com.br/redeluzparavida/redeluzparavida/playlist.m3u8
+#EXTINF:-1 tvg-name="Rede Super" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-name="TV Gideões" tvg-country="BR" tvg-language="Portuguese" group-title="Religiosos",TV Gideões
@@ -173,6 +177,8 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-name="Araruna TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Lagoa TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",Lagoa TV
+https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
 #EXTINF:-1 tvg-name="O Fato Maringá" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",O Fato Maringá
 https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/playlist.m3u8
 #EXTINF:-1 tvg-name="POA News" tvg-country="BR" tvg-language="Portuguese" group-title="TV Local",POA News
@@ -257,8 +263,6 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brusque" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Candidés" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Candidés
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV Caravelas" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Caravelas
 https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",TV Cidade
@@ -395,8 +399,6 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-name="Universo Loading" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Universo Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Via Morena" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Via Morena
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-name="WebTV Triângulo" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WebTV Triângulo
 https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8
 #EXTINF:-1 tvg-name="WebTV Vintage" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WebTV Vintage
@@ -405,5 +407,3 @@ https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07
 https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
 #EXTINF:-1 tvg-name="WTV Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
-#EXTINF:-1 tvg-name="Ypê TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Ypê TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
