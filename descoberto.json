@@ -33,17 +33,17 @@
   "erros": [
     {
       "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
-      "name": "WebTV Xtreme TV NOVELAS CLASSICAS",
+      "name": "WebTV Xtreme TV SESSAO SUPER HEROIS",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/record-tv.ks",
-      "name": "TV Aberta Record TV Prosperidade com Deus",
+      "name": "TV Aberta Record TV Hoje em Dia",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/gln-tv.ks",
-      "name": "Desenhos GLN TV",
+      "name": "Desenhos GLN TV GLN KIDS - Desenhos Clássicos",
       "erro": "nenhum_stream_aprovado"
     }
   ]
