@@ -21,7 +21,7 @@
     "status": "ativo"
   },
   {
-    "name": "TV Aberta Rede Brasil Sessão PB",
+    "name": "TV Aberta Rede Brasil Jornal Brasil News (ao vivo)",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rbtv.ks",
     "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
@@ -35,14 +35,7 @@
     "status": "ativo"
   },
   {
-    "name": "TV Aberta Band Igreja Universal do Reino de Deus",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "WebTV Xtreme TV CINE CORUJAO",
+    "name": "WebTV Xtreme TV SESSAO ANIME",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
     "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
@@ -70,7 +63,7 @@
     "status": "ativo"
   },
   {
-    "name": "Séries WebTV Vintage Madrugada Vintage",
+    "name": "Séries WebTV Vintage Programa Oxydance",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-vintage.ks",
     "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
@@ -88,13 +81,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-channel-network.ks",
     "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Aberta SBT SP SBT Notícias",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/sbt-sp.ks",
-    "stream": "https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8",
     "status": "ativo"
   },
   {
@@ -119,7 +105,7 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades Clouding TV Morcegão",
+    "name": "Variedades Clouding TV Chaves",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
     "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
@@ -147,14 +133,14 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades AWTV",
+    "name": "Variedades AWTV Terra de Gigantes (noite)",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/awtv.ks",
     "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Variedades Caravana Play",
+    "name": "Variedades Caravana Play Mulher Maravilha (seriado)",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/caravana-play.ks",
     "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
