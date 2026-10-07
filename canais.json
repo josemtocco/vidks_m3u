@@ -21,7 +21,7 @@
     "status": "ativo"
   },
   {
-    "name": "TV Aberta Rede Brasil Sessão Matinê",
+    "name": "TV Aberta Rede Brasil Cine de Quarta",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rbtv.ks",
     "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
@@ -35,7 +35,7 @@
     "status": "ativo"
   },
   {
-    "name": "WebTV Xtreme TV SESSAO ORIENTAL",
+    "name": "WebTV Xtreme TV GERACAO ANIME",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
     "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
@@ -63,7 +63,7 @@
     "status": "ativo"
   },
   {
-    "name": "Séries WebTV Vintage Happy Day",
+    "name": "Séries WebTV Vintage Programa Oxydance",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-vintage.ks",
     "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
@@ -105,7 +105,7 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades Clouding TV Cine Fun",
+    "name": "Variedades Clouding TV Hora da comédia com a serie Eu, a patroa e as crianças",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
     "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
@@ -133,14 +133,14 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades AWTV Galatica",
+    "name": "Variedades AWTV Alf, o Eteimoso",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/awtv.ks",
     "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Variedades Caravana Play A Super Máquina",
+    "name": "Variedades Caravana Play A Ilha da Fantasia",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/caravana-play.ks",
     "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
