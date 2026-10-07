@@ -2,7 +2,7 @@
   "site": "https://www.vidks.net",
   "pagina_descoberta": "https://www.vidks.net/discover",
   "paginas": {
-    "https://www.vidks.net/discover": 0,
+    "https://www.vidks.net/discover": 25,
     "https://www.vidks.net/discover?page=2": 0,
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/discover?page=4": 0,
@@ -27,8 +27,24 @@
     "https://www.vidks.net/discover?page=23": 0,
     "https://www.vidks.net/discover?page=24": 0
   },
-  "total_descobertos": 0,
-  "total_aprovados": 0,
-  "total_rejeitados": 0,
-  "erros": []
+  "total_descobertos": 25,
+  "total_aprovados": 22,
+  "total_rejeitados": 3,
+  "erros": [
+    {
+      "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
+      "name": "TV Aberta Band Os Donos da Bola",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/record-tv.ks",
+      "name": "TV Aberta Record TV Balanço Geral - SP",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/sbt-sp.ks",
+      "name": "TV Aberta SBT SP Alô Você",
+      "erro": "nenhum_stream_aprovado"
+    }
+  ]
 }

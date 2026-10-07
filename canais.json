@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "name": "WebTV Lucas TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/lucas-tv.ks",
+    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Desenhos Retrô Cartoon",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
+    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Aberta Record TV Goiás",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/record-tv-goias.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Aberta Rede Brasil Sessão Matinê",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/rbtv.ks",
+    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Aberta SBT Interior",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "WebTV Xtreme TV SESSAO ORIENTAL",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
+    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Variedades TV Aberta",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-aberta.ks",
+    "stream": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Filmes Classique TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/classique-tv.ks",
+    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Esportes CazéTV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/cazetv.ks",
+    "stream": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Séries WebTV Vintage Happy Day",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/webtv-vintage.ks",
+    "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Aberta TV Conquista",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-conquista.ks",
+    "stream": "https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Séries TV Channel Network",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Variedades TV MAX Rio",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-max-rio.ks",
+    "stream": "https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Séries TV Clássicos do Cinema",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Desenhos Gospel Cartoon",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/gospel-cartoon.ks",
+    "stream": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Variedades Clouding TV Cine Fun",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Filmes MyTime Movie Network",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/mytime-movie-brazil.ks",
+    "stream": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Aberta RedeTV Mais",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/redetv-mais.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Notícias TVL News",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-luzilandia.ks",
+    "stream": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Variedades AWTV Galatica",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/awtv.ks",
+    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Variedades Caravana Play A Super Máquina",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/caravana-play.ks",
+    "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Variedades Wording Sessão Oriental",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/wording.ks",
+    "stream": "https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8",
+    "status": "ativo"
+  }
+]

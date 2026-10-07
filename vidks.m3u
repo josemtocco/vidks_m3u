@@ -1,1 +1,45 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Desenhos Gospel Cartoon" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Desenhos Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-name="Desenhos Retrô Cartoon" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Desenhos Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Esportes CazéTV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Esportes CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmes Classique TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Filmes Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmes MyTime Movie Network" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Filmes MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Notícias TVL News" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Notícias TVL News
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:-1 tvg-name="Séries TV Channel Network" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Séries TV Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-name="Séries TV Clássicos do Cinema" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Séries TV Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-name="Séries WebTV Vintage Happy Day" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Séries WebTV Vintage Happy Day
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65
+#EXTINF:-1 tvg-name="TV Aberta Record TV Goiás" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aberta Record TV Goiás
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Aberta Rede Brasil Sessão Matinê" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aberta Rede Brasil Sessão Matinê
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Aberta RedeTV Mais" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aberta RedeTV Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Aberta SBT Interior" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aberta SBT Interior
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Aberta TV Conquista" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aberta TV Conquista
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-name="Variedades AWTV Galatica" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Variedades AWTV Galatica
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Variedades Caravana Play A Super Máquina" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Variedades Caravana Play A Super Máquina
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-name="Variedades Clouding TV Cine Fun" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Variedades Clouding TV Cine Fun
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Variedades TV Aberta" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Variedades TV Aberta
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
+#EXTINF:-1 tvg-name="Variedades TV MAX Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Variedades TV MAX Rio
+https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-name="Variedades Wording Sessão Oriental" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Variedades Wording Sessão Oriental
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="WebTV Lucas TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",WebTV Lucas TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-name="WebTV Xtreme TV SESSAO ORIENTAL" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",WebTV Xtreme TV SESSAO ORIENTAL
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
