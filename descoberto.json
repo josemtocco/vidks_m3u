@@ -33,17 +33,17 @@
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-      "name": "TV Aberta Band Bora Brasil",
+      "name": "TV Aberta Band Jornal da Band",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/record-tv.ks",
-      "name": "TV Aberta Record TV Hoje em Dia",
+      "name": "TV Aberta Record TV Futebol - Ao Vivo",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/sbt-sp.ks",
-      "name": "TV Aberta SBT SP Primeiro Impacto",
+      "name": "TV Aberta SBT SP SBT Brasil",
       "erro": "nenhum_stream_aprovado"
     },
     {

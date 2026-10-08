@@ -21,7 +21,7 @@
     "status": "ativo"
   },
   {
-    "name": "TV Aberta Rede Brasil RB Aventura",
+    "name": "TV Aberta Rede Brasil Cidades em Foco",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rbtv.ks",
     "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
@@ -35,7 +35,7 @@
     "status": "ativo"
   },
   {
-    "name": "WebTV Xtreme TV SESSAO ANIMADA",
+    "name": "WebTV Xtreme TV GERACAO ANIME",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
     "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
@@ -63,7 +63,7 @@
     "status": "ativo"
   },
   {
-    "name": "Séries WebTV Vintage Happy Day",
+    "name": "Séries WebTV Vintage Hot Night",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-vintage.ks",
     "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
@@ -98,7 +98,7 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades Clouding TV TV Cloudinho A turma do pateta, Duck tales, Mario Brothers, Os simpsons, Shera a princesa do poder e Pica - pau",
+    "name": "Variedades Clouding TV Sessão animes com Naruto, Dragon Ball GT, Shurato e Fly o Pequeno Guerreiro",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
     "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
@@ -126,14 +126,14 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades AWTV Planeta Kids",
+    "name": "Variedades AWTV Alf, o Eteimoso",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/awtv.ks",
     "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Variedades Caravana Play Jeannie É Um Gênio",
+    "name": "Variedades Caravana Play Barrados no Baile",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/caravana-play.ks",
     "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
