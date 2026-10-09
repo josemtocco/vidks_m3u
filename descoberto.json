@@ -1,59 +1,294 @@
 {
   "site": "https://www.vidks.net",
-  "pagina_descoberta": "https://www.vidks.net/discover",
   "paginas": {
-    "https://www.vidks.net/discover": 25,
+    "https://www.vidks.net/": 29,
+    "https://www.vidks.net/discover": 10,
+    "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
+    "https://www.vidks.net/search?page=2": 23,
     "https://www.vidks.net/discover?page=3": 0,
+    "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
+    "https://www.vidks.net/search?page=4": 22,
     "https://www.vidks.net/discover?page=5": 0,
+    "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
+    "https://www.vidks.net/search?page=6": 25,
     "https://www.vidks.net/discover?page=7": 0,
-    "https://www.vidks.net/discover?page=8": 0,
-    "https://www.vidks.net/discover?page=9": 0,
-    "https://www.vidks.net/discover?page=10": 0,
-    "https://www.vidks.net/discover?page=11": 0,
-    "https://www.vidks.net/discover?page=12": 0,
-    "https://www.vidks.net/discover?page=13": 0,
-    "https://www.vidks.net/discover?page=14": 0,
-    "https://www.vidks.net/discover?page=15": 0,
-    "https://www.vidks.net/discover?page=16": 0,
-    "https://www.vidks.net/discover?page=17": 0,
-    "https://www.vidks.net/discover?page=18": 0,
-    "https://www.vidks.net/discover?page=19": 0,
-    "https://www.vidks.net/discover?page=20": 0,
-    "https://www.vidks.net/discover?page=21": 0,
-    "https://www.vidks.net/discover?page=22": 0,
-    "https://www.vidks.net/discover?page=23": 0,
-    "https://www.vidks.net/discover?page=24": 0
+    "https://www.vidks.net/search?page=7": 23
   },
-  "total_descobertos": 25,
-  "total_aprovados": 20,
-  "total_rejeitados": 5,
+  "total_descobertos": 180,
+  "total_aprovados": 126,
+  "total_rejeitados": 54,
   "erros": [
     {
-      "page": "https://www.vidks.net/vid/rbtv.ks",
-      "name": "TV Aberta Rede Brasil RB Aventura",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-      "name": "TV Aberta Band Bora Brasil",
+      "name": "Band",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/record-tv.ks",
-      "name": "TV Aberta Record TV Hoje em Dia",
+      "name": "Record TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/sbt-sp.ks",
-      "name": "TV Aberta SBT SP Primeiro Impacto",
+      "name": "SBT SP",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-i-news.ks",
+      "name": "TV I News",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/star-trek-tv.ks",
+      "name": "Jornada nas Estrelas TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/tv-max-rio.ks",
-      "name": "Variedades TV MAX Rio",
+      "name": "TV MAX Rio",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
+      "name": "Record TV Rio",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/qtal-channel.ks",
+      "name": "QTal? Channel",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/redetv-rondonia.ks",
+      "name": "RedeTV! Rondônia",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-series.ks",
+      "name": "TV Séries",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-difusora.ks",
+      "name": "TV Difusora",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
+      "name": "Campeão de Tudo",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/band-news.ks",
+      "name": "Band News",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/24h-news.ks",
+      "name": "24h News",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/unique-sports.ks",
+      "name": "Unique Sports",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-am.ks",
+      "name": "TV AM",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-cr.ks",
+      "name": "CR",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tvc-bauru.ks",
+      "name": "TVC Bauru",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/teleweb-tv.ks",
+      "name": "Teleweb TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/retro-cartoon-2.ks",
+      "name": "Retrô Cartoon 2",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/sim-noticias.ks",
+      "name": "Sim Notícias",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/play-tv-horse.ks",
+      "name": "Play TV Horse",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/swt-itanhaem.ks",
+      "name": "SWT WebTV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-tropical.ks",
+      "name": "TV Tropical",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/ke-tv.ks",
+      "name": "KE TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/rede-ultra-tv.ks",
+      "name": "Rede Ultra TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/bemtv.ks",
+      "name": "BemTV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/reisen-clube-tv.ks",
+      "name": "Reisen Clube TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-nostalgia.ks",
+      "name": "TV Nostalgia",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/catve.ks",
+      "name": "Catve",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-lagoa-dantas.ks",
+      "name": "TV Lagoa Dantas",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/rede-cnt-sao-paulo.ks",
+      "name": "Rede CNT São Paulo",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-candides.ks",
+      "name": "TV Candidés",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-novelas.ks",
+      "name": "Rede Novelas",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/geekdot.ks",
+      "name": "Geekdot",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-velhos-tempos.ks",
+      "name": "TV Velhos Tempos",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-capital.ks",
+      "name": "TV Capital",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-nova-nordeste.ks",
+      "name": "TV Nova Nordeste",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-alinca-sc.ks",
+      "name": "TV Aliança Catarinense",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-cei.ks",
+      "name": "TV CEI",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/central-tv.ks",
+      "name": "RCTV Brasil",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-paracatu.ks",
+      "name": "Paracatu",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/gmc-tv.ks",
+      "name": "GMC TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-osorio-news.ks",
+      "name": "TV Osório News",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/entorno-sul-webtv.ks",
+      "name": "Entorno Sul WebTV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/uptv.ks",
+      "name": "upTV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-iracema.ks",
+      "name": "TV Iracema",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-triangulo.ks",
+      "name": "Triângulo",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/superflix-tv.ks",
+      "name": "Acesso Channel",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-destaque-nacional.ks",
+      "name": "TV Destaque Nacional",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-cordeiro.ks",
+      "name": "TV Cordeiro",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/cabo-frio-tv.ks",
+      "name": "Cabo Frio TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-gallo.ks",
+      "name": "TV Gallo",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/santa-cecilia-tv.ks",
+      "name": "Santa Cecília TV",
       "erro": "nenhum_stream_aprovado"
     }
   ]
