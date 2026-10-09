@@ -21,13 +21,6 @@
     "status": "ativo"
   },
   {
-    "name": "TV Aberta Rede Brasil RB Aventura",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/rbtv.ks",
-    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Aberta SBT Interior",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
@@ -35,7 +28,7 @@
     "status": "ativo"
   },
   {
-    "name": "WebTV Xtreme TV CINE CORUJAO",
+    "name": "WebTV Xtreme TV SESSAO ANIMADA",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
     "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
@@ -63,7 +56,7 @@
     "status": "ativo"
   },
   {
-    "name": "Séries WebTV Vintage Madrugada Vintage",
+    "name": "Séries WebTV Vintage Manhã Vintage",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/webtv-vintage.ks",
     "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
@@ -98,10 +91,10 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades Clouding TV Cine Trash",
+    "name": "Variedades Clouding TV TV Cloudinho A turma do pateta, Duck tales, Mario Brothers, Os simpsons, Shera a princesa do poder e Pica - pau",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
-    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u",
     "status": "ativo"
   },
   {
@@ -126,21 +119,21 @@
     "status": "ativo"
   },
   {
-    "name": "Variedades AWTV",
+    "name": "Variedades AWTV Planeta Kids",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/awtv.ks",
     "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Variedades Caravana Play",
+    "name": "Variedades Caravana Play Jornada Nas Estrelas (star Trek)",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/caravana-play.ks",
     "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Variedades Wording",
+    "name": "Variedades Wording Sessão Oriental",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/wording.ks",
     "stream": "https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8",
