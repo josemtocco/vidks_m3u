@@ -1,12 +1,5 @@
 [
   {
-    "name": "Retrô Cartoon",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
-    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "SBT Interior",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
@@ -21,24 +14,10 @@
     "status": "ativo"
   },
   {
-    "name": "TV Channel Network",
+    "name": "Retrô Cartoon",
     "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
-    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Classique TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/classique-tv.ks",
-    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Lucas TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/lucas-tv.ks",
-    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
+    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -56,6 +35,34 @@
     "status": "ativo"
   },
   {
+    "name": "TV Clássicos do Cinema",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Channel Network",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "GE TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/ge-tv.ks",
+    "stream": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Lucas TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/lucas-tv.ks",
+    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Rede Brasil",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rbtv.ks",
@@ -67,6 +74,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-aberta.ks",
     "stream": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Classique TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/classique-tv.ks",
+    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -140,13 +154,6 @@
     "status": "ativo"
   },
   {
-    "name": "GE TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/ge-tv.ks",
-    "stream": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Nova Juarez",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-nova-juarez.ks",
@@ -165,13 +172,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-cidade-bahia.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Clássicos do Cinema",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
-    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -375,13 +375,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rbatv.ks",
     "stream": "https://streaming.gruporba.com.br/rba.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TVitapê",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tvitape.ks",
-    "stream": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
     "status": "ativo"
   },
   {
@@ -788,13 +781,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-mais-brasil.ks",
     "stream": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TVE",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tve-rs.ks",
-    "stream": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8",
     "status": "ativo"
   },
   {

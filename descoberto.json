@@ -1,8 +1,8 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 29,
-    "https://www.vidks.net/discover": 10,
+    "https://www.vidks.net/": 30,
+    "https://www.vidks.net/discover": 9,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
     "https://www.vidks.net/search?page=2": 23,
@@ -18,8 +18,8 @@
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 180,
-  "total_aprovados": 126,
-  "total_rejeitados": 54,
+  "total_aprovados": 124,
+  "total_rejeitados": 56,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -74,6 +74,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-difusora.ks",
       "name": "TV Difusora",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tvitape.ks",
+      "name": "TVitapê",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -219,6 +224,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-cei.ks",
       "name": "TV CEI",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tve-rs.ks",
+      "name": "TVE",
       "erro": "nenhum_stream_aprovado"
     },
     {
