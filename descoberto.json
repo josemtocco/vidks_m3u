@@ -1,25 +1,25 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 31,
-    "https://www.vidks.net/discover": 10,
+    "https://www.vidks.net/": 30,
+    "https://www.vidks.net/discover": 9,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 22,
+    "https://www.vidks.net/search?page=2": 23,
     "https://www.vidks.net/discover?page=3": 0,
-    "https://www.vidks.net/search?page=3": 23,
+    "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 22,
     "https://www.vidks.net/discover?page=5": 0,
     "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
-    "https://www.vidks.net/search?page=6": 25,
+    "https://www.vidks.net/search?page=6": 24,
     "https://www.vidks.net/discover?page=7": 0,
-    "https://www.vidks.net/search?page=7": 23
+    "https://www.vidks.net/search?page=7": 24
   },
   "total_descobertos": 180,
-  "total_aprovados": 122,
-  "total_rejeitados": 58,
+  "total_aprovados": 123,
+  "total_rejeitados": 57,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -69,11 +69,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-series.ks",
       "name": "TV Séries",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/rbatv.ks",
-      "name": "RBATV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -212,6 +207,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/giro-tv-news.ks",
+      "name": "Giro TV News",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-velhos-tempos.ks",
       "name": "TV Velhos Tempos",
       "erro": "nenhum_stream_aprovado"
@@ -219,11 +219,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-capital.ks",
       "name": "TV Capital",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/sic-tv.ks",
-      "name": "SIC TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -239,6 +234,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-cei.ks",
       "name": "TV CEI",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tve-rs.ks",
+      "name": "TVE",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -274,11 +274,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-iracema.ks",
       "name": "TV Iracema",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/webtv-triangulo.ks",
-      "name": "Triângulo",
       "erro": "nenhum_stream_aprovado"
     },
     {
