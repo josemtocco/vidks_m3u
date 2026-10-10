@@ -15,11 +15,11 @@
     "https://www.vidks.net/discover?page=6": 0,
     "https://www.vidks.net/search?page=6": 24,
     "https://www.vidks.net/discover?page=7": 0,
-    "https://www.vidks.net/search?page=7": 24
+    "https://www.vidks.net/search?page=7": 23
   },
-  "total_descobertos": 180,
-  "total_aprovados": 123,
-  "total_rejeitados": 57,
+  "total_descobertos": 179,
+  "total_aprovados": 124,
+  "total_rejeitados": 55,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -192,11 +192,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-candides.ks",
-      "name": "TV Candidés",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-novelas.ks",
       "name": "Rede Novelas",
       "erro": "nenhum_stream_aprovado"
@@ -207,11 +202,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/giro-tv-news.ks",
-      "name": "Giro TV News",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-velhos-tempos.ks",
       "name": "TV Velhos Tempos",
       "erro": "nenhum_stream_aprovado"
@@ -219,6 +209,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-capital.ks",
       "name": "TV Capital",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/sic-tv.ks",
+      "name": "SIC TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -234,11 +229,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-cei.ks",
       "name": "TV CEI",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tve-rs.ks",
-      "name": "TVE",
       "erro": "nenhum_stream_aprovado"
     },
     {
