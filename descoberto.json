@@ -1,13 +1,13 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 30,
-    "https://www.vidks.net/discover": 9,
+    "https://www.vidks.net/": 31,
+    "https://www.vidks.net/discover": 10,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 23,
+    "https://www.vidks.net/search?page=2": 22,
     "https://www.vidks.net/discover?page=3": 0,
-    "https://www.vidks.net/search?page=3": 24,
+    "https://www.vidks.net/search?page=3": 23,
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 22,
     "https://www.vidks.net/discover?page=5": 0,
@@ -18,8 +18,8 @@
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 180,
-  "total_aprovados": 124,
-  "total_rejeitados": 56,
+  "total_aprovados": 122,
+  "total_rejeitados": 58,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -72,6 +72,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/rbatv.ks",
+      "name": "RBATV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-difusora.ks",
       "name": "TV Difusora",
       "erro": "nenhum_stream_aprovado"
@@ -119,6 +124,11 @@
     {
       "page": "https://www.vidks.net/vid/teleweb-tv.ks",
       "name": "Teleweb TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/unitv.ks",
+      "name": "UniTV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -212,6 +222,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/sic-tv.ks",
+      "name": "SIC TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-nova-nordeste.ks",
       "name": "TV Nova Nordeste",
       "erro": "nenhum_stream_aprovado"
@@ -224,11 +239,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-cei.ks",
       "name": "TV CEI",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tve-rs.ks",
-      "name": "TVE",
       "erro": "nenhum_stream_aprovado"
     },
     {
