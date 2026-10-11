@@ -1,13 +1,13 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 29,
+    "https://www.vidks.net/": 31,
     "https://www.vidks.net/discover": 10,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 23,
+    "https://www.vidks.net/search?page=2": 22,
     "https://www.vidks.net/discover?page=3": 0,
-    "https://www.vidks.net/search?page=3": 24,
+    "https://www.vidks.net/search?page=3": 23,
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 22,
     "https://www.vidks.net/discover?page=5": 0,
@@ -197,6 +197,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-candides.ks",
+      "name": "TV Candidés",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/geekdot.ks",
       "name": "Geekdot",
       "erro": "nenhum_stream_aprovado"
@@ -227,18 +232,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tve-rs.ks",
-      "name": "TVE",
+      "page": "https://www.vidks.net/vid/webtv-paracatu.ks",
+      "name": "Paracatu",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/central-tv.ks",
       "name": "RCTV Brasil",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/webtv-paracatu.ks",
-      "name": "Paracatu",
       "erro": "nenhum_stream_aprovado"
     },
     {
