@@ -18,8 +18,8 @@
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 179,
-  "total_aprovados": 125,
-  "total_rejeitados": 54,
+  "total_aprovados": 124,
+  "total_rejeitados": 55,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -77,13 +77,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tvitape.ks",
-      "name": "TVitapê",
+      "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
+      "name": "Campeão de Tudo",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
-      "name": "Campeão de Tudo",
+      "page": "https://www.vidks.net/vid/tv-guara.ks",
+      "name": "TV Guará",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -227,13 +227,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-paracatu.ks",
-      "name": "Paracatu",
+      "page": "https://www.vidks.net/vid/tve-rs.ks",
+      "name": "TVE",
       "erro": "nenhum_stream_aprovado"
     },
     {
       "page": "https://www.vidks.net/vid/central-tv.ks",
       "name": "RCTV Brasil",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/webtv-paracatu.ks",
+      "name": "Paracatu",
       "erro": "nenhum_stream_aprovado"
     },
     {
