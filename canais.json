@@ -7,45 +7,10 @@
     "status": "ativo"
   },
   {
-    "name": "Vintage",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/webtv-vintage.ks",
-    "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
-    "status": "ativo"
-  },
-  {
-    "name": "Lucas TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/lucas-tv.ks",
-    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Xtreme TV",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
-    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Channel Network",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
-    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "SBT Interior",
     "category": "WebTV",
     "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Western Bound Brasil",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/western-bound-brasil.ks",
-    "stream": "https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8",
     "status": "ativo"
   },
   {
@@ -57,9 +22,44 @@
   },
   {
     "name": "Retrô Cartoon",
-    "category": "TV Aberta",
+    "category": "WebTV",
     "page": "https://www.vidks.net/vid/retro-cartoon.ks",
     "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Lucas TV",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/lucas-tv.ks",
+    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Vintage",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/webtv-vintage.ks",
+    "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
+    "status": "ativo"
+  },
+  {
+    "name": "Canal GOAT",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/canal-goat.ks",
+    "stream": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Channel Network",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Xtreme TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
+    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -91,13 +91,6 @@
     "status": "ativo"
   },
   {
-    "name": "Canal GOAT",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/canal-goat.ks",
-    "stream": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "NToons Brasil",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
@@ -109,6 +102,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/cinebrasil-tv.ks",
     "stream": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Western Bound Brasil",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/western-bound-brasil.ks",
+    "stream": "https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8",
     "status": "ativo"
   },
   {
@@ -158,6 +158,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-cidade-bahia.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV MAX Rio",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-max-rio.ks",
+    "stream": "https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -410,6 +417,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-pampa.ks",
     "stream": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Guará",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-guara.ks",
+    "stream": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -753,13 +767,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-one.ks",
     "stream": "https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Canal BS TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/baixada-santista-tv.ks",
-    "stream": "https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8",
     "status": "ativo"
   },
   {

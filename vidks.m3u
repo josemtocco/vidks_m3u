@@ -19,10 +19,6 @@ https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="BS TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",BS TV
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal BS TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Canal BS TV
-https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal GOAT" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Canal GOAT
-https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 #EXTINF:-1 tvg-name="Canal Start" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Canal Start
 https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-name="Caravana Play" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Caravana Play
@@ -105,8 +101,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-name="RedeTV! Paraná" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",RedeTV! Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-name="Retrô Cartoon" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Retrô Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Reviva TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Reviva TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-name="RS News Sports" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",RS News Sports
@@ -155,12 +149,16 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-name="TV Guajará" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Guajará
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Guará
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-name="TV História" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV História
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Mais Brasil
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Master" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Master
 https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-name="TV MAX Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV MAX Rio
+https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Meio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Meio
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Metropolitana Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Metropolitana Rio
@@ -205,10 +203,16 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-name="Vox TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Vox TV
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Western Bound Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Western Bound Brasil
+https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
 #EXTINF:-1 tvg-name="Wording" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Wording
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="WTV Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="Xtreme TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Xtreme TV
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal GOAT" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Canal GOAT
+https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 #EXTINF:-1 tvg-name="Lucas TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Lucas TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Goiás" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Record TV Goiás
@@ -219,6 +223,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-name="Rede UTV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Rede UTV
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Retrô Cartoon" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="RS News WebTV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",RS News WebTV
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT Interior" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",SBT Interior
@@ -243,7 +249,3 @@ https://5c483b9d1019c.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-name="Vintage" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Vintage
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65
-#EXTINF:-1 tvg-name="Western Bound Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Western Bound Brasil
-https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
-#EXTINF:-1 tvg-name="Xtreme TV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Xtreme TV
-https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
