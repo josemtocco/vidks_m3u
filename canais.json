@@ -1,12 +1,5 @@
 [
   {
-    "name": "Record TV",
-    "category": "VidKS",
-    "page": "https://www.vidks.net/vid/record-tv.ks",
-    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Lucas TV",
     "category": "VidKS",
     "page": "https://www.vidks.net/vid/lucas-tv.ks",
@@ -14,17 +7,38 @@
     "status": "ativo"
   },
   {
-    "name": "Caravana Play",
+    "name": "Record TV",
     "category": "VidKS",
-    "page": "https://www.vidks.net/vid/caravana-play.ks",
-    "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/record-tv.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Retrô Cartoon",
+    "name": "Record TV Goiás",
     "category": "VidKS",
-    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
-    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/record-tv-goias.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Clouding TV",
+    "category": "VidKS",
+    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Vila Real",
+    "category": "VidKS",
+    "page": "https://www.vidks.net/vid/tv-vila-real.ks",
+    "stream": "https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Xtreme TV",
+    "category": "VidKS",
+    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
+    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -36,30 +50,9 @@
   },
   {
     "name": "SBT Interior",
-    "category": "VidKS",
+    "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Classique TV",
-    "category": "VidKS",
-    "page": "https://www.vidks.net/vid/classique-tv.ks",
-    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Clássicos do Cinema",
-    "category": "VidKS",
-    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
-    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Xtreme TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
-    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -67,6 +60,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-aberta.ks",
     "stream": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Classique TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/classique-tv.ks",
+    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -105,17 +105,17 @@
     "status": "ativo"
   },
   {
+    "name": "TV Clássicos do Cinema",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Gospel Cartoon",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/gospel-cartoon.ks",
     "stream": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Clouding TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
-    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -144,6 +144,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/awtv.ks",
     "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Caravana Play",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/caravana-play.ks",
+    "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -228,13 +235,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rafael-saraiva-sports.ks",
     "stream": "https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Vila Real",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-vila-real.ks",
-    "stream": "https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -501,6 +501,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-cidade-bahia.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV Amplitude Juína",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
+    "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
     "status": "ativo"
   },
   {
