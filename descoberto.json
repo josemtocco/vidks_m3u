@@ -1,15 +1,15 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 29,
-    "https://www.vidks.net/discover": 10,
+    "https://www.vidks.net/": 36,
+    "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
     "https://www.vidks.net/search?page=2": 23,
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
-    "https://www.vidks.net/search?page=4": 22,
+    "https://www.vidks.net/search?page=4": 25,
     "https://www.vidks.net/discover?page=5": 0,
     "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
@@ -18,17 +18,17 @@
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 179,
-  "total_aprovados": 125,
-  "total_rejeitados": 54,
+  "total_aprovados": 124,
+  "total_rejeitados": 55,
   "erros": [
     {
-      "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
-      "name": "Band",
+      "page": "https://www.vidks.net/vid/record-tv-goias.ks",
+      "name": "Record TV Goiás",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-aberta.ks",
-      "name": "Tv Aberta",
+      "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
+      "name": "Band",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -42,13 +42,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-i-news.ks",
-      "name": "TV I News",
+      "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
+      "name": "TV Clássicos do Cinema",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/star-trek-tv.ks",
-      "name": "Jornada nas Estrelas TV",
+      "page": "https://www.vidks.net/vid/tv-arapuan.ks",
+      "name": "TV Arapuan",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -117,13 +117,28 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
+      "name": "TV Amplitude Juína",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/unitv.ks",
       "name": "UniTV",
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/star-trek-tv.ks",
+      "name": "Jornada nas Estrelas TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/retro-cartoon-2.ks",
       "name": "Retrô Cartoon 2",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-i-news.ks",
+      "name": "TV I News",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -144,11 +159,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-tropical.ks",
       "name": "TV Tropical",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/ke-tv.ks",
-      "name": "KE TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -209,11 +219,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-nova-nordeste.ks",
       "name": "TV Nova Nordeste",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/baixada-santista-tv.ks",
-      "name": "Canal BS TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
