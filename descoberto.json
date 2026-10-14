@@ -1,13 +1,13 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 43,
+    "https://www.vidks.net/": 39,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 20,
+    "https://www.vidks.net/search?page=2": 23,
     "https://www.vidks.net/discover?page=3": 0,
-    "https://www.vidks.net/search?page=3": 23,
+    "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 22,
     "https://www.vidks.net/discover?page=5": 0,
@@ -18,8 +18,8 @@
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 179,
-  "total_aprovados": 130,
-  "total_rejeitados": 49,
+  "total_aprovados": 129,
+  "total_rejeitados": 50,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -29,6 +29,11 @@
     {
       "page": "https://www.vidks.net/vid/sbt-sp.ks",
       "name": "SBT SP",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/maisum.ks",
+      "name": "+MaisUM",
       "erro": "nenhum_stream_aprovado"
     },
     {
