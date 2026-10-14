@@ -1,31 +1,26 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 36,
+    "https://www.vidks.net/": 41,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 23,
+    "https://www.vidks.net/search?page=2": 22,
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
-    "https://www.vidks.net/search?page=4": 25,
+    "https://www.vidks.net/search?page=4": 22,
     "https://www.vidks.net/discover?page=5": 0,
     "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
-    "https://www.vidks.net/search?page=6": 24,
+    "https://www.vidks.net/search?page=6": 23,
     "https://www.vidks.net/discover?page=7": 0,
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 179,
-  "total_aprovados": 130,
-  "total_rejeitados": 49,
+  "total_aprovados": 126,
+  "total_rejeitados": 53,
   "erros": [
-    {
-      "page": "https://www.vidks.net/vid/retro-cartoon.ks",
-      "name": "Retrô Cartoon",
-      "erro": "nenhum_stream_aprovado"
-    },
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
       "name": "Band",
@@ -37,8 +32,28 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-i-news.ks",
+      "name": "TV I News",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/star-trek-tv.ks",
+      "name": "Jornada nas Estrelas TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-arapuan.ks",
+      "name": "TV Arapuan",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
       "name": "Record TV Rio",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-gazeta.ks",
+      "name": "TV Gazeta",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -102,18 +117,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/star-trek-tv.ks",
-      "name": "Jornada nas Estrelas TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/retro-cartoon-2.ks",
       "name": "Retrô Cartoon 2",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-i-news.ks",
-      "name": "TV I News",
+      "page": "https://www.vidks.net/vid/tv-cidade.ks",
+      "name": "TV Cidade",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -172,6 +182,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-candides.ks",
+      "name": "TV Candidés",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/geekdot.ks",
       "name": "Geekdot",
       "erro": "nenhum_stream_aprovado"
@@ -199,6 +214,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-cei.ks",
       "name": "TV CEI",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/meio-norte-tv.ks",
+      "name": "TV Meio",
       "erro": "nenhum_stream_aprovado"
     },
     {
