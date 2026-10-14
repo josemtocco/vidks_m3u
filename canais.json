@@ -7,27 +7,6 @@
     "status": "ativo"
   },
   {
-    "name": "Reviva Tv",
-    "category": "Séries",
-    "page": "https://www.vidks.net/vid/reviva-tv.ks",
-    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Tv Luzilandia",
-    "category": "Notícias",
-    "page": "https://www.vidks.net/vid/tv-luzilandia.ks",
-    "stream": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Lucas Tv",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/lucas-tv.ks",
-    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "Retro Cartoon",
     "category": "Desenhos",
     "page": "https://www.vidks.net/vid/retro-cartoon.ks",
@@ -35,24 +14,10 @@
     "status": "ativo"
   },
   {
-    "name": "Webtv Xtreme",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
-    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Tv Channel Network",
-    "category": "Séries",
-    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
-    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Awtv",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/awtv.ks",
-    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "name": "Ge Tv",
+    "category": "Esportes",
+    "page": "https://www.vidks.net/vid/ge-tv.ks",
+    "stream": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -63,10 +28,52 @@
     "status": "ativo"
   },
   {
-    "name": "Tv Vila Real",
+    "name": "Jp News",
+    "category": "Notícias",
+    "page": "https://www.vidks.net/vid/jp-news.ks",
+    "stream": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Tv Classicos Do Cinema",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Rbtv",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-vila-real.ks",
-    "stream": "https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rbtv.ks",
+    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Reviva Tv",
+    "category": "Séries",
+    "page": "https://www.vidks.net/vid/reviva-tv.ks",
+    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Tela Brasil Tv",
+    "category": "Séries",
+    "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
+    "stream": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Cnn Brasil",
+    "category": "Notícias",
+    "page": "https://www.vidks.net/vid/cnn-brasil.ks",
+    "stream": "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Lucas TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/lucas-tv.ks",
+    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -77,17 +84,17 @@
     "status": "ativo"
   },
   {
-    "name": "Rede Brasil",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/rbtv.ks",
-    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "SBT Interior",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Xtreme TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
+    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -126,17 +133,17 @@
     "status": "ativo"
   },
   {
+    "name": "TV Channel Network",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "TV MAX Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-max-rio.ks",
     "stream": "https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Clássicos do Cinema",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
-    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -165,6 +172,20 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/redetv-mais.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TVL News",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-luzilandia.ks",
+    "stream": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "AWTV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/awtv.ks",
+    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "ativo"
   },
   {
@@ -231,13 +252,6 @@
     "status": "ativo"
   },
   {
-    "name": "GE TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/ge-tv.ks",
-    "stream": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Nova Juarez",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-nova-juarez.ks",
@@ -266,10 +280,10 @@
     "status": "ativo"
   },
   {
-    "name": "Tela Brasil TV",
+    "name": "TV Vila Real",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
-    "stream": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-vila-real.ks",
+    "stream": "https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -277,13 +291,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-pantanal-ms.ks",
     "stream": "https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "CNN Brasil",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/cnn-brasil.ks",
-    "stream": "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -403,13 +410,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/real-madrid-tv.ks",
     "stream": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Jovem Pan News",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/jp-news.ks",
-    "stream": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8",
     "status": "ativo"
   },
   {
