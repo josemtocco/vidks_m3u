@@ -5,14 +5,12 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8
 #EXTINF:-1 tvg-name="Brasília TV" tvg-country="BR" tvg-language="Portuguese" group-title="Esportes",Brasília TV
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
-#EXTINF:-1 tvg-name="Cazetv" tvg-country="BR" tvg-language="Portuguese" group-title="Esportes",Cazetv
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Ge Tv" tvg-country="BR" tvg-language="Portuguese" group-title="Esportes",Ge Tv
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Notícias do Araguaia" tvg-country="BR" tvg-language="Portuguese" group-title="Notícias",Canal Notícias do Araguaia
 https://stmv1.samcast.com.br/nilsonalmir7713/nilsonalmir7713/playlist.m3u8
-#EXTINF:-1 tvg-name="Tv Channel Network" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",Tv Channel Network
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-name="Reviva Tv" tvg-country="BR" tvg-language="Portuguese" group-title="Séries",Reviva Tv
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-name="+MaisUM" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",+MaisUM
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="7 TVs" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",7 TVs
 https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
 #EXTINF:-1 tvg-name="Adesso TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Adesso TV
@@ -35,6 +33,8 @@ https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-name="Caravelas TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Caravelas TV
 https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="CazéTV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine Trianon TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Cine Trianon TV
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CineBrasil TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",CineBrasil TV
@@ -51,6 +51,8 @@ https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/
 https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
 #EXTINF:-1 tvg-name="Domi Kids" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Domi Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-name="GE TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Giro TV News" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Giro TV News
 https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
 #EXTINF:-1 tvg-name="Gospel Cartoon" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Gospel Cartoon
@@ -63,6 +65,8 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Kids" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lucas TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Lucas TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-name="Miguel Junior TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Miguel Junior TV
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 tvg-name="Ministério Infantil TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Ministério Infantil TV
@@ -75,8 +79,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1 tvg-name="News Rondônia TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",News Rondônia TV
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8
-#EXTINF:-1 tvg-name="Nossa TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Nossa TV
-https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-name="NToons Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",NToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-name="Os Jetsons TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Os Jetsons TV
@@ -113,8 +115,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-name="RedeTV! Paraná" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",RedeTV! Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-name="Reviva TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Reviva TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-name="RS News Sports" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",RS News Sports
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-name="Sbt Interior Sp" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Sbt Interior Sp
@@ -131,29 +131,25 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="Tela Brasil TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Tela Brasil TV
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-#EXTINF:-1 tvg-name="Tv Aberta" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Tv Aberta
-https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Alternativa" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Amplitude Juína" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Amplitude Juína
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Aracati" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Aratu" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Candidés" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Candidés
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV Channel Network" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Cidade
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade Bahia" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Cidade Bahia
 https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade Verde" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Cidade Verde
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Clássicos do Cinema" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Conquista" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Conquista
+#EXTINF:-1 tvg-name="Tv Conquista" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Tv Conquista
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-name="TV Correio do Amanhã" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Correio do Amanhã
 https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
@@ -167,14 +163,10 @@ https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-name="TV História" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV História
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
-#EXTINF:-1 tvg-name="Tv Luzilandia" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Tv Luzilandia
-https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Mais Brasil
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Master" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Master
 https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-name="TV MAX Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV MAX Rio
-https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Meio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Meio
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Metropolitana Rio" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TV Metropolitana Rio
@@ -203,12 +195,12 @@ https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 tvg-name="TVC Panorama" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TVC Panorama
 https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
-#EXTINF:-1 tvg-name="TVE" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TVE
-https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVGeral" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TVGeral
 https://video05.logicahost.com.br/tvgeral/tvgeral/playlist.m3u8
 #EXTINF:-1 tvg-name="TVitapê" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TVitapê
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-name="TVL News" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TVL News
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Sul" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TVR Sul
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TVídeoNews" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",TVídeoNews
@@ -229,8 +221,10 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="Xtreme TV" tvg-country="BR" tvg-language="Portuguese" group-title="TV Aberta",Xtreme TV
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Lucas Tv" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Lucas Tv
-https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv Aberta" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Tv Aberta
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv Max Rio" tvg-country="BR" tvg-language="Portuguese" group-title="Variedades",Tv Max Rio
+https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Gospel" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-name="Rede UTV" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Rede UTV
@@ -239,6 +233,8 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-name="Triângulo" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Triângulo
 https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv Classicos Do Cinema" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",Tv Classicos Do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Clube Web" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-name="TV do Carro" tvg-country="BR" tvg-language="Portuguese" group-title="WebTV",TV do Carro
