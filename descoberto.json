@@ -1,7 +1,7 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 40,
+    "https://www.vidks.net/": 41,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
@@ -13,13 +13,13 @@
     "https://www.vidks.net/discover?page=5": 0,
     "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
-    "https://www.vidks.net/search?page=6": 24,
+    "https://www.vidks.net/search?page=6": 23,
     "https://www.vidks.net/discover?page=7": 0,
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 179,
-  "total_aprovados": 127,
-  "total_rejeitados": 52,
+  "total_aprovados": 129,
+  "total_rejeitados": 50,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -39,11 +39,6 @@
     {
       "page": "https://www.vidks.net/vid/star-trek-tv.ks",
       "name": "Jornada nas Estrelas TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-arapuan.ks",
-      "name": "TV Arapuan",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -74,11 +69,6 @@
     {
       "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
       "name": "Campeão de Tudo",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-guara.ks",
-      "name": "TV Guará",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -167,6 +157,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/kuriakos-kids.ks",
+      "name": "Kuriakos Kids",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/rede-cnt-sao-paulo.ks",
       "name": "Rede CNT São Paulo",
       "erro": "nenhum_stream_aprovado"
@@ -192,11 +187,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/nossa-tv-mossoro.ks",
-      "name": "Nossa TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-nova-nordeste.ks",
       "name": "TV Nova Nordeste",
       "erro": "nenhum_stream_aprovado"
@@ -212,8 +202,8 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tve-rs.ks",
-      "name": "TVE",
+      "page": "https://www.vidks.net/vid/meio-norte-tv.ks",
+      "name": "TV Meio",
       "erro": "nenhum_stream_aprovado"
     },
     {
