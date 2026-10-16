@@ -1,11 +1,11 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 42,
+    "https://www.vidks.net/": 43,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 23,
+    "https://www.vidks.net/search?page=2": 21,
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/search?page=3": 23,
     "https://www.vidks.net/discover?page=4": 0,
@@ -13,13 +13,13 @@
     "https://www.vidks.net/discover?page=5": 0,
     "https://www.vidks.net/search?page=5": 25,
     "https://www.vidks.net/discover?page=6": 0,
-    "https://www.vidks.net/search?page=6": 23,
+    "https://www.vidks.net/search?page=6": 24,
     "https://www.vidks.net/discover?page=7": 0,
-    "https://www.vidks.net/search?page=7": 23
+    "https://www.vidks.net/search?page=7": 22
   },
-  "total_descobertos": 180,
-  "total_aprovados": 133,
-  "total_rejeitados": 47,
+  "total_descobertos": 179,
+  "total_aprovados": 125,
+  "total_rejeitados": 54,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -42,6 +42,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/rafael-saraiva-sports.ks",
+      "name": "RS News Sports",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
       "name": "Record TV Rio",
       "erro": "nenhum_stream_aprovado"
@@ -59,6 +64,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-series.ks",
       "name": "TV Séries",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/rsnews-webtv.ks",
+      "name": "RS News WebTV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -127,6 +137,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/news-rondonia.ks",
+      "name": "News Rondônia TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/rede-ultra-tv.ks",
       "name": "Rede Ultra TV",
       "erro": "nenhum_stream_aprovado"
@@ -157,6 +172,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-correio-do-amanha.ks",
+      "name": "TV Correio do Amanhã",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/rede-cnt-sao-paulo.ks",
       "name": "Rede CNT São Paulo",
       "erro": "nenhum_stream_aprovado"
@@ -169,6 +189,11 @@
     {
       "page": "https://www.vidks.net/vid/geekdot.ks",
       "name": "Geekdot",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/giro-tv-news.ks",
+      "name": "Giro TV News",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -187,6 +212,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/se-connection.ks",
+      "name": "SE Connection",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/tv-nova-nordeste.ks",
       "name": "TV Nova Nordeste",
       "erro": "nenhum_stream_aprovado"
@@ -199,6 +229,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-cei.ks",
       "name": "TV CEI",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tve-rs.ks",
+      "name": "TVE",
       "erro": "nenhum_stream_aprovado"
     },
     {
