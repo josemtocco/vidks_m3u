@@ -1,11 +1,11 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 39,
+    "https://www.vidks.net/": 40,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 24,
+    "https://www.vidks.net/search?page=2": 23,
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/search?page=3": 23,
     "https://www.vidks.net/discover?page=4": 0,
@@ -18,8 +18,8 @@
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 179,
-  "total_aprovados": 132,
-  "total_rejeitados": 47,
+  "total_aprovados": 134,
+  "total_rejeitados": 45,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -157,11 +157,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-lagoa-dantas.ks",
-      "name": "TV Lagoa Dantas",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/rede-cnt-sao-paulo.ks",
       "name": "Rede CNT São Paulo",
       "erro": "nenhum_stream_aprovado"
@@ -169,11 +164,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-novelas.ks",
       "name": "Rede Novelas",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-candides.ks",
-      "name": "TV Candidés",
       "erro": "nenhum_stream_aprovado"
     },
     {
