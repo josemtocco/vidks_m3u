@@ -1,7 +1,7 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 40,
+    "https://www.vidks.net/": 41,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
@@ -11,16 +11,26 @@
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 21,
     "https://www.vidks.net/discover?page=5": 0,
-    "https://www.vidks.net/search?page=5": 25,
+    "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
     "https://www.vidks.net/search?page=6": 24,
     "https://www.vidks.net/discover?page=7": 0,
     "https://www.vidks.net/search?page=7": 23
   },
   "total_descobertos": 179,
-  "total_aprovados": 128,
-  "total_rejeitados": 51,
+  "total_aprovados": 129,
+  "total_rejeitados": 50,
   "erros": [
+    {
+      "page": "https://www.vidks.net/vid/tv-max-rio.ks",
+      "name": "Tv Max Rio",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/rbtv.ks",
+      "name": "Rede Brasil",
+      "erro": "nenhum_stream_aprovado"
+    },
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
       "name": "Band",
@@ -29,11 +39,6 @@
     {
       "page": "https://www.vidks.net/vid/sbt-sp.ks",
       "name": "SBT SP",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
-      "name": "TV Clássicos do Cinema",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -69,11 +74,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-series.ks",
       "name": "TV Séries",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/rbatv.ks",
-      "name": "RBATV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -199,11 +199,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-velhos-tempos.ks",
       "name": "TV Velhos Tempos",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/wtv-brasil.ks",
-      "name": "WTV Brasil",
       "erro": "nenhum_stream_aprovado"
     },
     {
