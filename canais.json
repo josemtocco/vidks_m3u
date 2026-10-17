@@ -1,9 +1,9 @@
 [
   {
-    "name": "Record Tv",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/record-tv.ks",
-    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "name": "Retro Cartoon",
+    "category": "Desenhos",
+    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
+    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -14,17 +14,10 @@
     "status": "ativo"
   },
   {
-    "name": "Sbt Interior Sp",
+    "name": "Rbtv",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
-    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Rede Clone Tv",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
-    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rbtv.ks",
+    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -35,31 +28,45 @@
     "status": "ativo"
   },
   {
-    "name": "Rede Tv Parana",
+    "name": "Tv Aberta",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/tv-aberta.ks",
+    "stream": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Record Tv",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/rede-tv-parana.ks",
-    "stream": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/record-tv.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Webtv Vintage",
+    "name": "Cazetv",
+    "category": "Esportes",
+    "page": "https://www.vidks.net/vid/cazetv.ks",
+    "stream": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Tv Channel Network",
     "category": "Séries",
-    "page": "https://www.vidks.net/vid/webtv-vintage.ks",
-    "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
+    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Gln Tv",
-    "category": "Desenhos",
-    "page": "https://www.vidks.net/vid/gln-tv.ks",
-    "stream": "https://stmv2.srvsh.com.br/gerson8874/gerson8874/playlist.m3u8",
+    "name": "Rede Clone Tv",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Reviva Tv",
-    "category": "Séries",
-    "page": "https://www.vidks.net/vid/reviva-tv.ks",
-    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
+    "name": "Tv Pantanal Ms",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/tv-pantanal-ms.ks",
+    "stream": "https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -70,17 +77,10 @@
     "status": "ativo"
   },
   {
-    "name": "Retrô Cartoon",
+    "name": "SBT Interior",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
-    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Tv Aberta",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-aberta.ks",
-    "stream": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -91,10 +91,10 @@
     "status": "ativo"
   },
   {
-    "name": "CazéTV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/cazetv.ks",
-    "stream": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8",
+    "name": "Vintage",
+    "category": "WebTV",
+    "page": "https://www.vidks.net/vid/webtv-vintage.ks",
+    "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
     "status": "ativo"
   },
   {
@@ -105,10 +105,17 @@
     "status": "ativo"
   },
   {
-    "name": "TV Channel Network",
+    "name": "GLN TV",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
-    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/gln-tv.ks",
+    "stream": "https://stmv2.srvsh.com.br/gerson8874/gerson8874/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV MAX Rio",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-max-rio.ks",
+    "stream": "https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -259,17 +266,17 @@
     "status": "ativo"
   },
   {
+    "name": "Reviva TV",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/reviva-tv.ks",
+    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Tela Brasil TV",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
     "stream": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "TV Pantanal MS",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-pantanal-ms.ks",
-    "stream": "https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -592,6 +599,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/kuriakos-kids.ks",
     "stream": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "RedeTV! Paraná",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/rede-tv-parana.ks",
+    "stream": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
     "status": "ativo"
   },
   {
