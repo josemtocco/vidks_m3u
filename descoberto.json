@@ -1,13 +1,13 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 41,
+    "https://www.vidks.net/": 40,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
     "https://www.vidks.net/search?page=2": 22,
     "https://www.vidks.net/discover?page=3": 0,
-    "https://www.vidks.net/search?page=3": 23,
+    "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 21,
     "https://www.vidks.net/discover?page=5": 0,
@@ -18,8 +18,8 @@
     "https://www.vidks.net/search?page=7": 22
   },
   "total_descobertos": 178,
-  "total_aprovados": 132,
-  "total_rejeitados": 46,
+  "total_aprovados": 131,
+  "total_rejeitados": 47,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -27,8 +27,18 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/classique-tv.ks",
+      "name": "Classique TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/sbt-sp.ks",
       "name": "SBT SP",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-max-rio.ks",
+      "name": "TV MAX Rio",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -47,6 +57,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-arapuan.ks",
+      "name": "TV Arapuan",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
       "name": "Record TV Rio",
       "erro": "nenhum_stream_aprovado"
@@ -54,6 +69,11 @@
     {
       "page": "https://www.vidks.net/vid/qtal-channel.ks",
       "name": "QTal? Channel",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/sft-combat.ks",
+      "name": "SFT Combat",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -74,11 +94,6 @@
     {
       "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
       "name": "Campeão de Tudo",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-guara.ks",
-      "name": "TV Guará",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -117,11 +132,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/ministerio-infantil-tv.ks",
-      "name": "Ministério Infantil TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/retro-cartoon-2.ks",
       "name": "Retrô Cartoon 2",
       "erro": "nenhum_stream_aprovado"
@@ -142,13 +152,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/bemtv.ks",
-      "name": "BemTV",
+      "page": "https://www.vidks.net/vid/reisen-clube-tv.ks",
+      "name": "Reisen Clube TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/reisen-clube-tv.ks",
-      "name": "Reisen Clube TV",
+      "page": "https://www.vidks.net/vid/bemtv.ks",
+      "name": "BemTV",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -174,11 +184,6 @@
     {
       "page": "https://www.vidks.net/vid/tv-velhos-tempos.ks",
       "name": "TV Velhos Tempos",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/wtv-brasil.ks",
-      "name": "WTV Brasil",
       "erro": "nenhum_stream_aprovado"
     },
     {
