@@ -1,11 +1,11 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 40,
+    "https://www.vidks.net/": 42,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 22,
+    "https://www.vidks.net/search?page=2": 20,
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
@@ -15,12 +15,17 @@
     "https://www.vidks.net/discover?page=6": 0,
     "https://www.vidks.net/search?page=6": 24,
     "https://www.vidks.net/discover?page=7": 0,
-    "https://www.vidks.net/search?page=7": 23
+    "https://www.vidks.net/search?page=7": 22
   },
-  "total_descobertos": 179,
-  "total_aprovados": 134,
-  "total_rejeitados": 45,
+  "total_descobertos": 178,
+  "total_aprovados": 132,
+  "total_rejeitados": 46,
   "erros": [
+    {
+      "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
+      "name": "SBT Interior",
+      "erro": "nenhum_stream_aprovado"
+    },
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
       "name": "Band",
@@ -34,6 +39,11 @@
     {
       "page": "https://www.vidks.net/vid/n-sports.ks",
       "name": "N Sports",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/maisum.ks",
+      "name": "+MaisUM",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -159,11 +169,6 @@
     {
       "page": "https://www.vidks.net/vid/rede-cnt-sao-paulo.ks",
       "name": "Rede CNT São Paulo",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-candides.ks",
-      "name": "TV Candidés",
       "erro": "nenhum_stream_aprovado"
     },
     {
