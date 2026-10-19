@@ -1,13 +1,13 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 42,
+    "https://www.vidks.net/": 41,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 20,
+    "https://www.vidks.net/search?page=2": 22,
     "https://www.vidks.net/discover?page=3": 0,
-    "https://www.vidks.net/search?page=3": 24,
+    "https://www.vidks.net/search?page=3": 23,
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 21,
     "https://www.vidks.net/discover?page=5": 0,
@@ -22,11 +22,6 @@
   "total_rejeitados": 46,
   "erros": [
     {
-      "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
-      "name": "SBT Interior",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
       "name": "Band",
       "erro": "nenhum_stream_aprovado"
@@ -39,11 +34,6 @@
     {
       "page": "https://www.vidks.net/vid/n-sports.ks",
       "name": "N Sports",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/maisum.ks",
-      "name": "+MaisUM",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -127,6 +117,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/ministerio-infantil-tv.ks",
+      "name": "Ministério Infantil TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/retro-cartoon-2.ks",
       "name": "Retrô Cartoon 2",
       "erro": "nenhum_stream_aprovado"
@@ -179,6 +174,11 @@
     {
       "page": "https://www.vidks.net/vid/tv-velhos-tempos.ks",
       "name": "TV Velhos Tempos",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/wtv-brasil.ks",
+      "name": "WTV Brasil",
       "erro": "nenhum_stream_aprovado"
     },
     {
