@@ -7,38 +7,31 @@
     "status": "ativo"
   },
   {
+    "name": "Rede Clone Tv",
+    "category": "Variedades",
+    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Tela Brasil Tv",
+    "category": "Séries",
+    "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
+    "stream": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Cnn Brasil",
+    "category": "Notícias",
+    "page": "https://www.vidks.net/vid/cnn-brasil.ks",
+    "stream": "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Record Tv Goias",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/record-tv-goias.ks",
     "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Webtv Xtreme",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
-    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Tv Classicos Do Cinema",
-    "category": "WebTV",
-    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
-    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Classique Tv",
-    "category": "Filmes",
-    "page": "https://www.vidks.net/vid/classique-tv.ks",
-    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Retro Cartoon",
-    "category": "Desenhos",
-    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
-    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -56,17 +49,24 @@
     "status": "ativo"
   },
   {
-    "name": "Tv Channel Network",
-    "category": "Séries",
-    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
-    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "name": "Webtv Xtreme",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
+    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
     "status": "ativo"
   },
   {
-    "name": "Rede Clone Tv",
-    "category": "Variedades",
-    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
-    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "name": "Cazetv",
+    "category": "Esportes",
+    "page": "https://www.vidks.net/vid/cazetv.ks",
+    "stream": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Gospel Cartoon",
+    "category": "Desenhos",
+    "page": "https://www.vidks.net/vid/gospel-cartoon.ks",
+    "stream": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -77,6 +77,13 @@
     "status": "ativo"
   },
   {
+    "name": "Retrô Cartoon",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
+    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "Tv Aberta",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-aberta.ks",
@@ -84,10 +91,10 @@
     "status": "ativo"
   },
   {
-    "name": "CazéTV",
+    "name": "Classique TV",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/cazetv.ks",
-    "stream": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/classique-tv.ks",
+    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -112,6 +119,13 @@
     "status": "ativo"
   },
   {
+    "name": "TV Channel Network",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
     "name": "TV MAX Rio",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-max-rio.ks",
@@ -119,10 +133,10 @@
     "status": "ativo"
   },
   {
-    "name": "Gospel Cartoon",
+    "name": "TV Clássicos do Cinema",
     "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/gospel-cartoon.ks",
-    "stream": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-classicos-do-cinema.ks",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -270,20 +284,6 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/reviva-tv.ks",
     "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "Tela Brasil TV",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
-    "stream": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
-    "name": "CNN Brasil",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/cnn-brasil.ks",
-    "stream": "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8",
     "status": "ativo"
   },
   {
@@ -511,13 +511,6 @@
     "status": "ativo"
   },
   {
-    "name": "TV Amplitude Juína",
-    "category": "TV Aberta",
-    "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
-    "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-    "status": "ativo"
-  },
-  {
     "name": "TV Cidade Verde",
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-cidade-verde.ks",
@@ -585,6 +578,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/rede-sptv.ks",
     "stream": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "TV da Pesca",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/tv-da-pesca.ks",
+    "stream": "https://isaocorp.cloudecast.com/tvdapesca/index.m3u8",
     "status": "ativo"
   },
   {
@@ -683,6 +683,13 @@
     "category": "TV Aberta",
     "page": "https://www.vidks.net/vid/tv-candides.ks",
     "stream": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
+    "status": "ativo"
+  },
+  {
+    "name": "Rede NGT",
+    "category": "TV Aberta",
+    "page": "https://www.vidks.net/vid/rede-ngt.ks",
+    "stream": "https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8",
     "status": "ativo"
   },
   {

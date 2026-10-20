@@ -1,11 +1,11 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 39,
+    "https://www.vidks.net/": 41,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 23,
+    "https://www.vidks.net/search?page=2": 21,
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
@@ -18,8 +18,8 @@
     "https://www.vidks.net/search?page=7": 22
   },
   "total_descobertos": 178,
-  "total_aprovados": 132,
-  "total_rejeitados": 46,
+  "total_aprovados": 133,
+  "total_rejeitados": 45,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -117,6 +117,11 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
+      "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
+      "name": "TV Amplitude Juína",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
       "page": "https://www.vidks.net/vid/retro-cartoon-2.ks",
       "name": "Retrô Cartoon 2",
       "erro": "nenhum_stream_aprovado"
@@ -147,11 +152,6 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tv-da-pesca.ks",
-      "name": "TV da Pesca",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/tv-nostalgia.ks",
       "name": "TV Nostalgia",
       "erro": "nenhum_stream_aprovado"
@@ -164,11 +164,6 @@
     {
       "page": "https://www.vidks.net/vid/rede-cnt-sao-paulo.ks",
       "name": "Rede CNT São Paulo",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/rede-ngt.ks",
-      "name": "Rede NGT",
       "erro": "nenhum_stream_aprovado"
     },
     {
