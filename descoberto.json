@@ -5,21 +5,21 @@
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
-    "https://www.vidks.net/search?page=2": 20,
+    "https://www.vidks.net/search?page=2": 22,
     "https://www.vidks.net/discover?page=3": 0,
-    "https://www.vidks.net/search?page=3": 24,
+    "https://www.vidks.net/search?page=3": 23,
     "https://www.vidks.net/discover?page=4": 0,
     "https://www.vidks.net/search?page=4": 21,
     "https://www.vidks.net/discover?page=5": 0,
-    "https://www.vidks.net/search?page=5": 25,
+    "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
     "https://www.vidks.net/search?page=6": 24,
     "https://www.vidks.net/discover?page=7": 0,
     "https://www.vidks.net/search?page=7": 22
   },
   "total_descobertos": 178,
-  "total_aprovados": 130,
-  "total_rejeitados": 48,
+  "total_aprovados": 133,
+  "total_rejeitados": 45,
   "erros": [
     {
       "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
@@ -44,16 +44,6 @@
     {
       "page": "https://www.vidks.net/vid/star-trek-tv.ks",
       "name": "Jornada nas Estrelas TV",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-arapuan.ks",
-      "name": "TV Arapuan",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-guajara.ks",
-      "name": "TV Guajará",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -82,18 +72,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/tvgeral.ks",
-      "name": "TVGeral",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
       "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
       "name": "Campeão de Tudo",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/bs-tv-online.ks",
-      "name": "BS TV",
+      "page": "https://www.vidks.net/vid/tv-guara.ks",
+      "name": "TV Guará",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -212,13 +197,13 @@
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/webtv-paracatu.ks",
-      "name": "Paracatu",
+      "page": "https://www.vidks.net/vid/gmc-tv.ks",
+      "name": "GMC TV",
       "erro": "nenhum_stream_aprovado"
     },
     {
-      "page": "https://www.vidks.net/vid/gmc-tv.ks",
-      "name": "GMC TV",
+      "page": "https://www.vidks.net/vid/webtv-paracatu.ks",
+      "name": "Paracatu",
       "erro": "nenhum_stream_aprovado"
     },
     {
