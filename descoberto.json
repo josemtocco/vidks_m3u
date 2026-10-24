@@ -1,7 +1,7 @@
 {
   "site": "https://www.vidks.net",
   "paginas": {
-    "https://www.vidks.net/": 40,
+    "https://www.vidks.net/": 41,
     "https://www.vidks.net/discover": 0,
     "https://www.vidks.net/search": 0,
     "https://www.vidks.net/discover?page=2": 0,
@@ -9,7 +9,7 @@
     "https://www.vidks.net/discover?page=3": 0,
     "https://www.vidks.net/search?page=3": 24,
     "https://www.vidks.net/discover?page=4": 0,
-    "https://www.vidks.net/search?page=4": 21,
+    "https://www.vidks.net/search?page=4": 20,
     "https://www.vidks.net/discover?page=5": 0,
     "https://www.vidks.net/search?page=5": 24,
     "https://www.vidks.net/discover?page=6": 0,
@@ -79,11 +79,6 @@
     {
       "page": "https://www.vidks.net/vid/webtv-campeao-de-tudo.ks",
       "name": "Campeão de Tudo",
-      "erro": "nenhum_stream_aprovado"
-    },
-    {
-      "page": "https://www.vidks.net/vid/tv-guara.ks",
-      "name": "TV Guará",
       "erro": "nenhum_stream_aprovado"
     },
     {
@@ -249,6 +244,11 @@
     {
       "page": "https://www.vidks.net/vid/cabo-frio-tv.ks",
       "name": "Cabo Frio TV",
+      "erro": "nenhum_stream_aprovado"
+    },
+    {
+      "page": "https://www.vidks.net/vid/tv-estilo.ks",
+      "name": "TV Estilo",
       "erro": "nenhum_stream_aprovado"
     },
     {
