@@ -1,0 +1,54 @@
+name: Atualizar playlist VidKS (SS IPTV)
+
+on:
+  schedule:
+    # A cada 6 horas (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vidks-update
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Gerar playlist
+        env:
+          VIDKS_MAX_FALHAS: "6"
+          VIDKS_DEBUG: "1"
+          # Se voce descobrir a API de stream pelo F12, defina um Secret
+          # VIDKS_SOURCE_API e passe aqui, ex.:
+          # VIDKS_SOURCE_API: ${{ secrets.VIDKS_SOURCE_API }}
+        run: python gerar_vidks.py
+
+      - name: Commit e push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A playlist.m3u estado_canais.json || true
+          if git diff --cached --quiet; then
+            echo "Sem mudancas para commitar."
+            exit 0
+          fi
+          git commit -m "Atualiza playlist VidKS [skip ci]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin ${GITHUB_REF_NAME} && \
+            git push origin HEAD:${GITHUB_REF_NAME} && break
+            echo "push falhou, tentativa $i; aguardando..."
+            sleep 5
+          done
