@@ -1,54 +1,43 @@
-name: Atualizar playlist VidKS (SS IPTV)
+name: Update VidKS Playlist
 
 on:
   schedule:
     # A cada 6 horas (UTC)
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:   # permite rodar manualmente pelo botão "Run workflow"
 
 permissions:
   contents: write
 
-concurrency:
-  group: vidks-update
-  cancel-in-progress: false
-
 jobs:
-  gerar:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
-      - name: Gerar playlist
-        env:
-          VIDKS_MAX_FALHAS: "6"
-          VIDKS_DEBUG: "1"
-          # Se voce descobrir a API de stream pelo F12, defina um Secret
-          # VIDKS_SOURCE_API e passe aqui, ex.:
-          # VIDKS_SOURCE_API: ${{ secrets.VIDKS_SOURCE_API }}
-        run: python gerar_vidks.py
-
-      - name: Commit e push
+      - name: Install dependencies
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A playlist.m3u estado_canais.json || true
-          if git diff --cached --quiet; then
-            echo "Sem mudancas para commitar."
-            exit 0
-          fi
-          git commit -m "Atualiza playlist VidKS [skip ci]"
-          for i in 1 2 3 4 5; do
-            git pull --rebase --autostash origin ${GITHUB_REF_NAME} && \
-            git push origin HEAD:${GITHUB_REF_NAME} && break
-            echo "push falhou, tentativa $i; aguardando..."
-            sleep 5
-          done
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run updater
+        run: python scripts/update_playlist.py
+        # Se o IP do GitHub for bloqueado (403), o script termina com exit 1.
+        # Nesse caso o passo falha e nenhum commit é feito (comportamento desejado).
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
+          file_pattern: "data/*"
+          commit_user_name: "vidks-bot"
+          commit_user_email: "bot@users.noreply.github.com"
