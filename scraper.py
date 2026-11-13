@@ -1,12 +1,22 @@
 #!/usr/bin/env python3
 """
 Coletor VidKS -> playlist M3U otimizada para SS IPTV.
-- Percorre todas as categorias e clica em "Carregar mais" até acabar.
+
+- Abre cada categoria do site e clica em "Carregar mais" ate acabar.
 - Abre cada canal e captura o stream .m3u8.
-- Valida os streams: mantém ativos, remove inativos, adiciona novos.
+- Nao apaga nada: canais que funcionam sao mantidos, novos entram, e um canal
+  so sai da lista depois de 6 atualizacoes seguidas sem funcionar.
+- Protecao anti-apagao: se o site nao devolver canal nenhum (bloqueio de
+  regiao, site fora do ar, layout mudou), nada e contado como falha e a
+  playlist atual e preservada.
+
+Uso:
+    python scraper.py            # geracao normal
+    VIDKS_DEBUG=1 python scraper.py   # log detalhado (mostra cada canal)
 """
 import asyncio
 import json
+import os
 import re
 import unicodedata
 from datetime import datetime, timezone
@@ -15,10 +25,14 @@ from pathlib import Path
 import aiohttp
 from playwright.async_api import async_playwright, TimeoutError as PWTimeout
 
-BASE = "[vidks.net](https://www.vidks.net)"
-SEARCH_URL = f"{BASE}/search"
+# ------------------------------------------------------------------ config
+BASE = "https://www.vidks.net"          # <- SEM markdown, sempre URL pura
+SEARCH_URL = BASE + "/search"
 STATE_FILE = Path("channels.json")
 PLAYLIST_FILE = Path("playlist.m3u")
+
+FALHAS_PARA_REMOVER = 6          # so remove depois de 6 atualizacoes falhando
+VERTER_ESTADO_ANTIGO = True      # se o estado antigo nao tiver contador, considera 0
 
 LOAD_MORE_TEXTS = [
     "Carregar mais", "Mais postagens", "Ver mais", "Mostrar mais",
@@ -32,31 +46,71 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 MAX_LOAD_MORE_CLICKS = 300
 CONCURRENCY = 4
 PAGE_TIMEOUT = 45_000
+DEBUG = os.environ.get("VIDKS_DEBUG") == "1"
 
 
+# ------------------------------------------------------------------ util
 def slugify(text: str) -> str:
     t = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
 
 
+def limpar_url(u: str) -> str:
+    """Remove restos de markdown/espacos de uma URL."""
+    if not u:
+        return ""
+    u = u.strip()
+    # [texto](url) -> url
+    m = re.search(r"\]\((https?://[^)\s]+)\)", u)
+    if m:
+        return m.group(1)
+    # [texto](www.site.com) -> https://www.site.com
+    m = re.search(r"\]\(((?:www\.)?[^)\s]+)\)", u)
+    if m:
+        u = m.group(1)
+    return u.replace("[", "").replace("]", "").strip()
+
+
+def url_valida(u: str) -> bool:
+    return bool(u) and bool(re.match(r"^https?://[^\s/]+\.[^\s/]+", u))
+
+
+async def goto(page, url, **kw):
+    """Navegacao tolerante: nunca deixa 'networkidle' derrubar o script."""
+    url = limpar_url(url)
+    if not url_valida(url):
+        raise ValueError(f"URL invalida: {url!r}")
+    wait = kw.pop("wait_until", "domcontentloaded")
+    try:
+        await page.goto(url, wait_until=wait, timeout=PAGE_TIMEOUT, **kw)
+    except PWTimeout:
+        print(f"  [~] timeout ao abrir {url} (seguindo assim mesmo)")
+        return
+    # espera curta pela hidratacao do JS, sem depender de networkidle
+    try:
+        await page.wait_for_load_state("load", timeout=15000)
+    except PWTimeout:
+        pass
+    await page.wait_for_timeout(1200)
+
+
 # ---------------------------------------------------------------- categorias
 async def get_categories(page):
-    await page.goto(SEARCH_URL, wait_until="networkidle", timeout=PAGE_TIMEOUT)
+    await goto(page, SEARCH_URL)
     links = await page.eval_on_selector_all(
         "a[href*='category=']",
         "els => els.map(e => ({href: e.href, name: e.textContent.trim()}))",
     )
     cats = {}
     for l in links:
-        m = re.search(r"category=(\d+)", l["href"])
+        m = re.search(r"category=(\d+)", l["href"] or "")
         if m and l["name"]:
-            cats.setdefault(m.group(1), l["name"])
+            cats.setdefault(m.group(1), " ".join(l["name"].split()))
     print(f"[i] {len(cats)} categorias: {list(cats.values())}")
     return cats
 
 
 async def click_load_more(page) -> bool:
-    """Tenta clicar no botão de carregar mais. Retorna False se não existir."""
     for txt in LOAD_MORE_TEXTS:
         btn = page.locator(
             f"button:has-text('{txt}'), a:has-text('{txt}'), "
@@ -84,37 +138,35 @@ async def collect_links(page):
     )
     out = {}
     for h in hrefs:
-        m = CHANNEL_RE.search(h["href"])
-        if m:
-            name = re.sub(r"^Assistir\s+|\s+ao vivo$", "", h["name"], flags=re.I)
-            out[BASE + m.group(0)] = {"name": name.split("\n")[0].strip(),
-                                      "logo": h["logo"]}
+        m = CHANNEL_RE.search(limpar_url(h["href"]))
+        if not m:
+            continue
+        name = re.sub(r"^Assistir\s+|\s+ao vivo$", "", h["name"] or "", flags=re.I)
+        name = " ".join(name.split("\n")[0].split())
+        out[BASE + m.group(0)] = {"name": name or m.group(0), "logo": h["logo"] or ""}
     return out
 
 
 async def crawl_category(page, cat_id, cat_name):
-    url = f"{SEARCH_URL}?category={cat_id}"
-    await page.goto(url, wait_until="networkidle", timeout=PAGE_TIMEOUT)
+    await goto(page, f"{SEARCH_URL}?category={cat_id}")
     found = await collect_links(page)
     clicks = 0
     while clicks < MAX_LOAD_MORE_CLICKS:
         before = len(found)
         clicked = await click_load_more(page)
         if not clicked:
-            # fallback: rolagem infinita
-            await page.mouse.wheel(0, 20000)
+            await page.mouse.wheel(0, 20000)      # fallback: rolagem infinita
         try:
-            await page.wait_for_load_state("networkidle", timeout=10000)
+            await page.wait_for_load_state("networkidle", timeout=8000)
         except PWTimeout:
             pass
         await page.wait_for_timeout(1500)
         found.update(await collect_links(page))
         clicks += 1
-        if len(found) == before and not clicked:
-            break                       # nada novo e sem botão -> fim
-        if len(found) == before and clicked:
-            # clicou mas não veio nada: tenta mais uma vez e encerra
-            if not await click_load_more(page):
+        if len(found) == before:
+            if not clicked:
+                break                             # sem botao e nada novo -> fim
+            if not await click_load_more(page):    # clicou e veio vazio: tenta 1x
                 break
     print(f"  [{cat_name}] {len(found)} canais ({clicks} carregamentos)")
     for v in found.values():
@@ -129,10 +181,11 @@ async def extract_stream(context, url, sem):
         streams = []
         page.on("request", lambda r: streams.append(r.url)
                 if ".m3u8" in r.url.lower() else None)
+        logo = ""
         try:
-            await page.goto(url, wait_until="domcontentloaded", timeout=PAGE_TIMEOUT)
-            await page.wait_for_timeout(6000)   # deixa o player iniciar
-            # tenta dar play caso precise de interação
+            await page.goto(limpar_url(url), wait_until="domcontentloaded",
+                            timeout=PAGE_TIMEOUT)
+            await page.wait_for_timeout(6000)     # deixa o player iniciar
             for sel in ["button[aria-label*='Play' i]", ".vjs-big-play-button",
                         ".jw-icon-playback", "video"]:
                 try:
@@ -151,13 +204,14 @@ async def extract_stream(context, url, sem):
             logo = await page.evaluate(
                 "document.querySelector('meta[property=\"og:image\"]')?.content || ''")
         except Exception as e:
-            print(f"  [!] {url}: {e}")
-            logo = ""
+            print(f"  [!] {url}: {str(e).splitlines()[0][:160]}")
         finally:
             await page.close()
-        streams = [s.replace("\\/", "/") for s in streams]
-        # prioriza playlist master
-        streams.sort(key=lambda s: ("master" not in s and "index" not in s, len(s)))
+        streams = [limpar_url(s).replace("\\/", "/") for s in streams]
+        streams = [s for s in streams if url_valida(s)]
+        streams.sort(key=lambda s: (("master" not in s and "index" not in s), len(s)))
+        if DEBUG:
+            print(f"  [dbg] {url} -> {len(streams)} m3u8")
         return (streams[0] if streams else None), logo
 
 
@@ -176,7 +230,7 @@ async def is_alive(session, url):
 
 # ---------------------------------------------------------------- M3U
 def write_m3u(channels):
-    lines = [f'#EXTM3U x-tvg-url="" url-tvg=""',
+    lines = ['#EXTM3U x-tvg-url="" url-tvg=""',
              f"# Atualizado: {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC",
              f"# Canais ativos: {len(channels)}"]
     for ch in sorted(channels.values(), key=lambda c: (c["group"], c["name"].lower())):
@@ -191,56 +245,114 @@ def write_m3u(channels):
 
 # ---------------------------------------------------------------- main
 async def main():
-    old = json.loads(STATE_FILE.read_text("utf-8")) if STATE_FILE.exists() else {}
+    old = {}
+    if STATE_FILE.exists():
+        try:
+            old = json.loads(STATE_FILE.read_text("utf-8"))
+        except Exception:
+            print("[!] channels.json ilegivel, comecando do zero")
 
+    discovered = {}
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(user_agent=UA, locale="pt-BR")
         page = await context.new_page()
 
-        cats = await get_categories(page)
-        discovered = {}
+        try:
+            cats = await get_categories(page)
+        except Exception as e:
+            print(f"[!] nao consegui ler as categorias: {e}")
+            cats = {}
+
         for cid, cname in cats.items():
             try:
                 for url, data in (await crawl_category(page, cid, cname)).items():
-                    discovered.setdefault(url, data)   # 1ª categoria vence
+                    discovered.setdefault(url, data)      # 1a categoria vence
             except Exception as e:
-                print(f"  [!] categoria {cname}: {e}")
-        # canais em destaque da home (podem não estar em categorias)
-        await page.goto(BASE, wait_until="networkidle", timeout=PAGE_TIMEOUT)
-        for url, data in (await collect_links(page)).items():
-            discovered.setdefault(url, {**data, "group": "Outros"})
+                print(f"  [!] categoria {cname}: {str(e).splitlines()[0][:160]}")
+
+        # canais em destaque da home (podem nao estar em categorias)
+        try:
+            await goto(page, BASE)
+            for url, data in (await collect_links(page)).items():
+                discovered.setdefault(url, {**data, "group": "Outros"})
+        except Exception as e:
+            print(f"  [!] home: {str(e).splitlines()[0][:160]}")
         await page.close()
         print(f"[i] Total descoberto: {len(discovered)}")
 
-        sem = asyncio.Semaphore(CONCURRENCY)
-        urls = list(discovered)
-        results = await asyncio.gather(*(extract_stream(context, u, sem) for u in urls))
+        results = []
+        if discovered:
+            sem = asyncio.Semaphore(CONCURRENCY)
+            urls = list(discovered)
+            results = await asyncio.gather(*(extract_stream(context, u, sem) for u in urls))
+        else:
+            urls = []
         await browser.close()
 
+    # ---------------- anti-apagao: nada descoberto = nao mexe em nada
+    if not discovered:
+        print("[!] ZERO canais encontrados. Nenhuma falha foi contada e a "
+              "playlist atual foi preservada (site bloqueado/fora do ar ou "
+              "layout mudou).")
+        if not PLAYLIST_FILE.exists():
+            PLAYLIST_FILE.write_text(
+                '#EXTM3U\n# Nenhum canal coletado nesta execucao\n', encoding="utf-8")
+        return
+
     new_state = {}
+    checks = []
+    for url, (stream, logo) in zip(urls, results):
+        d = discovered[url]
+        stream = stream or (old.get(url, {}) or {}).get("stream")   # fallback ao antigo
+        if stream:
+            checks.append((url, d, stream, logo or d.get("logo", "")))
+
     async with aiohttp.ClientSession() as session:
-        checks = []
-        for url, (stream, logo) in zip(urls, results):
-            d = discovered[url]
-            stream = stream or old.get(url, {}).get("stream")  # fallback ao antigo
-            if stream:
-                checks.append((url, d, stream, logo or d.get("logo", "")))
         alive = await asyncio.gather(*(is_alive(session, c[2]) for c in checks))
 
-    added = removed = kept = 0
+    # ---------------- reconciliacao com contador de falhas
+    falhas = {}
     for (url, d, stream, logo), ok in zip(checks, alive):
+        prev = old.get(url) or {}
+        n = int(prev.get("falhas", 0)) if VERTER_ESTADO_ANTIGO else 0
         if ok:
             new_state[url] = {"name": d["name"], "group": d["group"],
-                              "logo": logo, "stream": stream, "page": url}
-            if url in old: kept += 1
-            else: added += 1
-    removed = len(set(old) - set(new_state))
+                              "logo": logo, "stream": stream,
+                              "page": url, "falhas": 0}
+        else:
+            falhas[url] = n + 1
+            print(f"  [x] sem sinal ({falhas[url]}/{FALHAS_PARA_REMOVER}): {d['name']}")
 
-    STATE_FILE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2), "utf-8")
+    # canais que sumiram do site tambem contam falha (nao sao apagados de imediato)
+    for url, prev in old.items():
+        if url in new_state or url in falhas:
+            continue
+        n = int(prev.get("falhas", 0)) + 1
+        falhas[url] = n
+
+    # mantem os que ainda nao atingiram o limite
+    mantidos_por_tolerancia = 0
+    for url, n in falhas.items():
+        prev = old.get(url) or {}
+        if n < FALHAS_PARA_REMOVER and prev.get("stream"):
+            new_state[url] = {**prev, "falhas": n}
+            mantidos_por_tolerancia += 1
+
+    def _nomes(d):
+        return {v.get("name") for v in d.values()}
+
+    old_n, new_n = _nomes(old), _nomes(new_state)
+    kept = len(old_n & new_n)
+    added = len(new_n - old_n)
+    removed = len(old_n - new_n)
+
+    STATE_FILE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2),
+                          encoding="utf-8")
     write_m3u(new_state)
-    print(f"[✓] Mantidos: {kept} | Novos: {added} | Removidos: {removed} | "
-          f"Total: {len(new_state)}")
+    print(f"[OK] Mantidos: {kept} | Novos: {added} | Removidos: {removed} | "
+          f"Em tolerancia: {mantidos_por_tolerancia} | Total: {len(new_state)}")
+    print(f"[i] Arquivos: {PLAYLIST_FILE.resolve()} e {STATE_FILE.resolve()}")
 
 
 if __name__ == "__main__":
