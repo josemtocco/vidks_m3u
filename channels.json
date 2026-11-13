@@ -1,0 +1,2498 @@
+{
+  "https://www.vidks.net/vid/cazetv.ks": {
+    "name": "CazéTV",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/cazetv.webp?q=70",
+    "stream": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/240p-cc/index.m3u8",
+    "page": "https://www.vidks.net/vid/cazetv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rafael-saraiva-sports.ks": {
+    "name": "RS News Sports",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/rafael-saraiva-sports.webp?q=70",
+    "stream": "https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rafael-saraiva-sports.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/ge-tv.ks": {
+    "name": "GE TV",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/ge-tv.webp?q=70",
+    "stream": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
+    "page": "https://www.vidks.net/vid/ge-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/esportes-df.ks": {
+    "name": "Esportes Brasília TV",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/esportes-df.webp?q=70",
+    "stream": "https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/esportes-df.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/sft-combat.ks": {
+    "name": "SFT Combat",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/sft-combat.webp?q=70",
+    "stream": "https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8",
+    "page": "https://www.vidks.net/vid/sft-combat.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/racer-brasil.ks": {
+    "name": "Racer Brasil",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/racer-brasil.webp?q=70",
+    "stream": "https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/racer-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rsnews-webtv.ks": {
+    "name": "RS News WebTV",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/rsnews-webtv.webp?q=70",
+    "stream": "https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rsnews-webtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/real-madrid-tv.ks": {
+    "name": "Real Madrid TV",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/real-madrid-tv.webp?q=70",
+    "stream": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+    "page": "https://www.vidks.net/vid/real-madrid-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/auge-esportes.ks": {
+    "name": "Auge Esportes",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/auge-esportes.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/auge-esportes.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/play-tv-horse.ks": {
+    "name": "Play TV Horse",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/play-tv-horse.webp?q=70",
+    "stream": "https://origin-fast.b-cdn.net/PLAYHORSE_TV/index.m3u8",
+    "page": "https://www.vidks.net/vid/play-tv-horse.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/fish-tv.ks": {
+    "name": "Fish TV",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/fish-tv.webp?q=70",
+    "stream": "https://origin-08.bariguitelecom.com.br/FISH_TV/index.m3u8",
+    "page": "https://www.vidks.net/vid/fish-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-da-pesca.ks": {
+    "name": "TV da Pesca",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/tv-da-pesca.webp?q=70",
+    "stream": "https://isaocorp.cloudecast.com/tvdapesca/index.m3u8",
+    "page": "https://www.vidks.net/vid/tv-da-pesca.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-goat.ks": {
+    "name": "Canal GOAT",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/canal-goat.webp?q=70",
+    "stream": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
+    "page": "https://www.vidks.net/vid/canal-goat.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/n-sports.ks": {
+    "name": "N Sports",
+    "group": "Esportes",
+    "logo": "https://img.vidks.net/v3x/l/n-sports.webp?q=70",
+    "stream": "https://origin-fast.b-cdn.net/NSPORTS/index.m3u8",
+    "page": "https://www.vidks.net/vid/n-sports.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/record-tv-goias.ks": {
+    "name": "Record TV Goiás",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/record-tv-goias.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/record-tv-goias.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rbtv.ks": {
+    "name": "Rede Brasil",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/rbtv.webp?q=70",
+    "stream": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+    "page": "https://www.vidks.net/vid/rbtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/sbt-interior-sp.ks": {
+    "name": "SBT Interior",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/sbt-interior-sp.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/sbt-interior-sp.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-bandeirantes.ks": {
+    "name": "Band",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/rede-bandeirantes.webp?q=70",
+    "stream": "https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8",
+    "page": "https://www.vidks.net/vid/rede-bandeirantes.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/record-tv.ks": {
+    "name": "Record TV",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/record-tv.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "page": "https://www.vidks.net/vid/record-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-conquista.ks": {
+    "name": "TV Conquista",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-conquista.webp?q=70",
+    "stream": "https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8",
+    "page": "https://www.vidks.net/vid/tv-conquista.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/redetv-mais.ks": {
+    "name": "RedeTV Mais",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/redetv-mais.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/redetv-mais.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-vila-real.ks": {
+    "name": "TV Vila Real",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-vila-real.webp?q=70",
+    "stream": "https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-vila-real.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-arapuan.ks": {
+    "name": "TV Arapuan",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-arapuan.webp?q=70",
+    "stream": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-arapuan.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/record-tv-rio-janeiro.ks": {
+    "name": "Record TV Rio",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/record-tv-rio-janeiro.webp?q=70",
+    "stream": "https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8",
+    "page": "https://www.vidks.net/vid/record-tv-rio-janeiro.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-guajara.ks": {
+    "name": "TV Guajará",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-guajara.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-guajara.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-gazeta.ks": {
+    "name": "TV Gazeta",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-gazeta.webp?q=70",
+    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-gazeta.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/redetv-rondonia.ks": {
+    "name": "RedeTV! Rondônia",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/redetv-rondonia.webp?q=70",
+    "stream": "https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/redetv-rondonia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rbatv.ks": {
+    "name": "RBATV",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/rbatv.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+    "page": "https://www.vidks.net/vid/rbatv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-pampa.ks": {
+    "name": "TV Pampa",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-pampa.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-pampa.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-amplitude-juina.ks": {
+    "name": "TV Amplitude Juína",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-amplitude-juina.webp?q=70",
+    "stream": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-amplitude-juina.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-cidade-verde.ks": {
+    "name": "TV Cidade Verde",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-cidade-verde.webp?q=70",
+    "stream": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-cidade-verde.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-cidade.ks": {
+    "name": "TV Cidade",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-cidade.webp?q=70",
+    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-cidade.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-aratu.ks": {
+    "name": "TV Aratu",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-aratu.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-aratu.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-tropical.ks": {
+    "name": "TV Tropical",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-tropical.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-tropical.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-familia.ks": {
+    "name": "Rede Família",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/rede-familia.webp?q=70",
+    "stream": "https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-familia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-tv-parana.ks": {
+    "name": "RedeTV! Paraná",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/rede-tv-parana.webp?q=70",
+    "stream": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-tv-parana.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/sic-tv.ks": {
+    "name": "SIC TV",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/sic-tv.webp?q=70",
+    "stream": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
+    "page": "https://www.vidks.net/vid/sic-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-sucesso.ks": {
+    "name": "TV Sucesso",
+    "group": "TV Aberta",
+    "logo": "https://img.vidks.net/v3x/l/tv-sucesso.webp?q=70",
+    "stream": "https://tv.gs10.com.br/hls/stream1.m3u8",
+    "page": "https://www.vidks.net/vid/tv-sucesso.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/webtv-vintage.ks": {
+    "name": "WebTV Vintage",
+    "group": "Séries",
+    "logo": "https://img.vidks.net/v3x/l/webtv-vintage.webp?q=70",
+    "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65",
+    "page": "https://www.vidks.net/vid/webtv-vintage.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-channel-network.ks": {
+    "name": "TV Channel Network",
+    "group": "Séries",
+    "logo": "https://img.vidks.net/v3x/l/tv-channel-network.webp?q=70",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-channel-network.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/reviva-tv.ks": {
+    "name": "Reviva TV",
+    "group": "Séries",
+    "logo": "https://img.vidks.net/v3x/l/reviva-tv.webp?q=70",
+    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/reviva-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tela-brasil-tv.ks": {
+    "name": "Tela Brasil TV",
+    "group": "Séries",
+    "logo": "https://img.vidks.net/v3x/l/tela-brasil-tv.webp?q=70",
+    "stream": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tela-brasil-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-series.ks": {
+    "name": "TV Séries",
+    "group": "Séries",
+    "logo": "https://img.vidks.net/v3x/l/tv-series.webp?q=70",
+    "stream": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-series.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/classique-tv.ks": {
+    "name": "Classique TV",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/classique-tv.webp?q=70",
+    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/classique-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/mytime-movie-brazil.ks": {
+    "name": "MyTime Movie Network",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/mytime-movie-brazil.webp?q=70",
+    "stream": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/mytime-movie-brazil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/darkflix-tv.ks": {
+    "name": "Darkflix TV",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/darkflix-tv.webp?q=70",
+    "stream": "https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8",
+    "page": "https://www.vidks.net/vid/darkflix-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/qtal-channel.ks": {
+    "name": "QTal? Channel",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/qtal-channel.webp?q=70",
+    "stream": "https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/qtal-channel.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/classique-tv-western.ks": {
+    "name": "Classique TV Western",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/classique-tv-western.webp?q=70",
+    "stream": "https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/classique-tv-western.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/adrenalina-pura-tv.ks": {
+    "name": "Adrenalina Pura TV",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/adrenalina-pura-tv.webp?q=70",
+    "stream": "https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/240p-pt-cc/index.m3u8",
+    "page": "https://www.vidks.net/vid/adrenalina-pura-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/gospel-movie-tv.ks": {
+    "name": "Gospel Movie TV",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/gospel-movie-tv.webp?q=70",
+    "stream": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/gospel-movie-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/cine-trianon-tv.ks": {
+    "name": "Cine Trianon TV",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/cine-trianon-tv.webp?q=70",
+    "stream": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/1200.m3u8",
+    "page": "https://www.vidks.net/vid/cine-trianon-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/londrina-tv.ks": {
+    "name": "Londrina TV",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/londrina-tv.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/tvinga/playlist/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/londrina-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/cinebrasil-tv.ks": {
+    "name": "CineBrasil TV",
+    "group": "Filmes",
+    "logo": "https://img.vidks.net/v3x/l/cinebrasil-tv.webp?q=70",
+    "stream": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/cinebrasil-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-luzilandia.ks": {
+    "name": "TVL News",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/tv-luzilandia.webp?q=70",
+    "stream": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-luzilandia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/cnn-brasil.ks": {
+    "name": "CNN Brasil",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/cnn-brasil.webp?q=70",
+    "stream": "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/cnn-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/record-news.ks": {
+    "name": "Record News",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/record-news.webp?q=70",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431",
+    "page": "https://www.vidks.net/vid/record-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/jp-news.ks": {
+    "name": "Jovem Pan News",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/jp-news.webp?q=70",
+    "stream": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/jp-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-guara.ks": {
+    "name": "TV Guará",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/tv-guara.webp?q=70",
+    "stream": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-guara.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/band-news.ks": {
+    "name": "Band News",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/band-news.webp?q=70",
+    "stream": "https://cdn-5.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8",
+    "page": "https://www.vidks.net/vid/band-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-tv-mais.ks": {
+    "name": "Rede TV Mais",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/rede-tv-mais.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-tv-mais.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/news-rondonia.ks": {
+    "name": "News Rondônia TV",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/news-rondonia.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/news-rondonia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/catve.ks": {
+    "name": "Catve",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/catve.webp?q=70",
+    "stream": "https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/catve.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/giro-tv-news.ks": {
+    "name": "Giro TV News",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/giro-tv-news.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/giro-tv-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-sdb.ks": {
+    "name": "TV Serra dos Brindes",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/tv-sdb.webp?q=70",
+    "stream": "https://5c483b9d1019c.streamlock.net/tvserradosbrindes/tvserradosbrindes/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-sdb.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/webtv-ribeirao-news.ks": {
+    "name": "WebTV Ribeirão News",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/webtv-ribeirao-news.webp?q=70",
+    "stream": "https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8",
+    "page": "https://www.vidks.net/vid/webtv-ribeirao-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/mam-news-webtv.ks": {
+    "name": "MAM News WebTV",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/mam-news-webtv.webp?q=70",
+    "stream": "https://stmv2.samcast.com.br/mamnews/mamnews/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/mam-news-webtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/j3news-tv.ks": {
+    "name": "J3News TV",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/j3news-tv.webp?q=70",
+    "stream": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/j3news-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-assu.ks": {
+    "name": "TV Assu",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/tv-assu.webp?q=70",
+    "stream": "https://stmv5.samcast.com.br/pedronunesdacostaneto2742/pedronunesdacostaneto2742/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-assu.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/ie-tv.ks": {
+    "name": "IE TV",
+    "group": "Notícias",
+    "logo": "https://img.vidks.net/v3x/l/ie-tv.webp?q=70&v=bedce629a83592df",
+    "stream": "https://stmv2.painelvideocast.com.br/7976/7976/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/ie-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-historia.ks": {
+    "name": "TV História",
+    "group": "Documentários",
+    "logo": "https://img.vidks.net/v3x/l/tv-historia.webp?q=70",
+    "stream": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-historia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvideonews.ks": {
+    "name": "TVídeoNews",
+    "group": "Documentários",
+    "logo": "https://img.vidks.net/v3x/l/tvideonews.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvideonews.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/curta.ks": {
+    "name": "Curta!",
+    "group": "Documentários",
+    "logo": "https://img.vidks.net/v3x/l/curta.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8",
+    "page": "https://www.vidks.net/vid/curta.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-mundo-tv.ks": {
+    "name": "Rede Mundo TV",
+    "group": "Documentários",
+    "logo": "https://img.vidks.net/v3x/l/rede-mundo-tv.webp?q=70",
+    "stream": "https://cdn.br10.sbs/memfs/db7562c5-6ba7-47a3-9c0c-ca6cf779ac62.m3u8",
+    "page": "https://www.vidks.net/vid/rede-mundo-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-gideoes.ks": {
+    "name": "TV Gideões",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/tv-gideoes.webp?q=70",
+    "stream": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-gideoes.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-gospel.ks": {
+    "name": "Rede Gospel",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/rede-gospel.webp?q=70",
+    "stream": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "page": "https://www.vidks.net/vid/rede-gospel.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-luz-para-vida.ks": {
+    "name": "Rede Luz para Vida",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/rede-luz-para-vida.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/redeluzparavida/redeluzparavida/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-luz-para-vida.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-vida.ks": {
+    "name": "Rede Vida",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/rede-vida.webp?q=70",
+    "stream": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8",
+    "page": "https://www.vidks.net/vid/rede-vida.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/impd-tv.ks": {
+    "name": "IMPD TV",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/impd-tv.webp?q=70",
+    "stream": "https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/impd-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-sepiol.ks": {
+    "name": "TV Sepiol",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/tv-sepiol.webp?q=70",
+    "stream": "https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-sepiol.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/novo-tempo.ks": {
+    "name": "Novo Tempo",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/novo-tempo.webp?q=70",
+    "stream": "https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/novo-tempo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/fonte-tv.ks": {
+    "name": "Fonte TV",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/fonte-tv.webp?q=70",
+    "stream": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/fonte-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-evangelizar.ks": {
+    "name": "TV Evangelizar",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/tv-evangelizar.webp?q=70",
+    "stream": "https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8",
+    "page": "https://www.vidks.net/vid/tv-evangelizar.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-pai-eterno.ks": {
+    "name": "TV Pai Eterno",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/tv-pai-eterno.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-pai-eterno.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-aparecida.ks": {
+    "name": "TV Aparecida",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/tv-aparecida.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-aparecida.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/cancao-nova.ks": {
+    "name": "Canção Nova",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/cancao-nova.webp?q=70",
+    "stream": "https://origin-08.bariguitelecom.com.br/CANCAO_NOVA/index.m3u8",
+    "page": "https://www.vidks.net/vid/cancao-nova.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/psj-tv.ks": {
+    "name": "Paróquia de São José TV",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/psj-tv.webp?q=70",
+    "stream": "https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/psj-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mana-brasil.ks": {
+    "name": "TV Maná Brasil",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/tv-mana-brasil.webp?q=70",
+    "stream": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mana-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/atrios-tv.ks": {
+    "name": "AtriosTV",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/atrios-tv.webp?q=70&v=d746a9e34c911031",
+    "stream": "https://desktop-8g18sak.tail547855.ts.net/obsplay/index.m3u8",
+    "page": "https://www.vidks.net/vid/atrios-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-avivando-nacoes.ks": {
+    "name": "TV Avivando Nações",
+    "group": "Religiosos",
+    "logo": "https://img.vidks.net/v3x/l/tv-avivando-nacoes.webp?q=70&v=98158c09fff48850",
+    "stream": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-avivando-nacoes.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/lucas-tv.ks": {
+    "name": "Lucas TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/lucas-tv.webp?q=70",
+    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/lucas-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/webtv-xtreme.ks": {
+    "name": "Xtreme TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/webtv-xtreme.webp?q=70",
+    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/webtv-xtreme.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-clone-tv.ks": {
+    "name": "Clouding TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/rede-clone-tv.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-clone-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-pantanal-ms.ks": {
+    "name": "TV Pantanal MS",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-pantanal-ms.webp?q=70",
+    "stream": "https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-pantanal-ms.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-aracati.ks": {
+    "name": "TV Aracati",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-aracati.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-aracati.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvitape.ks": {
+    "name": "TVitapê",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tvitape.webp?q=70",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
+    "page": "https://www.vidks.net/vid/tvitape.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvgeral.ks": {
+    "name": "TVGeral",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tvgeral.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/tvgeral/tvgeral/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvgeral.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-nova-juarez.ks": {
+    "name": "TV Nova Juarez",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-nova-juarez.webp?q=70",
+    "stream": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-nova-juarez.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/bs-tv-online.ks": {
+    "name": "BS TV Online",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/bs-tv-online.webp?q=70&v=8e29a6749c02aa7f",
+    "stream": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/bs-tv-online.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvr-sul.ks": {
+    "name": "TVR Sul",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tvr-sul.webp?q=70",
+    "stream": "https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvr-sul.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvnbn.ks": {
+    "name": "TV NBN",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tvnbn.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvnbn.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-wtj-minas.ks": {
+    "name": "TV WTJ Minas",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-wtj-minas.webp?q=70",
+    "stream": "https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-wtj-minas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-start.ks": {
+    "name": "Canal Start",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/canal-start.webp?q=70",
+    "stream": "https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/canal-start.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/loading.ks": {
+    "name": "Universo Loading",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/loading.webp?q=70",
+    "stream": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/loading.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/7-tvs.ks": {
+    "name": "7 TVs",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/7-tvs.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/7-tvs.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/swt-itanhaem.ks": {
+    "name": "SWT WebTV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/swt-itanhaem.webp?q=70",
+    "stream": "https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/swt-itanhaem.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-sptv.ks": {
+    "name": "Rede SPTV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/rede-sptv.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-sptv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/webtv-caravelas.ks": {
+    "name": "Caravelas TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/webtv-caravelas.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/webtv-caravelas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/seven-tv.ks": {
+    "name": "Seven TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/seven-tv.webp?q=70",
+    "stream": "https://stmv1.srvif.com/seventv/seventv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/seven-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/mjr-tv.ks": {
+    "name": "Miguel Junior TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/mjr-tv.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/mjr-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvmaster.ks": {
+    "name": "TV Master",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tvmaster.webp?q=70",
+    "stream": "https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvmaster.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-novelas.ks": {
+    "name": "Rede Novelas",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-novelas.webp?q=70",
+    "stream": "https://stmv7.voxtvhd.com.br/lucas3274/lucas3274/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-novelas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-ondas-play.ks": {
+    "name": "TV Ondas Play",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-ondas-play.webp?q=70",
+    "stream": "https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-ondas-play.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/wtv-brasil.ks": {
+    "name": "WTV Brasil",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/wtv-brasil.webp?q=70",
+    "stream": "https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/wtv-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/se-connection.ks": {
+    "name": "SE Connection",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/se-connection.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/sergio/sergio/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/se-connection.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/ntoons-brasil.ks": {
+    "name": "NToons Brasil",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/ntoons-brasil.webp?q=70",
+    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/ntoons-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-metropolitana-rio.ks": {
+    "name": "TV Metropolitana Rio",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-metropolitana-rio.webp?q=70",
+    "stream": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-metropolitana-rio.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/nossa-tv-mossoro.ks": {
+    "name": "Nossa TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/nossa-tv-mossoro.webp?q=70",
+    "stream": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/nossa-tv-mossoro.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mais-brasil.ks": {
+    "name": "TV Mais Brasil",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-mais-brasil.webp?q=70",
+    "stream": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mais-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/baixada-santista-tv.ks": {
+    "name": "Canal BS TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/baixada-santista-tv.webp?q=70",
+    "stream": "https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/baixada-santista-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mais-marica.ks": {
+    "name": "TV Mais Maricá",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-mais-marica.webp?q=70",
+    "stream": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mais-marica.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/ubisoft-tv.ks": {
+    "name": "Ubisoft TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/ubisoft-tv.webp?q=70",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612",
+    "page": "https://www.vidks.net/vid/ubisoft-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-estilo.ks": {
+    "name": "TV Estilo",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-estilo.webp?q=70",
+    "stream": "https://stmv8.samcast.com.br/tvestilo/tvestilo/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-estilo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-clube-web.ks": {
+    "name": "TV Clube Web",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-clube-web.webp?q=70",
+    "stream": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-clube-web.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/top-tv-on.ks": {
+    "name": "Top TV On",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/top-tv-on.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/top-tv-on.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/auge-tv.ks": {
+    "name": "Auge TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/auge-tv.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/auge-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/fala-litoral-webtv.ks": {
+    "name": "Fala Litoral WebTV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/fala-litoral-webtv.webp?q=70",
+    "stream": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/fala-litoral-webtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/sertao-tv.ks": {
+    "name": "Sertão TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/sertao-tv.webp?q=70",
+    "stream": "https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/sertao-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/netv.ks": {
+    "name": "Nova Era TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/netv.webp?q=70",
+    "stream": "https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/netv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-ti-vejo.ks": {
+    "name": "TV Ti Vejo",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-ti-vejo.webp?q=70",
+    "stream": "https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-ti-vejo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/alternativa-tv-ivai.ks": {
+    "name": "Alternativa WebTV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/alternativa-tv-ivai.webp?q=70",
+    "stream": "https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/alternativa-tv-ivai.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/coletiva-tv.ks": {
+    "name": "Coletiva TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/coletiva-tv.webp?q=70",
+    "stream": "https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/coletiva-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-brasil-sinop.ks": {
+    "name": "TV Brasil SInop",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-brasil-sinop.webp?q=70&v=ebf0f277ad27c2a7",
+    "stream": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-brasil-sinop.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/demais-tv.ks": {
+    "name": "Demais TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/demais-tv.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/demais-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-carioca.ks": {
+    "name": "TV Carioca",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-carioca.webp?q=70",
+    "stream": "https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-carioca.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-omindare.ks": {
+    "name": "TV Omindaré",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-omindare.webp?q=70",
+    "stream": "https://stmv2.srvif.com/tvomindare/tvomindare/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-omindare.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/via-morena.ks": {
+    "name": "Via Morena",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/via-morena.webp?q=70",
+    "stream": "https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/via-morena.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/webtv-caravelas-ba.ks": {
+    "name": "Caravelas TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/webtv-caravelas-ba.webp?q=70",
+    "stream": "https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/webtv-caravelas-ba.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-ricos.ks": {
+    "name": "Canal Ricos",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/canal-ricos.webp?q=70",
+    "stream": "https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/canal-ricos.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-passo-fundo.ks": {
+    "name": "TV Passo Fundo",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-passo-fundo.webp?q=70",
+    "stream": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-passo-fundo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-galega.ks": {
+    "name": "TV Galega",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-galega.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-galega.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-digital-birigui.ks": {
+    "name": "TV Digital Birigui",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-digital-birigui.webp?q=70",
+    "stream": "https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-digital-birigui.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-jsid.ks": {
+    "name": "TV J.SID",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-jsid.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-jsid.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-precabura.ks": {
+    "name": "TV Precabura",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-precabura.webp?q=70",
+    "stream": "https://srv2.zcast.com.br/tvprecabura/tvprecabura/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-precabura.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-sertao-petrolina.ks": {
+    "name": "TV Sertão Petrolina",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-sertao-petrolina.webp?q=70",
+    "stream": "https://video07.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-sertao-petrolina.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-alogonet.ks": {
+    "name": "TV Alagonet",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-alogonet.webp?q=70",
+    "stream": "https://cs3.voxhd.com.br/11748/11748/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-alogonet.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-das-artes.ks": {
+    "name": "TV das Artes",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-das-artes.webp?q=70",
+    "stream": "https://stmv7.samcast.com.br/luca8510/luca8510/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-das-artes.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-liberdade.ks": {
+    "name": "TV Liberdade",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-liberdade.webp?q=70",
+    "stream": "https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-liberdade.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-qdm.ks": {
+    "name": "TV Que Demais",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/rede-qdm.webp?q=70",
+    "stream": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-qdm.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-avant.ks": {
+    "name": "TV Avant",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-avant.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/tvavant/tvavant/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-avant.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/livretv.ks": {
+    "name": "LivreTV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/livretv.webp?q=70",
+    "stream": "https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/livretv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/latinasat.ks": {
+    "name": "LatinaSat",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/latinasat.webp?q=70",
+    "stream": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
+    "page": "https://www.vidks.net/vid/latinasat.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-24-horas.ks": {
+    "name": "Canal 24 Horas",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/canal-24-horas.webp?q=70",
+    "stream": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/canal-24-horas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/dunas-tv.ks": {
+    "name": "Dunas TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/dunas-tv.webp?q=70",
+    "stream": "https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/dunas-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/conexao-brazil.ks": {
+    "name": "Conexão Brazil",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/conexao-brazil.webp?q=70",
+    "stream": "https://stmv2.painelvideocast.com.br/3217/3217/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/conexao-brazil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-montanha.ks": {
+    "name": "TV Montanha",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-montanha.webp?q=70",
+    "stream": "https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-montanha.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-destak.ks": {
+    "name": "TV Destak",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-destak.webp?q=70",
+    "stream": "https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-destak.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/conecta-mais.ks": {
+    "name": "Conecta Mais",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/conecta-mais.webp?q=70",
+    "stream": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
+    "page": "https://www.vidks.net/vid/conecta-mais.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rs-tv-sul.ks": {
+    "name": "RS TV Sul",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/rs-tv-sul.webp?q=70",
+    "stream": "https://video03.logicahost.com.br/rstv/rstv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rs-tv-sul.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-sol-comunidade.ks": {
+    "name": "TV Sol Comunidade",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-sol-comunidade.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-sol-comunidade.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/srtv-pb.ks": {
+    "name": "SRTV PB",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/srtv-pb.webp?q=70",
+    "stream": "https://v01.taaqui.org/srtv/srtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/srtv-pb.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvl.ks": {
+    "name": "TV Liberdade",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tvl.webp?q=70",
+    "stream": "https://stmv1.srvif.com/washington/washington/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvl.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-jxs.ks": {
+    "name": "TV JXS",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/tv-jxs.webp?q=70&v=3371327cb69e1a22",
+    "stream": "https://stmv7.voxtvhd.com.br/jxstv/jxstv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-jxs.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/drive-channel-tv.ks": {
+    "name": "Drive Channel TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/drive-channel-tv.webp?q=70&v=854ce7fa51d1c58c",
+    "stream": "https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/drive-channel-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/crn-tv.ks": {
+    "name": "CRN TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/crn-tv.webp?q=70&v=0930d58988bbca6f",
+    "stream": "https://stmv7.voxtvhd.com.br/crntv/crntv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/crn-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/mega-one-tv.ks": {
+    "name": "Mega One TV",
+    "group": "WebTV",
+    "logo": "https://img.vidks.net/v3x/l/mega-one-tv.webp?q=70&v=6729ac96a04ae72b",
+    "stream": "https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/mega-one-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/domi-kids.ks": {
+    "name": "Domi Kids",
+    "group": "Infantil",
+    "logo": "https://img.vidks.net/v3x/l/domi-kids.webp?q=70",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=274",
+    "page": "https://www.vidks.net/vid/domi-kids.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/ministerio-infantil-tv.ks": {
+    "name": "Ministério Infantil TV",
+    "group": "Infantil",
+    "logo": "https://img.vidks.net/v3x/l/ministerio-infantil-tv.webp?q=70",
+    "stream": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/ministerio-infantil-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/kuriakos-kids.ks": {
+    "name": "Kuriakos Kids",
+    "group": "Infantil",
+    "logo": "https://img.vidks.net/v3x/l/kuriakos-kids.webp?q=70",
+    "stream": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/kuriakos-kids.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-aberta.ks": {
+    "name": "TV Aberta",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-aberta.webp?q=70",
+    "stream": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-aberta.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-max-rio.ks": {
+    "name": "TV MAX Rio",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-max-rio.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-max-rio.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/awtv.ks": {
+    "name": "AWTV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/awtv.webp?q=70",
+    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "page": "https://www.vidks.net/vid/awtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/caravana-play.ks": {
+    "name": "Caravana Play",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/caravana-play.webp?q=70",
+    "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/caravana-play.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/wording.ks": {
+    "name": "Wording",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/wording.webp?q=70",
+    "stream": "https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/wording.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tcm-10-hd.ks": {
+    "name": "TCM 10 HD",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tcm-10-hd.webp?q=70",
+    "stream": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+    "page": "https://www.vidks.net/vid/tcm-10-hd.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-sonata.ks": {
+    "name": "TV Sonata",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-sonata.webp?q=70",
+    "stream": "https://play.tvsonata.com.br/LiveApp/streams/tvsonata.m3u8",
+    "page": "https://www.vidks.net/vid/tv-sonata.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/istv.ks": {
+    "name": "ISTV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/istv.webp?q=70",
+    "stream": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/istv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/adesso-tv.ks": {
+    "name": "Adesso TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/adesso-tv.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/adesso-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/plena-tv.ks": {
+    "name": "Plena TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/plena-tv.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/plena-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-candides.ks": {
+    "name": "TV Candidés",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-candides.webp?q=70",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-candides.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-ngt.ks": {
+    "name": "Rede NGT",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/rede-ngt.webp?q=70",
+    "stream": "https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8",
+    "page": "https://www.vidks.net/vid/rede-ngt.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/multicanais.ks": {
+    "name": "MultiCanais",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/multicanais.webp?q=70",
+    "stream": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/multicanais.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-alternativa.ks": {
+    "name": "TV Alternativa",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-alternativa.webp?q=70",
+    "stream": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-alternativa.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-aurora.ks": {
+    "name": "Rede Aurora",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/rede-aurora.webp?q=70",
+    "stream": "https://stream.redeauroraplay.com.br/public/index.m3u8",
+    "page": "https://www.vidks.net/vid/rede-aurora.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/yeeaah.ks": {
+    "name": "Polidoro TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/yeeaah.webp?q=70",
+    "stream": "https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/yeeaah.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-one.ks": {
+    "name": "TV One",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-one.webp?q=70",
+    "stream": "https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-one.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/vivax-tv.ks": {
+    "name": "Vivax TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/vivax-tv.webp?q=70",
+    "stream": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/vivax-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-cei.ks": {
+    "name": "TV CEI",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-cei.webp?q=70",
+    "stream": "https://stmv5.samcast.com.br/volmir9123/volmir9123/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-cei.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/meio-norte-tv.ks": {
+    "name": "TV Meio",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/meio-norte-tv.webp?q=70",
+    "stream": "https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/meio-norte-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/viva-webtv.ks": {
+    "name": "Viva WebTV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/viva-webtv.webp?q=70",
+    "stream": "https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/viva-webtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/maisum.ks": {
+    "name": "+MaisUM",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/maisum.webp?q=70",
+    "stream": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+    "page": "https://www.vidks.net/vid/maisum.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-25.ks": {
+    "name": "Canal 25",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/canal-25.webp?q=70",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "page": "https://www.vidks.net/vid/canal-25.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-diario.ks": {
+    "name": "TV Diário",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-diario.webp?q=70",
+    "stream": "https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8",
+    "page": "https://www.vidks.net/vid/tv-diario.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-diario-do-sertao.ks": {
+    "name": "TV Diário do Sertão",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-diario-do-sertao.webp?q=70",
+    "stream": "https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-diario-do-sertao.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-rbc.ks": {
+    "name": "TV RBC",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-rbc.webp?q=70",
+    "stream": "https://stv2.ipstm.net:3511/stream/play.m3u8",
+    "page": "https://www.vidks.net/vid/tv-rbc.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-diversidade.ks": {
+    "name": "TV Diversidade",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-diversidade.webp?q=70",
+    "stream": "https://tv-diversidade.com/live/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-diversidade.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/alpha-channel.ks": {
+    "name": "Alpha Channel",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/alpha-channel.webp?q=70",
+    "stream": "https://isaocorp.cloudecast.com/alphachannel/index.fmp4.m3u8",
+    "page": "https://www.vidks.net/vid/alpha-channel.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/conectv.ks": {
+    "name": "ConecTV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/conectv.webp?q=70",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+    "page": "https://www.vidks.net/vid/conectv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-otimista.ks": {
+    "name": "TV Otimista",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-otimista.webp?q=70",
+    "stream": "https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-otimista.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/elemental-channel.ks": {
+    "name": "Elemental Channel",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/elemental-channel.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/elemental-channel.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-tododia.ks": {
+    "name": "TV TodoDia",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-tododia.webp?q=70",
+    "stream": "https://br5093.streamingdevideo.com.br/dehujsezdd/dehujsezdd/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-tododia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-tv-rio.ks": {
+    "name": "Canal TV Rio",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/canal-tv-rio.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/canal-tv-rio.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/uma-tv.ks": {
+    "name": "UMA TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/uma-tv.webp?q=70",
+    "stream": "https://umatv.nuvemplay.live/hls/stream.m3u8",
+    "page": "https://www.vidks.net/vid/uma-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/guia-tv.ks": {
+    "name": "Guia TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/guia-tv.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/guia-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-cinec.ks": {
+    "name": "TV CINEC",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-cinec.webp?q=70",
+    "stream": "https://video07.logicahost.com.br/tvcinec/tvcinec/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-cinec.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-maceio.ks": {
+    "name": "TV Maceió Agora",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-maceio.webp?q=70",
+    "stream": "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-maceio.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-saude.ks": {
+    "name": "Canal Saúde",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/canal-saude.webp?q=70",
+    "stream": "https://cdn.aws.eitvcloud.com/account351-i1495/event/canalsaude/auto.m3u8",
+    "page": "https://www.vidks.net/vid/canal-saude.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/opiniao-play.ks": {
+    "name": "Opinião Play",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/opiniao-play.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/tvpopular/tvpopular/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/opiniao-play.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/nova-tv-vale.ks": {
+    "name": "Nova TV Vale",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/nova-tv-vale.webp?q=70",
+    "stream": "https://novatvvale.nuvemplay.live/hls/stream.m3u8",
+    "page": "https://www.vidks.net/vid/nova-tv-vale.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-ponta-da-serra.ks": {
+    "name": "TV Ponta da Serra",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-ponta-da-serra.webp?q=70",
+    "stream": "https://fenix.hubcloud.tv.br/PontadaSerra/index.m3u8",
+    "page": "https://www.vidks.net/vid/tv-ponta-da-serra.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-caravelas.ks": {
+    "name": "TV Caravelas",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-caravelas.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-caravelas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-cidade-canal-9.ks": {
+    "name": "TV Cidade",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-cidade-canal-9.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-cidade-canal-9.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-petropolis.ks": {
+    "name": "TV Petrópolis",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-petropolis.webp?q=70",
+    "stream": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-petropolis.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/pop-tv.ks": {
+    "name": "Pop TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/pop-tv.webp?q=70",
+    "stream": "https://rtisoluctions.com.br/hls/test.m3u8",
+    "page": "https://www.vidks.net/vid/pop-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-inforbahia.ks": {
+    "name": "TV InforBahia",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-inforbahia.webp?q=70",
+    "stream": "https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-inforbahia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-brusque.ks": {
+    "name": "TV Brusque",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-brusque.webp?q=70",
+    "stream": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-brusque.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-life-america.ks": {
+    "name": "TV Life América",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-life-america.webp?q=70",
+    "stream": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+    "page": "https://www.vidks.net/vid/tv-life-america.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-tvc.ks": {
+    "name": "Rede TVC",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/rede-tvc.webp?q=70",
+    "stream": "https://srv2.tvmais.net.br/hls/tvcorreio/index.m3u8",
+    "page": "https://www.vidks.net/vid/rede-tvc.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/cbtv-now.ks": {
+    "name": "CBTV Now",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/cbtv-now.webp?q=70",
+    "stream": "https://cbtvnow.com:5866/hls/livest2024_360p/index.m3u8",
+    "page": "https://www.vidks.net/vid/cbtv-now.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/vambora-channel.ks": {
+    "name": "Vambora Channel",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/vambora-channel.webp?q=70",
+    "stream": "https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/vambora-channel.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/unique-tv.ks": {
+    "name": "Unique TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/unique-tv.webp?q=70",
+    "stream": "https://pop.uniquetv.com.br/hls/uniquetv.m3u8",
+    "page": "https://www.vidks.net/vid/unique-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-litoral-rs.ks": {
+    "name": "TV Litoral RS",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-litoral-rs.webp?q=70",
+    "stream": "https://srv2.tvmais.net.br/hls/tvlitoral/index.m3u8",
+    "page": "https://www.vidks.net/vid/tv-litoral-rs.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-verdes-campos-sat.ks": {
+    "name": "TV Verdes Campos",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-verdes-campos-sat.webp?q=70",
+    "stream": "https://a.cdni.live/redeverdes2288/redeverdes2288/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-verdes-campos-sat.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-premium.ks": {
+    "name": "Rede Premium",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/rede-premium.webp?q=70",
+    "stream": "https://stmv2.samcast.com.br/leonardo9878/leonardo9878/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-premium.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-vicosa.ks": {
+    "name": "TV Viçosa",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-vicosa.webp?q=70",
+    "stream": "https://5a2b083e9f360.streamlock.net/fratevitv/fratevitv.sdp/chunklist_w1599899597.m3u8",
+    "page": "https://www.vidks.net/vid/tv-vicosa.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-uniao.ks": {
+    "name": "Rede União",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/rede-uniao.webp?q=70",
+    "stream": "https://pushapp.uniaoplay.com.br/hls/0/stream.m3u8",
+    "page": "https://www.vidks.net/vid/rede-uniao.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-marajoara.ks": {
+    "name": "TV Marajoara",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-marajoara.webp?q=70",
+    "stream": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-marajoara.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/imperial-tv.ks": {
+    "name": "Imperial TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/imperial-tv.webp?q=70",
+    "stream": "https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/imperial-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/zoom.ks": {
+    "name": "TV Zoom",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/zoom.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/zoom.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-ufg.ks": {
+    "name": "TV UFG",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-ufg.webp?q=70",
+    "stream": "https://media-gmcdn.eduplay.rnp.br/live/exSfynp7cIMoEIqHV6mQ5w'''''''1'/CGLdzTh3vYcg/index.m3u8",
+    "page": "https://www.vidks.net/vid/tv-ufg.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-uniao-natal.ks": {
+    "name": "TV União de Natal",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-uniao-natal.webp?q=70",
+    "stream": "https://pushapp.uniaoplay.com.br/hls/stream.m3u8",
+    "page": "https://www.vidks.net/vid/tv-uniao-natal.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-opcao.ks": {
+    "name": "TV Opção",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-opcao.webp?q=70",
+    "stream": "https://stmv8.samcast.com.br/tvopcao/tvopcao/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-opcao.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mar.ks": {
+    "name": "TV Mar",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-mar.webp?q=70",
+    "stream": "https://virtues.live:1936/tvmar/tvmar/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mar.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/3-via-tv.ks": {
+    "name": "Terceira Via TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/3-via-tv.webp?q=70",
+    "stream": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/3-via-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-sete-lagoas.ks": {
+    "name": "TV Sete Lagoas",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-sete-lagoas.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-sete-lagoas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-clic-brasil.ks": {
+    "name": "TV Clic Brasil",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/tv-clic-brasil.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/tvclicbrasil/tvclicbrasil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-clic-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/sbc-tv.ks": {
+    "name": "SBC TV",
+    "group": "Variedades",
+    "logo": "https://img.vidks.net/v3x/l/sbc-tv.webp?q=70&v=c2ff1fa8fce2ddad",
+    "stream": "https://video01.brascast.com/rede1250/rede1250/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/sbc-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tve-rs.ks": {
+    "name": "TVE",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tve-rs.webp?q=70",
+    "stream": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tve-rs.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-metropole.ks": {
+    "name": "TV Metrópole",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tv-metropole.webp?q=70",
+    "stream": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-metropole.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/parana-turismo.ks": {
+    "name": "Paraná Turismo",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/parana-turismo.webp?q=70",
+    "stream": "https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8",
+    "page": "https://www.vidks.net/vid/parana-turismo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-minas.ks": {
+    "name": "Rede Minas",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/rede-minas.webp?q=70",
+    "stream": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-minas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/com-brasil.ks": {
+    "name": "COM Brasil",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/com-brasil.webp?q=70",
+    "stream": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/com-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvbe.ks": {
+    "name": "TV Brasil Esperança",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tvbe.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/junior5083/junior5083/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvbe.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-beltrao.ks": {
+    "name": "TV Beltrão",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tv-beltrao.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-beltrao.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-pocos.ks": {
+    "name": "TV Poços",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tv-pocos.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-pocos.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tbc.ks": {
+    "name": "TV Brasil Central",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tbc.webp?q=70",
+    "stream": "https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tbc.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-altiora.ks": {
+    "name": "TV Altiora",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tv-altiora.webp?q=70",
+    "stream": "https://video01.brascast.com/jonas2239/jonas2239/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-altiora.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-o-povo.ks": {
+    "name": "TV O Povo",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tv-o-povo.webp?q=70",
+    "stream": "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
+    "page": "https://www.vidks.net/vid/tv-o-povo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/futura.ks": {
+    "name": "Futura",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/futura.webp?q=70",
+    "stream": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8",
+    "page": "https://www.vidks.net/vid/futura.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/antv.ks": {
+    "name": "TV Andradas",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/antv.webp?q=70",
+    "stream": "https://spectra.axonglobal.io/start/ax_antv_o8ja/llhls.m3u8",
+    "page": "https://www.vidks.net/vid/antv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-baiana.ks": {
+    "name": "TV Baiana",
+    "group": "Educação",
+    "logo": "https://img.vidks.net/v3x/l/tv-baiana.webp?q=70",
+    "stream": "https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-baiana.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-noticias-agricolas.ks": {
+    "name": "TV Notícias Agrícolas",
+    "group": "Agropecuária",
+    "logo": "https://img.vidks.net/v3x/l/tv-noticias-agricolas.webp?q=70",
+    "stream": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-noticias-agricolas.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-rural.ks": {
+    "name": "Canal Rural",
+    "group": "Agropecuária",
+    "logo": "https://img.vidks.net/v3x/l/canal-rural.webp?q=70",
+    "stream": "https://isaocorp.cloudecast.com/canalrural/index.m3u8",
+    "page": "https://www.vidks.net/vid/canal-rural.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/canal-do-boi.ks": {
+    "name": "Canal do Boi",
+    "group": "Agropecuária",
+    "logo": "https://img.vidks.net/v3x/l/canal-do-boi.webp?q=70",
+    "stream": "https://aovivo.equipea.com.br:5443/aovivort/streams/EbIRyJc8nK6P8Udb1187401937839.m3u8",
+    "page": "https://www.vidks.net/vid/canal-do-boi.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/retro-cartoon.ks": {
+    "name": "Retrô Cartoon",
+    "group": "Desenhos",
+    "logo": "https://img.vidks.net/v3x/l/retro-cartoon.webp?q=70",
+    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/retro-cartoon.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/gln-tv.ks": {
+    "name": "GLN TV",
+    "group": "Desenhos",
+    "logo": "https://img.vidks.net/v3x/l/gln-tv.webp?q=70",
+    "stream": "https://stmv2.srvsh.com.br/gerson8874/gerson8874/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/gln-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/gospel-cartoon.ks": {
+    "name": "Gospel Cartoon",
+    "group": "Desenhos",
+    "logo": "https://img.vidks.net/v3x/l/gospel-cartoon.webp?q=70",
+    "stream": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/gospel-cartoon.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/anime-tv.ks": {
+    "name": "Anime TV",
+    "group": "Desenhos",
+    "logo": "https://img.vidks.net/v3x/l/anime-tv.webp?q=70",
+    "stream": "https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/anime-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/geekdot.ks": {
+    "name": "Geekdot",
+    "group": "Desenhos",
+    "logo": "https://img.vidks.net/v3x/l/geekdot.webp?q=70",
+    "stream": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
+    "page": "https://www.vidks.net/vid/geekdot.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/anime-tv-2.ks": {
+    "name": "Anime TV",
+    "group": "Desenhos",
+    "logo": "https://img.vidks.net/v3x/l/anime-tv-2.webp?q=70&v=611b9118bf02",
+    "stream": "https://stv2.ipstm.net:3326/stream/play.m3u8",
+    "page": "https://www.vidks.net/vid/anime-tv-2.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/fox-kids-webtv.ks": {
+    "name": "Fox Kids WebTV",
+    "group": "Desenhos",
+    "logo": "https://img.vidks.net/v3x/l/fox-kids-webtv.webp?q=70&v=333f9d5e624b7ba6",
+    "stream": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/fox-kids-webtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tvc-panorama.ks": {
+    "name": "TVC Panorama",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/tvc-panorama.webp?q=70",
+    "stream": "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tvc-panorama.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-do-povo.ks": {
+    "name": "TV do Povo",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/tv-do-povo.webp?q=70",
+    "stream": "https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-do-povo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-comunitaria-df.ks": {
+    "name": "TV Comunitária DF",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/tv-comunitaria-df.webp?q=70",
+    "stream": "https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-comunitaria-df.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/play-tv.ks": {
+    "name": "Play TV",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/play-tv.webp?q=70",
+    "stream": "https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8",
+    "page": "https://www.vidks.net/vid/play-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/chroma-tv.ks": {
+    "name": "Chroma TV",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/chroma-tv.webp?q=70",
+    "stream": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/chroma-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/sesc-tv.ks": {
+    "name": "Sesc TV",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/sesc-tv.webp?q=70",
+    "stream": "https://cdn-5.nxplay.com.br/SESC_TV/tracks-v1a1/mono.m3u8",
+    "page": "https://www.vidks.net/vid/sesc-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mais-news.ks": {
+    "name": "TV Mais News",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/tv-mais-news.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/tvmais01/tvmais01/chunklist_w419313643.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mais-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tva.ks": {
+    "name": "TV A Folha",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/tva.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tva.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/stz-tv.ks": {
+    "name": "STZ TV",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/stz-tv.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/stz-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-guassu.ks": {
+    "name": "TV Guassu",
+    "group": "Cultura",
+    "logo": "https://img.vidks.net/v3x/l/tv-guassu.webp?q=70",
+    "stream": "https://video01.brascast.com/globomix1294/globomix1294/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-guassu.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-cidade-bahia.ks": {
+    "name": "TV Cidade Bahia",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-cidade-bahia.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-cidade-bahia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/unitv.ks": {
+    "name": "UniTV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/unitv.webp?q=70",
+    "stream": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8",
+    "page": "https://www.vidks.net/vid/unitv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/poa-news.ks": {
+    "name": "POA News",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/poa-news.webp?q=70",
+    "stream": "https://srv2.tvmais.net.br/hls/tvlitoral/index.m3u8",
+    "page": "https://www.vidks.net/vid/poa-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-correio-do-amanha.ks": {
+    "name": "TV Correio do Amanhã",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-correio-do-amanha.webp?q=70",
+    "stream": "https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-correio-do-amanha.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-capital.ks": {
+    "name": "TV Capital",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-capital.webp?q=70",
+    "stream": "https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-capital.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/vox-tv.ks": {
+    "name": "Vox TV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/vox-tv.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/vox-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-nbt.ks": {
+    "name": "TV NBT",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-nbt.webp?q=70",
+    "stream": "https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-nbt.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-nova-nordeste.ks": {
+    "name": "TV Nova Nordeste",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-nova-nordeste.webp?q=70",
+    "stream": "https://stream.ecast.com.br/nova-tv/index.m3u8",
+    "page": "https://www.vidks.net/vid/tv-nova-nordeste.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/cna.ks": {
+    "name": "Canal Notícias do Araguaia",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/cna.webp?q=70",
+    "stream": "https://stmv1.samcast.com.br/nilsonalmir7713/nilsonalmir7713/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/cna.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rede-utv-brasil.ks": {
+    "name": "Rede UTV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/rede-utv-brasil.webp?q=70",
+    "stream": "https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rede-utv-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/webtv-triangulo.ks": {
+    "name": "WebTV Triângulo",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/webtv-triangulo.webp?q=70",
+    "stream": "https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/webtv-triangulo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-gallo.ks": {
+    "name": "TV Gallo",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-gallo.webp?q=70",
+    "stream": "https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-gallo.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-onix.ks": {
+    "name": "TV Onix",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-onix.webp?q=70",
+    "stream": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-onix.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/38-news.ks": {
+    "name": "38 News",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/38-news.webp?q=70",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/38-news.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rtv-canal-38.ks": {
+    "name": "RTV Canal 38",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/rtv-canal-38.webp?q=70",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rtv-canal-38.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-rio-madeira.ks": {
+    "name": "TV Rio Madeira",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-rio-madeira.webp?q=70",
+    "stream": "https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-rio-madeira.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-grande-natal.ks": {
+    "name": "TV Grande Natal",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-grande-natal.webp?q=70",
+    "stream": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+    "page": "https://www.vidks.net/vid/tv-grande-natal.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/vv8-tv.ks": {
+    "name": "VV8 TV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/vv8-tv.webp?q=70",
+    "stream": "https://video01.brascast.com/seap8272/seap8272/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/vv8-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/lagoa-tv.ks": {
+    "name": "Lagoa TV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/lagoa-tv.webp?q=70",
+    "stream": "https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/lagoa-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/araruna-tv.ks": {
+    "name": "Araruna TV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/araruna-tv.webp?q=70",
+    "stream": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/araruna-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-centro-sul.ks": {
+    "name": "TV Centro Sul",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-centro-sul.webp?q=70",
+    "stream": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-centro-sul.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/o-fato-maringa.ks": {
+    "name": "O Fato Maringá",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/o-fato-maringa.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/o-fato-maringa.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/lavras-webtv-ce.ks": {
+    "name": "Lavras TV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/lavras-webtv-ce.webp?q=70",
+    "stream": "https://stmv1.srvif.com/lavrastv/lavrastv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/lavras-webtv-ce.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-camaragibe-agora.ks": {
+    "name": "TV Camaragibe Agora",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-camaragibe-agora.webp?q=70",
+    "stream": "https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-camaragibe-agora.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mon.ks": {
+    "name": "TV Mon HD",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-mon.webp?q=70",
+    "stream": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mon.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-pantanal-cba.ks": {
+    "name": "TV Pantanal",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-pantanal-cba.webp?q=70",
+    "stream": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-pantanal-cba.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/rwtv.ks": {
+    "name": "Rede Web TV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/rwtv.webp?q=70",
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/rwtv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-plan.ks": {
+    "name": "TV Plan",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-plan.webp?q=70",
+    "stream": "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-plan.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-guarulhos-web.ks": {
+    "name": "TV Gru Web",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-guarulhos-web.webp?q=70",
+    "stream": "https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-guarulhos-web.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mar-rio-grande.ks": {
+    "name": "TV Mar Rio Grande",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-mar-rio-grande.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/tvmarzonasul/tvmarzonasul/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mar-rio-grande.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-tropical-maruda.ks": {
+    "name": "TV Tropical Marudá",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/tv-tropical-maruda.webp?q=70",
+    "stream": "https://v01.taaqui.org/tropicaldemaruda/tropicaldemaruda/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-tropical-maruda.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/caragua-tv.ks": {
+    "name": "Caraguá TV",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/caragua-tv.webp?q=70",
+    "stream": "https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/caragua-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/o-sertao-e-noticia.ks": {
+    "name": "O Sertão é Notícia",
+    "group": "TV Local",
+    "logo": "https://img.vidks.net/v3x/l/o-sertao-e-noticia.webp?q=70&v=2b7f646cc97e6c87",
+    "stream": "https://srv3.zcast.com.br/comunicacao7839/comunicacao7839/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/o-sertao-e-noticia.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/os-jetsons-tv.ks": {
+    "name": "Os Jetsons TV",
+    "group": "24 horas",
+    "logo": "https://img.vidks.net/v3x/l/os-jetsons-tv.webp?q=70",
+    "stream": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/os-jetsons-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tastemade-brasil.ks": {
+    "name": "Tastemade Brasil",
+    "group": "Culinária",
+    "logo": "https://img.vidks.net/v3x/l/tastemade-brasil.webp?q=70",
+    "stream": "https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/cb563f007f707b8f9fcd2167d6f662fba65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ba96852d5e35bdd2e6bd2b2d8623e6359598d495fe6f20baaa9e05a588c3aa6b00149947944fa8b409b8001bcd1870f9d12d57ef916989692dbe938ba576aae9b7d80013a1a4f4897896d96cd1d85ce9b7d3c8f03502c7c7bc7d35e7ad35efc2a6d53eaebc3ff44f216dc8026801a57f160ca09ecb8ed1a29cc5c450e208f9ba6da72ba613f4f5987ea8a8187fe273abe67b481e1d4707d9ef92eb126a366f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a573882642c4fe42bf8883523dc755dcb666b892d5fea75f5b628fab0c8a5576bc7b9e976bf3ebffb5aa8b568cf4a335605bff7562f66446fdfe3634d7d39f44cead7c5f6644b67c8f2def5d45c280d5a46075c6b837bd52739a6865913acc90a1dab98928cf28d0e84ab/150/426x240_511680/index.m3u8",
+    "page": "https://www.vidks.net/vid/tastemade-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-do-carro.ks": {
+    "name": "TV do Carro",
+    "group": "Comércio",
+    "logo": "https://img.vidks.net/v3x/l/tv-do-carro.webp?q=70",
+    "stream": "https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-do-carro.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/tv-mais-pet.ks": {
+    "name": "TV Mais Pet",
+    "group": "Natureza",
+    "logo": "https://img.vidks.net/v3x/l/tv-mais-pet.webp?q=70",
+    "stream": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/tv-mais-pet.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/pet-lovers-tv.ks": {
+    "name": "Pet Lovers TV",
+    "group": "Natureza",
+    "logo": "https://img.vidks.net/v3x/l/pet-lovers-tv.webp?q=70",
+    "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
+    "page": "https://www.vidks.net/vid/pet-lovers-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/western-bound-brasil.ks": {
+    "name": "Western Bound Brasil",
+    "group": "Fast",
+    "logo": "https://img.vidks.net/v3x/l/western-bound-brasil.webp?q=70",
+    "stream": "https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8",
+    "page": "https://www.vidks.net/vid/western-bound-brasil.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/cnn-brasil-money.ks": {
+    "name": "CNN Brasil Money",
+    "group": "Finanças",
+    "logo": "https://img.vidks.net/v3x/l/cnn-brasil-money.webp?q=70",
+    "stream": "https://origin-fast.b-cdn.net/CNN_MONEY/index.m3u8",
+    "page": "https://www.vidks.net/vid/cnn-brasil-money.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/reisen-clube-tv.ks": {
+    "name": "Reisen Clube TV",
+    "group": "Turismo",
+    "logo": "https://img.vidks.net/v3x/l/reisen-clube-tv.webp?q=70",
+    "stream": "https://pop2.uniquetv.com.br/hls/reisenclubetv.m3u8",
+    "page": "https://www.vidks.net/vid/reisen-clube-tv.ks",
+    "falhas": 0
+  },
+  "https://www.vidks.net/vid/40-graus-tv.ks": {
+    "name": "40 Graus TV",
+    "group": "Turismo",
+    "logo": "https://img.vidks.net/v3x/l/40-graus-tv.webp?q=70",
+    "stream": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "page": "https://www.vidks.net/vid/40-graus-tv.ks",
+    "falhas": 0
+  }
+}
