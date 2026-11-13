@@ -1,0 +1,91 @@
+name: Atualizar playlist VidKS
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"      # a cada 6 horas
+  workflow_dispatch:            # permite rodar na mao (aba Actions > Run workflow)
+
+permissions:
+  contents: write               # necessario para dar push
+
+concurrency:
+  group: vidks-playlist
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # historico completo, evita "fetch first" no push
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright aiohttp
+          python -m playwright install --with-deps chromium
+
+      - name: Rodar o scraper
+        env:
+          VIDKS_DEBUG: "1"
+        run: python scraper.py
+
+      # ---------- daqui pra baixo o script NUNCA falha ----------
+      - name: Garantir que os arquivos de saida existam
+        if: always()
+        run: |
+          # estado da lista (contador de falhas por canal)
+          if [ ! -f channels.json ]; then
+            echo '{}' > channels.json
+            echo "channels.json criado vazio (primeira execucao)"
+          fi
+          # playlist
+          if [ ! -f playlist.m3u ]; then
+            printf '#EXTM3U\n# Nenhum canal coletado ainda\n' > playlist.m3u
+            echo "playlist.m3u criada vazia"
+          fi
+
+      - name: Commit e push
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # so marca os arquivos que existem (evita 'did not match any files')
+          ARQS=""
+          for f in playlist.m3u channels.json; do
+            [ -f "$f" ] && ARQS="$ARQS $f"
+          done
+          if [ -z "$ARQS" ]; then
+            echo "Nada para versionar."; exit 0
+          fi
+          git add -- $ARQS
+
+          if git diff --cached --quiet; then
+            echo "Sem mudancas nesta execucao."
+            exit 0
+          fi
+
+          git commit -m "Atualiza playlist VidKS [skip ci]"
+
+          # push com reconciliacao (ate 5 tentativas)
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME:-main}" && \
+               git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
+              echo "Push concluido na tentativa $i"
+              exit 0
+            fi
+            echo "Push falhou (tentativa $i), tentando de novo..."
+            sleep $((i * 5))
+          done
+          echo "Nao foi possivel enviar as mudancas."
+          exit 1
